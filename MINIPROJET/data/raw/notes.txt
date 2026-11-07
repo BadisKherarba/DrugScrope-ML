@@ -1,0 +1,175 @@
+# ==============================================================================
+# DATA INSPECTION & QUALITY REPORT - DRUGSCOPE AI (RAW DATA)
+# Location: data/raw/
+# Date: 2026-11-07
+# ==============================================================================
+
+1- missing data on units in activities
+   - In `activities_raw.csv`, certain entries have missing or inconsistent values in the `units` and `standard_units` fields.
+   - Some measurements report values in `uM` under `units` but are converted to `nM` in `standard_units`.
+   - Action needed: Use `standard_units` and `standard_value` / `pchembl_value` for consistent comparison across assays.
+
+2- Overview of Raw Data Files & Record Counts:
+   - `targets_raw.csv`     : 548 rows, 4 columns (organism, pref_name, target_chembl_id, target_type)
+   - `mechanisms_raw.csv`  : 610 rows, 5 columns (action_type, max_phase, mechanism_of_action, molecule_chembl_id, target_chembl_id)
+   - `molecules_raw.csv`   : 407 rows, 15 columns (chembl_id, name, phase, approval, descriptors, SMILES)
+   - `activities_raw.csv`  : 15,655 rows, 11 columns (assay, molecule, target, pchembl_value, activity types, values)
+   - `indications_raw.csv` : 2,864 rows, 4 columns (efo_term, max_phase_for_ind, mesh_heading, molecule_chembl_id)
+
+3- Molecules Data (`molecules_raw.csv`):
+   - Total Candidate Molecules: 407
+   - Approved Drugs (max_phase = 4.0): 89 molecules
+   - Exploratory / Clinical Trials (max_phase 1.0 - 3.0): 318 molecules
+   - Missing Data:
+     * `first_approval`: 318 missing values (expected for investigational drugs not yet approved).
+     * `name`: some entries only contain clinical developmental codes (e.g. AZD-7624).
+   - Physicochemical Properties Available:
+     * `mol_weight`, `alogp`, `hbd` (hydrogen bond donors), `hba` (hydrogen bond acceptors), `psa` (polar surface area), `rtb` (rotatable bonds), `aromatic_rings`, `ro5_violations`.
+     * Lipinski's Rule of 5 violations range from 0 to 2.
+
+4- Targets Data (`targets_raw.csv`):
+   - All 548 entries are human targets (`organism = Homo sapiens`).
+   - `target_type` is uniformly `SINGLE PROTEIN`.
+   - Selected based on containing the keyword 'kinase' in the target name.
+   - No missing values in target identifiers or preferred names.
+
+5- Mechanisms Data (`mechanisms_raw.csv`):
+   - 610 molecule-target mechanism pairs.
+   - Action types filtered: INHIBITOR, ANTAGONIST, BLOCKER, NEGATIVE ALLOSTERIC MODULATOR.
+   - Some molecules appear multiple times due to polypharmacology (inhibiting multiple kinase targets, e.g., ABL1, SRC, ErbB2).
+
+6- Activities Data (`activities_raw.csv`):
+   - Total rows: 15,655 bioactivity data points.
+   - Types of standard measurements:
+     * `IC50` (Half maximal inhibitory concentration)
+     * `Ki` (Inhibition constant)
+     * `Kd` (Dissociation constant)
+   - `pchembl_value`: Present for all rows (ranging approximately from 4.0 to 11.5, with higher values meaning higher potency).
+   - Known duplicate entries: Multiple independent publications/assays record activity for the same molecule-target pair. Aggregation (e.g., median or mean pChEMBL value) will be necessary during data preprocessing.
+
+7- Indications Data (`indications_raw.csv`):
+   - 2,864 clinical indication records mapped to candidate molecules.
+   - Disease annotations provided via:
+     * `efo_term` (Experimental Factor Ontology term)
+     * `mesh_heading` (Medical Subject Headings)
+   - Missing data observed:
+     * Some rows lack standard MeSH headings or EFO mapping.
+     * High concentration in oncology (non-small cell lung cancer, leukemia, neoplasms, glioblastoma).
+
+8- Summary of Required Cleaning / Preprocessing:
+   - Handle missing units by standardizing on `standard_type`, `standard_value`, and `pchembl_value`.
+   - Standardize SMILES strings (sanitize using RDKit, canonicalize, strip salts).
+   - Group duplicate bioassays by `(molecule_chembl_id, target_chembl_id)` and compute representative summary metrics.
+   - Impute or handle missing physicochemical descriptors where applicable.
+
+###########################################################################
+ DRUGSCOPE AI - FULL DATASET CORRELATION & OUTLIER AUDIT (graph.py)
+ Working Directory: C:\Users\Cous\Desktop\MINIPROJET\data\raw
+###########################################################################
+
+==================================================================
+ DATASET: activities_raw.csv
+==================================================================
+
+======================================================================
+ 1. CORRELATION HEATMAP: activities_raw.csv
+======================================================================
+Correlation Matrix:
+                pchembl_value  standard_value  value
+pchembl_value            1.00           -0.46  -0.43
+standard_value          -0.46            1.00   0.83
+value                   -0.43            0.83   1.00
+
+Strong Feature Correlations (|r| >= 0.70):
+  • standard_value       <---> value                : r = +0.829
+[OK] Saved plot: correlation_activities_raw.png
+
+======================================================================
+ 2. OUTLIER AUDIT (IQR & DOMAIN RULES): activities_raw.csv
+======================================================================
+       Feature  Total  Min      Max    Mean     IQR   1.5x IQR Bounds Mild Outliers (1.5x) Extreme Outliers (3.0x)  Domain Out-of-Range Verdict
+ pchembl_value  15655 4.00     10.8    6.86    1.81       [3.2, 10.4]            19 (0.1%)                0 (0.0%) VALID (No domain violations)
+standard_value  15655 0.02 100000.0 1415.30 1214.00 [-1802.0, 3054.0]         1825 (11.7%)             1022 (6.5%) VALID (No domain violations)
+         value  15655 0.00  99233.0 1161.01  963.20 [-1438.0, 2414.8]         1942 (12.4%)             1125 (7.2%) VALID (No domain violations)
+[OK] Saved plot: outliers_activities_raw.png
+
+==================================================================
+ DATASET: indications_raw.csv
+==================================================================
+
+[Correlation] 'indications_raw.csv' has fewer than 2 numeric features with variance. Skipping heatmap.
+
+======================================================================
+ 2. OUTLIER AUDIT (IQR & DOMAIN RULES): indications_raw.csv
+======================================================================
+          Feature  Total  Min  Max  Mean  IQR 1.5x IQR Bounds Mild Outliers (1.5x) Extreme Outliers (3.0x)  Domain Out-of-Range Verdict
+max_phase_for_ind   2864  0.5  4.0  1.91  1.0     [-0.5, 3.5]           262 (9.1%)                0 (0.0%) VALID (No domain violations)
+[OK] Saved plot: outliers_indications_raw.png
+
+==================================================================
+ DATASET: mechanisms_raw.csv
+==================================================================
+
+[Correlation] 'mechanisms_raw.csv' has fewer than 2 numeric features with variance. Skipping heatmap.
+
+======================================================================
+ 2. OUTLIER AUDIT (IQR & DOMAIN RULES): mechanisms_raw.csv
+======================================================================
+  Feature  Total  Min  Max  Mean  IQR 1.5x IQR Bounds Mild Outliers (1.5x) Extreme Outliers (3.0x)  Domain Out-of-Range Verdict
+max_phase    610    1    4  2.37  3.0     [-3.5, 8.5]             0 (0.0%)                0 (0.0%) VALID (No domain violations)
+[OK] Saved plot: outliers_mechanisms_raw.png
+
+==================================================================
+ DATASET: molecules_raw.csv
+==================================================================
+
+======================================================================
+ 1. CORRELATION HEATMAP: molecules_raw.csv
+======================================================================
+Correlation Matrix:
+                max_phase  first_approval  mol_weight  alogp   hbd   hba   psa   rtb  aromatic_rings  ro5_violations
+max_phase            1.00             NaN        0.12   0.06 -0.05  0.05  0.03  0.01           -0.04            0.03
+first_approval        NaN            1.00        0.00  -0.26 -0.08  0.35  0.33 -0.04            0.19           -0.10
+mol_weight           0.12            0.00        1.00   0.33  0.16  0.44  0.36  0.51            0.17            0.62
+alogp                0.06           -0.26        0.33   1.00 -0.24 -0.17 -0.32  0.12            0.49            0.53
+hbd                 -0.05           -0.08        0.16  -0.24  1.00  0.18  0.66  0.43           -0.15            0.10
+hba                  0.05            0.35        0.44  -0.17  0.18  1.00  0.69  0.49            0.13            0.37
+psa                  0.03            0.33        0.36  -0.32  0.66  0.69  1.00  0.55           -0.01            0.30
+rtb                  0.01           -0.04        0.51   0.12  0.43  0.49  0.55  1.00            0.05            0.49
+aromatic_rings      -0.04            0.19        0.17   0.49 -0.15  0.13 -0.01  0.05            1.00            0.30
+ro5_violations       0.03           -0.10        0.62   0.53  0.10  0.37  0.30  0.49            0.30            1.00
+
+No strong multi-collinearity (|r| >= 0.70) found.
+[OK] Saved plot: correlation_molecules_raw.png
+
+======================================================================
+ 2. OUTLIER AUDIT (IQR & DOMAIN RULES): molecules_raw.csv
+======================================================================
+       Feature  Total     Min     Max    Mean    IQR  1.5x IQR Bounds Mild Outliers (1.5x) Extreme Outliers (3.0x)                              Domain Out-of-Range Verdict
+     max_phase    407    1.00    4.00    2.29   2.00      [-2.0, 6.0]             0 (0.0%)                0 (0.0%)                             VALID (No domain violations)
+first_approval     88 1974.00 2024.00 2016.25   6.50 [2004.0, 2030.0]             4 (4.5%)                2 (2.3%)                             VALID (No domain violations)
+    mol_weight    345  236.36 3823.50  503.35 127.60   [221.0, 731.4]            13 (3.8%)                6 (1.7%) INFO: 2 macromolecule(s) with MW > 1500 Da (max: 3823.5)
+         alogp    343   -2.87   11.17    3.83   2.00      [-0.1, 7.9]             2 (0.6%)                1 (0.3%)                             VALID (No domain violations)
+           hbd    343    0.00   14.00    2.15   1.50      [-0.8, 5.2]             2 (0.6%)                2 (0.6%)                             VALID (No domain violations)
+           hba    343    1.00   14.00    6.76   3.00      [0.5, 12.5]             3 (0.9%)                0 (0.0%)                             VALID (No domain violations)
+           psa    343   12.03  355.24   97.94  30.11    [35.4, 155.8]            10 (2.9%)                3 (0.9%)                             VALID (No domain violations)
+           rtb    343    0.00   22.00    5.82   3.00     [-0.5, 11.5]             5 (1.5%)                2 (0.6%)                             VALID (No domain violations)
+aromatic_rings    343    0.00    8.00    3.38   1.00       [1.5, 5.5]            14 (4.1%)                1 (0.3%)                             VALID (No domain violations)
+ro5_violations    343    0.00    3.00    0.58   1.00      [-1.5, 2.5]             3 (0.9%)                0 (0.0%)                             VALID (No domain violations)
+[OK] Saved plot: outliers_molecules_raw.png
+
+==================================================================
+ DATASET: targets_raw.csv
+==================================================================
+
+[Correlation] 'targets_raw.csv' has fewer than 2 numeric features with variance. Skipping heatmap.
+
+###########################################################################
+ SUMMARY CONCLUSION:
+  - Statistical Outliers (data points beyond 1.5x or 3.0x IQR) are normal in
+    biomedical datasets (e.g. high molecular weight drugs, highly potent IC50).
+  - Domain Out-of-Range Outliers (physically impossible values like negative MW,
+    negative activity, or invalid phases) are flagged above under 'Domain Verdict'.
+  - All results and tables have been recorded in data/raw/notes.txt
+###########################################################################
+

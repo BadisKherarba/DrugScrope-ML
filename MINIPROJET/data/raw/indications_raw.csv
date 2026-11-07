@@ -1,0 +1,2865 @@
+efo_term,max_phase_for_ind,mesh_heading,molecule_chembl_id
+non-small cell lung carcinoma,4.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL2105712
+glioblastoma multiforme,2.0,Glioblastoma,CHEMBL288441
+neoplasm,3.0,Neoplasms,CHEMBL288441
+chronic lymphocytic leukemia,2.0,"Leukemia, Lymphocytic, Chronic, B-Cell",CHEMBL1421
+leukemia,3.0,Leukemia,CHEMBL1421
+multiple myeloma,2.0,Multiple Myeloma,CHEMBL1421
+non-Hodgkins lymphoma,1.0,"Lymphoma, Non-Hodgkin",CHEMBL1421
+non-small cell lung carcinoma,2.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL1421
+pancreatic carcinoma,2.0,Pancreatic Neoplasms,CHEMBL1421
+squamous cell lung carcinoma,2.0,"Carcinoma, Squamous Cell",CHEMBL1421
+chronic myelogenous leukemia,4.0,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",CHEMBL1642
+plexiform neurofibroma,2.0,"Neurofibroma, Plexiform",CHEMBL1642
+polycythemia vera,2.0,Polycythemia Vera,CHEMBL1642
+pulmonary arterial hypertension,3.0,"Hypertension, Pulmonary",CHEMBL1642
+breast carcinoma,4.0,Breast Neoplasms,CHEMBL1201179
+sarcoma,4.0,Sarcoma,CHEMBL1201733
+colorectal adenocarcinoma,4.0,Colorectal Neoplasms,CHEMBL1946170
+adenocarcinoma,2.0,Adenocarcinoma,CHEMBL1201585
+breast carcinoma,4.0,Breast Neoplasms,CHEMBL1201585
+carcinoma,2.0,Carcinoma,CHEMBL1201585
+chronic myelogenous leukemia,4.0,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",CHEMBL1421
+acute lymphoblastic leukemia,4.0,Precursor Cell Lymphoblastic Leukemia-Lymphoma,CHEMBL1642
+leukemia,3.0,Leukemia,CHEMBL1642
+sarcoma,3.0,Sarcoma,CHEMBL1642
+small cell lung carcinoma,2.0,Small Cell Lung Carcinoma,CHEMBL1642
+systemic scleroderma,2.0,"Scleroderma, Systemic",CHEMBL1642
+adenoid cystic carcinoma,2.0,"Carcinoma, Adenoid Cystic",CHEMBL1946170
+bile duct carcinoma,2.0,Bile Duct Neoplasms,CHEMBL1946170
+pancreatic carcinoma,2.0,Pancreatic Neoplasms,CHEMBL1946170
+sarcoma,2.0,Sarcoma,CHEMBL1946170
+neoplasm,4.0,Neoplasms,CHEMBL1201585
+chronic myelogenous leukemia,3.0,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",CHEMBL288441
+melanoma,2.0,Melanoma,CHEMBL1642
+hepatocellular carcinoma,3.0,"Carcinoma, Hepatocellular",CHEMBL1946170
+acute lymphoblastic leukemia,4.0,Precursor Cell Lymphoblastic Leukemia-Lymphoma,CHEMBL1421
+glioblastoma multiforme,2.0,Glioblastoma,CHEMBL1421
+metastatic melanoma,2.0,Melanoma,CHEMBL1421
+malignant peripheral nerve sheath tumor,2.0,Neurilemmoma,CHEMBL1642
+breast carcinoma,4.0,Breast Neoplasms,CHEMBL2007641
+cholangiocarcinoma,2.0,Cholangiocarcinoma,CHEMBL1946170
+neoplasm,4.0,Neoplasms,CHEMBL1946170
+acute myeloid leukemia,3.0,"Leukemia, Myeloid, Acute",CHEMBL1421
+malignant pleural mesothelioma,2.0,Mesothelioma,CHEMBL1421
+neoplasm,4.0,Neoplasms,CHEMBL1421
+prostate carcinoma,2.0,Prostatic Neoplasms,CHEMBL1201733
+diffuse large B-cell lymphoma,2.0,"Lymphoma, Large B-Cell, Diffuse",CHEMBL1421
+non-small cell lung carcinoma,2.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL1201585
+melanoma,2.0,Melanoma,CHEMBL1421
+mesothelioma,2.0,Mesothelioma,CHEMBL1421
+polycythemia vera,2.0,Polycythemia Vera,CHEMBL1421
+breast neoplasm,4.0,Breast Neoplasms,CHEMBL1201585
+ovarian neoplasm,2.0,Ovarian Neoplasms,CHEMBL1946170
+breast neoplasm,2.0,Breast Neoplasms,CHEMBL1421
+breast neoplasm,4.0,Breast Neoplasms,CHEMBL2007641
+neoplasm,4.0,Neoplasms,CHEMBL2007641
+carcinoma,2.0,Carcinoma,CHEMBL1642
+cutaneous melanoma,2.0,Melanoma,CHEMBL1201733
+lymphoma,2.0,Lymphoma,CHEMBL1421
+small cell lung carcinoma,2.0,Small Cell Lung Carcinoma,CHEMBL1421
+male breast carcinoma,2.0,"Breast Neoplasms, Male",CHEMBL1201733
+mesothelioma,2.0,Mesothelioma,CHEMBL1201733
+male breast carcinoma,3.0,"Breast Neoplasms, Male",CHEMBL1201179
+prostate adenocarcinoma,3.0,Prostatic Neoplasms,CHEMBL1421
+non-small cell lung carcinoma,2.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL2007641
+cholangiocarcinoma,2.0,Cholangiocarcinoma,CHEMBL1421
+chondrosarcoma,2.0,Chondrosarcoma,CHEMBL1642
+leukemia,2.0,Leukemia,CHEMBL288441
+clear cell renal carcinoma,4.0,"Carcinoma, Renal Cell",CHEMBL1201733
+melanoma,2.0,Melanoma,CHEMBL1946170
+male breast carcinoma,2.0,"Breast Neoplasms, Male",CHEMBL1642
+ovarian carcinoma,2.0,Ovarian Neoplasms,CHEMBL1946170
+chronic myelogenous leukemia,4.0,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",CHEMBL1201740
+renal cell carcinoma,4.0,"Carcinoma, Renal Cell",CHEMBL1201733
+rectum cancer,2.0,Rectal Neoplasms,CHEMBL1946170
+neoplasm,1.0,Neoplasms,CHEMBL1201733
+neoplasm,2.0,Neoplasms,CHEMBL1642
+breast neoplasm,4.0,Breast Neoplasms,CHEMBL1201179
+Hypereosinophilic syndrome,4.0,Hypereosinophilic Syndrome,CHEMBL1642
+Merkel cell skin cancer,2.0,"Carcinoma, Merkel Cell",CHEMBL1642
+gliosarcoma,2.0,Gliosarcoma,CHEMBL1201733
+chronic kidney disease,2.0,"Renal Insufficiency, Chronic",CHEMBL1421
+glioblastoma multiforme,2.0,Glioblastoma,CHEMBL1946170
+gliosarcoma,2.0,Gliosarcoma,CHEMBL1421
+chronic obstructive pulmonary disease,2.0,"Pulmonary Disease, Chronic Obstructive",CHEMBL9960
+neoplasm,1.0,Neoplasms,CHEMBL1645462
+inflammation,1.0,Inflammation,CHEMBL9960
+acute myeloid leukemia,1.0,"Leukemia, Myeloid, Acute",CHEMBL1946170
+liposarcoma,2.0,Liposarcoma,CHEMBL1946170
+osteosarcoma,2.0,Osteosarcoma,CHEMBL1946170
+renal cell carcinoma,2.0,"Carcinoma, Renal Cell",CHEMBL1946170
+small cell lung carcinoma,1.0,Small Cell Lung Carcinoma,CHEMBL1946170
+angiosarcoma,2.0,Hemangiosarcoma,CHEMBL1946170
+colorectal neoplasm,4.0,Colorectal Neoplasms,CHEMBL1946170
+colorectal carcinoma,4.0,Colorectal Neoplasms,CHEMBL1946170
+lymphoma,1.0,Lymphoma,CHEMBL1201179
+neoplasm,1.0,Neoplasms,CHEMBL1201179
+pancreatic carcinoma,2.0,Pancreatic Neoplasms,CHEMBL1201179
+thyroid carcinoma,1.0,Thyroid Neoplasms,CHEMBL1201179
+head and neck malignant neoplasia,1.0,Head and Neck Neoplasms,CHEMBL1201179
+gliosarcoma,2.0,Gliosarcoma,CHEMBL1201179
+endometrial carcinoma,2.0,Endometrial Neoplasms,CHEMBL1201179
+acute myeloid leukemia,2.0,"Leukemia, Myeloid, Acute",CHEMBL1642
+cutaneous melanoma,2.0,Melanoma,CHEMBL1642
+gastric adenocarcinoma,2.0,Stomach Neoplasms,CHEMBL1642
+glioblastoma multiforme,3.0,Glioblastoma,CHEMBL1642
+lymphoma,2.0,Lymphoma,CHEMBL1642
+mesothelioma,2.0,Mesothelioma,CHEMBL1642
+prostate adenocarcinoma,1.0,Prostatic Neoplasms,CHEMBL1642
+idiopathic pulmonary fibrosis,2.0,Idiopathic Pulmonary Fibrosis,CHEMBL1642
+synovial sarcoma,1.0,"Sarcoma, Synovial",CHEMBL1642
+primary myelofibrosis,1.0,Primary Myelofibrosis,CHEMBL1642
+pancreatic carcinoma,2.0,Pancreatic Neoplasms,CHEMBL1642
+non-small cell lung carcinoma,2.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL1642
+lymphoid leukemia,3.0,"Leukemia, Lymphoid",CHEMBL1642
+non-Hodgkins lymphoma,2.0,"Lymphoma, Non-Hodgkin",CHEMBL1642
+head and neck malignant neoplasia,2.0,Head and Neck Neoplasms,CHEMBL1642
+localised scleroderma,2.0,"Scleroderma, Localized",CHEMBL1642
+gliosarcoma,2.0,Gliosarcoma,CHEMBL1642
+nephrogenic fibrosing dermopathy,3.0,Nephrogenic Fibrosing Dermopathy,CHEMBL1642
+scleroderma,2.0,"Scleroderma, Localized",CHEMBL1642
+psoriasis,2.0,Psoriasis,CHEMBL103667
+rheumatoid arthritis,2.0,"Arthritis, Rheumatoid",CHEMBL103667
+pancreatic carcinoma,2.0,Pancreatic Neoplasms,CHEMBL2007641
+esophageal carcinoma,3.0,Esophageal Neoplasms,CHEMBL2007641
+male breast carcinoma,1.0,"Breast Neoplasms, Male",CHEMBL2007641
+inflammatory breast carcinoma,3.0,Inflammatory Breast Neoplasms,CHEMBL2007641
+breast carcinoma,2.0,Breast Neoplasms,CHEMBL288441
+pancreatic carcinoma,1.0,Pancreatic Neoplasms,CHEMBL288441
+Autosomal dominant polycystic kidney disease,2.0,"Polycystic Kidney, Autosomal Dominant",CHEMBL288441
+Dementia,1.0,Dementia,CHEMBL288441
+head and neck squamous cell carcinoma,2.0,"Carcinoma, Squamous Cell",CHEMBL1421
+Hodgkins lymphoma,1.0,Hodgkin Disease,CHEMBL1421
+MALT lymphoma,1.0,"Lymphoma, B-Cell, Marginal Zone",CHEMBL1421
+metastatic prostate cancer,3.0,Prostatic Neoplasms,CHEMBL1421
+myelodysplastic syndrome,1.0,Myelodysplastic Syndromes,CHEMBL1421
+angioimmunoblastic T-cell lymphoma,1.0,Immunoblastic Lymphadenopathy,CHEMBL1421
+Burkitts lymphoma,1.0,Burkitt Lymphoma,CHEMBL1421
+cutaneous melanoma,2.0,Melanoma,CHEMBL1421
+neuroblastoma,2.0,Neuroblastoma,CHEMBL1421
+idiopathic pulmonary fibrosis,1.0,Idiopathic Pulmonary Fibrosis,CHEMBL1421
+rhabdomyosarcoma,1.0,Rhabdomyosarcoma,CHEMBL1421
+anaplastic large cell lymphoma,1.0,"Lymphoma, Large-Cell, Anaplastic",CHEMBL1421
+lymphoid leukemia,3.0,"Leukemia, Lymphoid",CHEMBL1421
+head and neck malignant neoplasia,1.0,Head and Neck Neoplasms,CHEMBL1421
+Pineoblastoma,2.0,Pinealoma,CHEMBL1421
+Sezary's disease,1.0,Sezary Syndrome,CHEMBL1421
+mycosis fungoides,1.0,Mycosis Fungoides,CHEMBL1421
+Mantle cell lymphoma,1.0,"Lymphoma, Mantle-Cell",CHEMBL1421
+scleroderma,1.0,"Scleroderma, Localized",CHEMBL1421
+chromophobe renal cell carcinoma,4.0,"Carcinoma, Renal Cell",CHEMBL1201733
+follicular thyroid carcinoma,1.0,"Adenocarcinoma, Follicular",CHEMBL1201733
+papillary renal cell carcinoma,4.0,"Carcinoma, Renal Cell",CHEMBL1201733
+papillary thyroid carcinoma,1.0,Thyroid Neoplasms,CHEMBL1201733
+collecting duct carcinoma,4.0,"Carcinoma, Renal Cell",CHEMBL1201733
+angiosarcoma,3.0,Hemangiosarcoma,CHEMBL1201733
+acute myeloid leukemia,2.0,"Leukemia, Myeloid, Acute",CHEMBL1201585
+follicular thyroid carcinoma,1.0,"Adenocarcinoma, Follicular",CHEMBL1201585
+gastric adenocarcinoma,4.0,Stomach Neoplasms,CHEMBL1201585
+insulinoma,1.0,Insulinoma,CHEMBL1201585
+leukemia,2.0,Leukemia,CHEMBL1201585
+osteosarcoma,2.0,Osteosarcoma,CHEMBL1201585
+papillary thyroid carcinoma,1.0,Thyroid Neoplasms,CHEMBL1201585
+sarcoma,2.0,Sarcoma,CHEMBL1201585
+pancreatic carcinoma,2.0,Pancreatic Neoplasms,CHEMBL1201585
+esophageal carcinoma,3.0,Esophageal Neoplasms,CHEMBL1201585
+urogenital neoplasm,2.0,Urogenital Neoplasms,CHEMBL1201585
+stomach neoplasm,4.0,Stomach Neoplasms,CHEMBL1201585
+brain disease,3.0,Brain Diseases,CHEMBL1201585
+non-Hodgkins lymphoma,1.0,"Lymphoma, Non-Hodgkin",CHEMBL1201585
+head and neck malignant neoplasia,2.0,Head and Neck Neoplasms,CHEMBL1201585
+male breast carcinoma,3.0,"Breast Neoplasms, Male",CHEMBL1201585
+ependymoma,1.0,Ependymoma,CHEMBL1201585
+inflammatory breast carcinoma,3.0,Inflammatory Breast Neoplasms,CHEMBL1201585
+somatostatinoma,1.0,Somatostatinoma,CHEMBL1201585
+endometrial carcinoma,2.0,Endometrial Neoplasms,CHEMBL1201585
+systemic scleroderma,2.0,"Scleroderma, Systemic",CHEMBL1201740
+acute lymphoblastic leukemia,1.0,Precursor Cell Lymphoblastic Leukemia-Lymphoma,CHEMBL4208229
+chronic myelogenous leukemia,3.0,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",CHEMBL4208229
+neoplasm,4.0,Neoplasms,CHEMBL4208229
+myelodysplastic syndrome,1.0,Myelodysplastic Syndromes,CHEMBL3991932
+neoplasm,1.0,Neoplasms,CHEMBL5314408
+cutaneous melanoma,2.0,Melanoma,CHEMBL1946170
+macular degeneration,2.0,Macular Degeneration,CHEMBL1946170
+metastasis,2.0,Neoplasm Metastasis,CHEMBL2007641
+mesothelioma,1.0,Mesothelioma,CHEMBL288441
+non-small cell lung carcinoma,1.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL288441
+Thymoma,1.0,Thymoma,CHEMBL288441
+brain neoplasm,2.0,Brain Neoplasms,CHEMBL1421
+Waldenstrom macroglobulinemia,1.0,Waldenstrom Macroglobulinemia,CHEMBL1421
+soft tissue sarcoma,4.0,Sarcoma,CHEMBL1201733
+Hodgkins lymphoma,1.0,Hodgkin Disease,CHEMBL1201585
+pleural effusion,1.0,Pleural Effusion,CHEMBL1201585
+metastasis,2.0,Neoplasm Metastasis,CHEMBL1201585
+adrenal cortex carcinoma,1.0,Adrenal Cortex Neoplasms,CHEMBL1201585
+mycosis fungoides,1.0,Mycosis Fungoides,CHEMBL1201585
+colon adenocarcinoma,2.0,"Pulmonary Disease, Chronic Obstructive",CHEMBL1946170
+soft tissue sarcoma,2.0,Sarcoma,CHEMBL1946170
+gastric cancer,2.0,Stomach Neoplasms,CHEMBL1946170
+thyroid cancer,2.0,Thyroid Neoplasms,CHEMBL1946170
+fallopian tube cancer,2.0,Fallopian Tube Neoplasms,CHEMBL1946170
+esophageal cancer,3.0,Esophageal Neoplasms,CHEMBL1946170
+ovarian cancer,2.0,Ovarian Neoplasms,CHEMBL1946170
+malignant colon neoplasm,3.0,Colonic Neoplasms,CHEMBL1946170
+hypopharyngeal carcinoma,2.0,Hypopharyngeal Neoplasms,CHEMBL1201179
+Central Nervous System Neoplasm,1.0,Central Nervous System Neoplasms,CHEMBL1201179
+urinary bladder cancer,2.0,Urinary Bladder Neoplasms,CHEMBL1201179
+breast cancer,4.0,Breast Neoplasms,CHEMBL1201179
+prostate cancer,2.0,"Prostatic Neoplasms, Castration-Resistant",CHEMBL1201179
+oropharyngeal carcinoma,2.0,Oropharyngeal Neoplasms,CHEMBL1201179
+T-cell acute lymphoblastic leukemia,3.0,"Leukemia, Biphenotypic, Acute",CHEMBL1642
+chronic myeloproliferative disorder,2.0,Myeloproliferative Disorders,CHEMBL1642
+Central Nervous System Neoplasm,2.0,Central Nervous System Neoplasms,CHEMBL1642
+Uterine Carcinosarcoma,2.0,Retroviridae Infections,CHEMBL1642
+rectum cancer,2.0,Rectal Neoplasms,CHEMBL1642
+Eosinophilia,2.0,Eosinophilia,CHEMBL1642
+childhood acute lymphoblastic leukemia,4.0,Precursor Cell Lymphoblastic Leukemia-Lymphoma,CHEMBL1642
+lymphoblastic lymphoma,4.0,Precursor Cell Lymphoblastic Leukemia-Lymphoma,CHEMBL1642
+gastric cancer,2.0,Stomach Neoplasms,CHEMBL1642
+peritoneum cancer,2.0,Peritoneal Neoplasms,CHEMBL1642
+thyroid cancer,1.0,Thyroid Neoplasms,CHEMBL1642
+fallopian tube cancer,2.0,Fallopian Tube Neoplasms,CHEMBL1642
+kidney cancer,2.0,Kidney Neoplasms,CHEMBL1642
+uterine cancer,1.0,Uterine Neoplasms,CHEMBL1642
+pulmonary hypertension,3.0,"Hypertension, Pulmonary",CHEMBL1642
+breast cancer,2.0,Breast Neoplasms,CHEMBL1642
+ovarian cancer,2.0,Ovarian Neoplasms,CHEMBL1642
+prostate cancer,2.0,"Prostatic Neoplasms, Castration-Resistant",CHEMBL1642
+lung cancer,2.0,Lung Neoplasms,CHEMBL1642
+endometrial cancer,1.0,Endometrial Neoplasms,CHEMBL1642
+graft versus host disease,2.0,Graft vs Host Disease,CHEMBL1642
+malignant colon neoplasm,2.0,Colonic Neoplasms,CHEMBL1642
+T-lymphoblastic lymphoma,2.0,Precursor T-Cell Lymphoblastic Leukemia-Lymphoma,CHEMBL1642
+colorectal adenocarcinoma,2.0,Colorectal Neoplasms,CHEMBL2007641
+angiosarcoma,2.0,Hemangiosarcoma,CHEMBL2007641
+rectum cancer,1.0,Rectal Neoplasms,CHEMBL2007641
+gastric cancer,3.0,Stomach Neoplasms,CHEMBL2007641
+peritoneum cancer,2.0,Peritoneal Neoplasms,CHEMBL2007641
+neuroendocrine carcinoma,2.0,"Carcinoma, Neuroendocrine",CHEMBL2007641
+fallopian tube cancer,2.0,Fallopian Tube Neoplasms,CHEMBL2007641
+breast cancer,4.0,Breast Neoplasms,CHEMBL2007641
+ovarian cancer,3.0,Ovarian Neoplasms,CHEMBL2007641
+prostate cancer,2.0,"Prostatic Neoplasms, Castration-Resistant",CHEMBL2007641
+malignant colon neoplasm,1.0,Colonic Neoplasms,CHEMBL2007641
+"Blast Phase Chronic Myelogenous Leukemia, BCR-ABL1 Positive",1.0,Blast Crisis,CHEMBL288441
+urinary bladder cancer,1.0,Urinary Bladder Neoplasms,CHEMBL288441
+peritoneum cancer,1.0,Peritoneal Neoplasms,CHEMBL288441
+thymus cancer,1.0,Thymus Neoplasms,CHEMBL288441
+cervical cancer,1.0,Uterine Cervical Neoplasms,CHEMBL288441
+breast cancer,2.0,Breast Neoplasms,CHEMBL288441
+ovarian cancer,1.0,Ovarian Neoplasms,CHEMBL288441
+diffuse intrinsic pontine glioma,2.0,Diffuse Intrinsic Pontine Glioma,CHEMBL1421
+Central Nervous System Neoplasm,1.0,Central Nervous System Neoplasms,CHEMBL1421
+rectum cancer,2.0,Rectal Neoplasms,CHEMBL1421
+childhood acute lymphoblastic leukemia,4.0,Precursor Cell Lymphoblastic Leukemia-Lymphoma,CHEMBL1421
+lymphoblastic lymphoma,4.0,Precursor Cell Lymphoblastic Leukemia-Lymphoma,CHEMBL1421
+peritoneum cancer,1.0,Peritoneal Neoplasms,CHEMBL1421
+fallopian tube cancer,1.0,Fallopian Tube Neoplasms,CHEMBL1421
+salivary gland adenoid cystic carcinoma,2.0,"Carcinoma, Adenoid Cystic",CHEMBL1421
+myeloid leukemia,1.0,"Leukemia, Myeloid",CHEMBL1421
+breast cancer,2.0,Breast Neoplasms,CHEMBL1421
+ovarian cancer,1.0,Ovarian Neoplasms,CHEMBL1421
+prostate cancer,2.0,"Prostatic Neoplasms, Castration-Resistant",CHEMBL1421
+lung cancer,2.0,Lung Neoplasms,CHEMBL1421
+endometrial cancer,0.5,Endometrial Neoplasms,CHEMBL1421
+systemic mastocytosis,2.0,"Mastocytosis, Systemic",CHEMBL1421
+follicular lymphoma,1.0,"Lymphoma, Follicular",CHEMBL1421
+T-cell large granular lymphocyte leukemia,1.0,"Leukemia, Large Granular Lymphocytic",CHEMBL1421
+adult T-cell leukemia/lymphoma,1.0,"Leukemia-Lymphoma, Adult T-Cell",CHEMBL1421
+extranodal nasal NK/T cell lymphoma,1.0,"Granuloma, Lethal Midline",CHEMBL1421
+malignant colon neoplasm,2.0,Colonic Neoplasms,CHEMBL1421
+Uterine Carcinosarcoma,2.0,Retroviridae Infections,CHEMBL1201733
+urinary bladder cancer,2.0,Urinary Bladder Neoplasms,CHEMBL1201733
+peritoneum cancer,1.0,Peritoneal Neoplasms,CHEMBL1201733
+fallopian tube cancer,1.0,Fallopian Tube Neoplasms,CHEMBL1201733
+urethra cancer,2.0,Urethral Neoplasms,CHEMBL1201733
+breast cancer,2.0,Breast Neoplasms,CHEMBL1201733
+ovarian cancer,1.0,Ovarian Neoplasms,CHEMBL1201733
+prostate cancer,2.0,"Prostatic Neoplasms, Castration-Resistant",CHEMBL1201733
+lung cancer,2.0,Lung Neoplasms,CHEMBL1201733
+medullary thyroid gland carcinoma,2.0,"Carcinoma, Medullary",CHEMBL1201733
+breast ductal carcinoma in situ,3.0,"Carcinoma, Intraductal, Noninfiltrating",CHEMBL1201585
+angiosarcoma,2.0,Hemangiosarcoma,CHEMBL1201585
+cholangiocarcinoma,2.0,Cholangiocarcinoma,CHEMBL1201585
+breast ductal adenocarcinoma,2.0,"Carcinoma, Ductal",CHEMBL1201585
+gastric cancer,4.0,Stomach Neoplasms,CHEMBL1201585
+urinary bladder cancer,2.0,Urinary Bladder Neoplasms,CHEMBL1201585
+pericardial effusion,1.0,Pericardial Effusion,CHEMBL1201585
+vaginal cancer,1.0,Vaginal Neoplasms,CHEMBL1201585
+vulva cancer,1.0,Vulvar Neoplasms,CHEMBL1201585
+anus cancer,1.0,Anus Neoplasms,CHEMBL1201585
+peritoneum cancer,1.0,Peritoneal Neoplasms,CHEMBL1201585
+fallopian tube cancer,1.0,Fallopian Tube Neoplasms,CHEMBL1201585
+cervical cancer,1.0,Uterine Cervical Neoplasms,CHEMBL1201585
+appendix carcinoma,1.0,Appendiceal Neoplasms,CHEMBL1201585
+malignant testicular germ cell tumor,1.0,Testicular Neoplasms,CHEMBL1201585
+urethra cancer,2.0,Urethral Neoplasms,CHEMBL1201585
+salivary gland cancer,2.0,Salivary Gland Neoplasms,CHEMBL1201585
+gallbladder cancer,2.0,Gallbladder Neoplasms,CHEMBL1201585
+breast cancer,4.0,Breast Neoplasms,CHEMBL1201585
+esophageal cancer,3.0,Esophageal Neoplasms,CHEMBL1201585
+ovarian cancer,2.0,Ovarian Neoplasms,CHEMBL1201585
+prostate cancer,2.0,"Prostatic Neoplasms, Castration-Resistant",CHEMBL1201585
+lung cancer,2.0,Lung Neoplasms,CHEMBL1201585
+endometrial cancer,2.0,Endometrial Neoplasms,CHEMBL1201585
+malignant tumor of parathyroid gland,1.0,Parathyroid Neoplasms,CHEMBL1201585
+oropharyngeal carcinoma,1.0,Oropharyngeal Neoplasms,CHEMBL1201585
+breast cancer,1.0,Breast Neoplasms,CHEMBL1201740
+kidney disease,1.0,Kidney Diseases,CHEMBL4208229
+multiple myeloma,2.0,Multiple Myeloma,CHEMBL2105712
+biliary tract cancer,2.0,Biliary Tract Neoplasms,CHEMBL1946170
+laryngeal squamous cell carcinoma,2.0,Squamous Cell Carcinoma of Head and Neck,CHEMBL1201179
+childhood cancer,4.0,Neoplasms,CHEMBL1421
+malignant glioma,2.0,Glioma,CHEMBL1421
+laryngeal squamous cell carcinoma,2.0,Squamous Cell Carcinoma of Head and Neck,CHEMBL1201585
+biliary tract cancer,3.0,Biliary Tract Neoplasms,CHEMBL1201585
+lung cancer,2.0,Lung Neoplasms,CHEMBL1947204
+B-cell acute lymphoblastic leukemia,3.0,"Leukemia, Biphenotypic, Acute",CHEMBL1642
+skin neoplasm,2.0,Skin Neoplasms,CHEMBL1642
+Desmoid-type fibromatosis,2.0,Desmoid Tumors,CHEMBL1642
+brain disease,2.0,Brain Diseases,CHEMBL1421
+COVID-19,2.0,Severe Acute Respiratory Syndrome,CHEMBL1421
+skin disease,1.0,Skin Diseases,CHEMBL1201585
+digestive system neoplasm,2.0,Digestive System Neoplasms,CHEMBL1201585
+gastrointestinal stromal tumor,3.0,Gastrointestinal Stromal Tumors,CHEMBL1946170
+urinary bladder carcinoma,2.0,Urinary Bladder Neoplasms,CHEMBL1201179
+loiasis,2.0,Loiasis,CHEMBL1642
+asthma,2.0,Asthma,CHEMBL1642
+type 1 diabetes mellitus,2.0,"Diabetes Mellitus, Type 1",CHEMBL1642
+multiple sclerosis,2.0,Multiple Sclerosis,CHEMBL1642
+pulmonary venoocclusive disease,1.0,Pulmonary Veno-Occlusive Disease,CHEMBL1642
+sickle cell anemia,1.0,"Anemia, Sickle Cell",CHEMBL1642
+lymphangioleiomyomatosis,1.0,Lymphangioleiomyomatosis,CHEMBL1642
+gastrointestinal stromal tumor,4.0,Gastrointestinal Stromal Tumors,CHEMBL1642
+dermatofibrosarcoma protuberans,4.0,Dermatofibrosarcoma,CHEMBL1642
+malignant epithelial tumor of ovary,2.0,"Carcinoma, Ovarian Epithelial",CHEMBL1642
+neurofibromatosis type 1,2.0,Neurofibromatosis 1,CHEMBL1642
+amyotrophic lateral sclerosis,1.0,Amyotrophic Lateral Sclerosis,CHEMBL288441
+breast carcinoma,2.0,Breast Neoplasms,CHEMBL1421
+Alzheimer disease,1.0,Alzheimer Disease,CHEMBL1421
+gastrointestinal stromal tumor,2.0,Gastrointestinal Stromal Tumors,CHEMBL1421
+urinary bladder carcinoma,2.0,Urinary Bladder Neoplasms,CHEMBL1201733
+von Hippel-Lindau disease,2.0,von Hippel-Lindau Disease,CHEMBL1201733
+colorectal neoplasm,3.0,Colorectal Neoplasms,CHEMBL1201585
+triple-negative breast cancer,2.0,Triple Negative Breast Neoplasms,CHEMBL1201585
+esophageal squamous cell carcinoma,3.0,Esophageal Neoplasms,CHEMBL1201585
+salivary gland carcinoma,2.0,Salivary Gland Neoplasms,CHEMBL1201585
+urinary bladder carcinoma,2.0,Urinary Bladder Neoplasms,CHEMBL1201585
+malignant epithelial tumor of ovary,1.0,"Carcinoma, Ovarian Epithelial",CHEMBL1201585
+Parkinson disease,2.0,Parkinson Disease,CHEMBL1201740
+biliary tract cancer,1.0,Biliary Tract Neoplasms,CHEMBL4208229
+asthma,2.0,Asthma,CHEMBL9960
+rhabdomyosarcoma,1.0,Rhabdomyosarcoma,CHEMBL1946170
+Malignant Bone Neoplasm,1.0,Bone Neoplasms,CHEMBL1946170
+intrahepatic cholangiocarcinoma,2.0,Cholangiocarcinoma,CHEMBL1946170
+cancer,4.0,Neoplasms,CHEMBL1946170
+HER2 Positive Breast Carcinoma,4.0,Breast Neoplasms,CHEMBL1201179
+cancer,2.0,Neoplasms,CHEMBL1642
+chronic graft versus host disease,2.0,Bronchiolitis Obliterans Syndrome,CHEMBL1642
+COVID-19,2.0,Severe Acute Respiratory Syndrome,CHEMBL1642
+lymphoid neoplasm,2.0,Hematologic Neoplasms,CHEMBL2007641
+prostate carcinoma,2.0,Prostatic Neoplasms,CHEMBL2007641
+HER2 Positive Breast Carcinoma,4.0,Breast Neoplasms,CHEMBL2007641
+cancer,4.0,Neoplasms,CHEMBL2007641
+HIV-1 infection,2.0,HIV Infections,CHEMBL1421
+unspecified peripheral T-cell lymphoma,1.0,"Lymphoma, T-Cell, Peripheral",CHEMBL1421
+squamous cell carcinoma,2.0,"Carcinoma, Squamous Cell",CHEMBL1421
+HIV infection,2.0,HIV Infections,CHEMBL1421
+obesity,2.0,Obesity,CHEMBL1421
+lymphoid leukemia,4.0,Precursor Cell Lymphoblastic Leukemia-Lymphoma,CHEMBL1421
+"Blast Phase Chronic Myelogenous Leukemia, BCR-ABL1 Positive",4.0,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",CHEMBL1421
+cancer,4.0,Neoplasms,CHEMBL1421
+lymphoid neoplasm,2.0,Hematologic Neoplasms,CHEMBL1201585
+prostate carcinoma,2.0,Prostatic Neoplasms,CHEMBL1201585
+biliary tract neoplasm,3.0,Biliary Tract Neoplasms,CHEMBL1201585
+uterine corpus cancer,2.0,Endometrial Neoplasms,CHEMBL1201585
+HER2 Positive Breast Carcinoma,4.0,Breast Neoplasms,CHEMBL1201585
+cancer,4.0,Neoplasms,CHEMBL1201585
+neoplasm,2.0,Neoplasms,CHEMBL1201740
+ovarian carcinoma,2.0,Ovarian Neoplasms,CHEMBL1201740
+cancer,1.0,Neoplasms,CHEMBL1645462
+myelodysplastic syndrome,1.0,Myelodysplastic Syndromes,CHEMBL1946170
+digestive system cancer,2.0,Digestive System Neoplasms,CHEMBL1946170
+colorectal cancer,4.0,Colorectal Neoplasms,CHEMBL1946170
+grade III meningioma,2.0,Meningioma,CHEMBL1946170
+head and neck squamous cell carcinoma,2.0,"Carcinoma, Squamous Cell",CHEMBL1201179
+gastric adenocarcinoma,2.0,Stomach Neoplasms,CHEMBL1201179
+liver cancer,2.0,Liver Neoplasms,CHEMBL1201179
+gallbladder cancer,2.0,Gallbladder Neoplasms,CHEMBL1201179
+adult hepatocellular carcinoma,2.0,Liver Neoplasms,CHEMBL1201179
+B-cell acute lymphoblastic leukemia,4.0,Precursor Cell Lymphoblastic Leukemia-Lymphoma,CHEMBL1642
+astrocytoma,3.0,Astrocytoma,CHEMBL1642
+"Blast Phase Chronic Myelogenous Leukemia, BCR-ABL1 Positive",4.0,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",CHEMBL1642
+adult fibrosarcoma,2.0,Fibrosarcoma,CHEMBL1642
+myelodysplastic/myeloproliferative disease,4.0,Myelodysplastic-Myeloproliferative Diseases,CHEMBL1642
+choroidal neovascularization,1.0,Choroidal Neovascularization,CHEMBL1642
+breast disease,1.0,Breast Diseases,CHEMBL2007641
+colorectal cancer,2.0,Colorectal Neoplasms,CHEMBL2007641
+esophageal cancer,3.0,Esophageal Neoplasms,CHEMBL2007641
+Cognitive impairment,1.0,Cognitive Dysfunction,CHEMBL288441
+triple-negative breast cancer,2.0,Triple Negative Breast Neoplasms,CHEMBL1421
+aging,2.0,Aging,CHEMBL1421
+Paraganglioma,2.0,Paraganglioma,CHEMBL1421
+liver cancer,2.0,Liver Neoplasms,CHEMBL1421
+colorectal cancer,1.0,Colorectal Neoplasms,CHEMBL1421
+adult hepatocellular carcinoma,2.0,Liver Neoplasms,CHEMBL1421
+adult glioblastoma,2.0,Glioblastoma,CHEMBL1421
+adrenal gland pheochromocytoma,2.0,Pheochromocytoma,CHEMBL1201733
+breast carcinoma,2.0,Breast Neoplasms,CHEMBL1201733
+extra-adrenal sympathetic paraganglioma,2.0,Pheochromocytoma,CHEMBL1201733
+melanoma,2.0,Melanoma,CHEMBL1201733
+thyroid cancer,1.0,Thyroid Neoplasms,CHEMBL1201733
+adult glioblastoma,2.0,Glioblastoma,CHEMBL1201733
+gastric carcinoma,4.0,Stomach Neoplasms,CHEMBL1201585
+oral squamous cell carcinoma,2.0,Squamous Cell Carcinoma of Head and Neck,CHEMBL1201585
+renal cell carcinoma,1.0,"Carcinoma, Renal Cell",CHEMBL1201585
+Cutaneous T-cell lymphoma,1.0,"Lymphoma, T-Cell, Cutaneous",CHEMBL1201585
+pancreatic neoplasm,2.0,Pancreatic Neoplasms,CHEMBL1201585
+carcinoid tumor,1.0,Carcinoid Tumor,CHEMBL1201585
+bile duct carcinoma,2.0,Bile Duct Neoplasms,CHEMBL1201585
+breast disease,1.0,Breast Diseases,CHEMBL1201585
+colon carcinoma,2.0,Colonic Neoplasms,CHEMBL1201585
+thyroid cancer,1.0,Thyroid Neoplasms,CHEMBL1201585
+gastroesophageal junction adenocarcinoma,2.0,Adenocarcinoma,CHEMBL1201585
+colorectal cancer,3.0,Colorectal Neoplasms,CHEMBL1201585
+"Blast Phase Chronic Myelogenous Leukemia, BCR-ABL1 Positive",4.0,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",CHEMBL1201740
+Paraganglioma,1.0,Paraganglioma,CHEMBL1645462
+chronic obstructive pulmonary disease,2.0,"Pulmonary Disease, Chronic Obstructive",CHEMBL1938400
+acute myeloid leukemia,1.0,"Leukemia, Myeloid, Acute",CHEMBL1908397
+neoplasm,1.0,Neoplasms,CHEMBL6067986
+chronic lymphocytic leukemia,1.0,"Leukemia, Lymphocytic, Chronic, B-Cell",CHEMBL3586573
+head and neck squamous cell carcinoma,1.0,"Carcinoma, Squamous Cell",CHEMBL3586573
+glioblastoma multiforme,1.0,Glioblastoma,CHEMBL3586573
+osteosarcoma,1.0,Osteosarcoma,CHEMBL3586573
+breast neoplasm,2.0,Breast Neoplasms,CHEMBL483321
+neoplasm,1.0,Neoplasms,CHEMBL598797
+non-small cell lung carcinoma,1.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL598797
+head and neck malignant neoplasia,1.0,Head and Neck Neoplasms,CHEMBL598797
+chronic obstructive pulmonary disease,1.0,"Pulmonary Disease, Chronic Obstructive",CHEMBL3544968
+metastasis,1.0,Neoplasm Metastasis,CHEMBL3586573
+metastasis,2.0,Neoplasm Metastasis,CHEMBL483321
+liver disease,1.0,Liver Diseases,CHEMBL3989868
+prostate cancer,1.0,"Prostatic Neoplasms, Castration-Resistant",CHEMBL3586573
+breast cancer,2.0,Breast Neoplasms,CHEMBL483321
+gastric cancer,1.0,Stomach Neoplasms,CHEMBL598797
+liver cancer,1.0,Liver Neoplasms,CHEMBL598797
+breast cancer,1.0,Breast Neoplasms,CHEMBL598797
+angiosarcoma,2.0,Hemangiosarcoma,CHEMBL3989868
+HER2 Positive Breast Carcinoma,4.0,Breast Neoplasms,CHEMBL3989868
+breast cancer,4.0,Breast Neoplasms,CHEMBL3989868
+breast carcinoma,4.0,Breast Neoplasms,CHEMBL3989868
+neoplasm,4.0,Neoplasms,CHEMBL3989868
+chronic myelogenous leukemia,1.0,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",CHEMBL3989868
+non-small cell lung carcinoma,1.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL3989868
+hepatocellular carcinoma,1.0,"Carcinoma, Hepatocellular",CHEMBL3989868
+colorectal neoplasm,4.0,Colorectal Neoplasms,CHEMBL3989868
+gastric cancer,2.0,Stomach Neoplasms,CHEMBL3989868
+asthma,2.0,Asthma,CHEMBL1938400
+cancer,1.0,Neoplasms,CHEMBL598797
+cancer,1.0,Neoplasms,CHEMBL3109738
+breast neoplasm,4.0,Breast Neoplasms,CHEMBL3989868
+metastasis,4.0,Neoplasm Metastasis,CHEMBL3989868
+colorectal carcinoma,4.0,Colorectal Neoplasms,CHEMBL3989868
+cancer,4.0,Neoplasms,CHEMBL3989868
+colon carcinoma,2.0,Colonic Neoplasms,CHEMBL3989868
+lung cancer,1.0,Lung Neoplasms,CHEMBL3989868
+psoriasis,2.0,Psoriasis,CHEMBL1230065
+vascular disease,2.0,Vascular Diseases,CHEMBL1230065
+chronic lymphocytic leukemia,2.0,"Leukemia, Lymphocytic, Chronic, B-Cell",CHEMBL206834
+Crohn's disease,2.0,Crohn Disease,CHEMBL2107779
+rheumatoid arthritis,2.0,"Arthritis, Rheumatoid",CHEMBL1230065
+multiple myeloma,1.0,Multiple Myeloma,CHEMBL1230165
+multiple myeloma,2.0,Multiple Myeloma,CHEMBL495727
+chronic myelogenous leukemia,1.0,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",CHEMBL1738757
+cholangiocarcinoma,2.0,Cholangiocarcinoma,CHEMBL2103842
+lymphoma,1.0,Lymphoma,CHEMBL3545085
+non-small cell lung carcinoma,2.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL3545396
+chronic obstructive pulmonary disease,2.0,"Pulmonary Disease, Chronic Obstructive",CHEMBL2103838
+glioblastoma multiforme,1.0,Glioblastoma,CHEMBL587723
+acute lung injury,2.0,Acute Lung Injury,CHEMBL2103838
+non-small cell lung carcinoma,3.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL3647420
+rheumatoid arthritis,2.0,"Arthritis, Rheumatoid",CHEMBL2103838
+coronary artery disease,2.0,Coronary Disease,CHEMBL2103838
+neuropathic pain,2.0,Neuralgia,CHEMBL2103838
+pancreatic carcinoma,1.0,Pancreatic Neoplasms,CHEMBL2103842
+acute lymphoblastic leukemia,1.0,Precursor Cell Lymphoblastic Leukemia-Lymphoma,CHEMBL3545085
+chronic myelogenous leukemia,1.0,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",CHEMBL3545085
+dilated cardiomyopathy,3.0,"Cardiomyopathy, Dilated",CHEMBL1088750
+rheumatoid arthritis,1.0,"Arthritis, Rheumatoid",CHEMBL1088750
+ankylosing spondylitis,2.0,"Spondylitis, Ankylosing",CHEMBL1088750
+"osteoarthritis, knee",2.0,"Osteoarthritis, Knee",CHEMBL1088750
+leukemia,1.0,Leukemia,CHEMBL495727
+neoplasm,1.0,Neoplasms,CHEMBL495727
+non-Hodgkins lymphoma,1.0,"Lymphoma, Non-Hodgkin",CHEMBL495727
+cholangiocarcinoma,1.0,Cholangiocarcinoma,CHEMBL1230165
+hepatocellular carcinoma,1.0,"Carcinoma, Hepatocellular",CHEMBL2103842
+neoplasm,1.0,Neoplasms,CHEMBL2103842
+pancreatic neoplasm,1.0,Pancreatic Neoplasms,CHEMBL1614707
+kidney neoplasm,1.0,Kidney Neoplasms,CHEMBL1614707
+breast neoplasm,1.0,Breast Neoplasms,CHEMBL1614707
+ovarian neoplasm,1.0,Ovarian Neoplasms,CHEMBL1614707
+neoplasm,1.0,Neoplasms,CHEMBL1738757
+colorectal adenocarcinoma,2.0,Colorectal Neoplasms,CHEMBL2408045
+non-small cell lung carcinoma,2.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL2408045
+breast neoplasm,2.0,Breast Neoplasms,CHEMBL2408045
+basal cell carcinoma,1.0,"Carcinoma, Basal Cell",CHEMBL1230165
+triple-negative breast cancer,2.0,Triple Negative Breast Neoplasms,CHEMBL3647420
+prostate cancer,2.0,"Prostatic Neoplasms, Castration-Resistant",CHEMBL206834
+gastric cancer,2.0,Stomach Neoplasms,CHEMBL2103842
+biliary tract cancer,2.0,Biliary Tract Neoplasms,CHEMBL2103842
+breast cancer,2.0,Breast Neoplasms,CHEMBL2103842
+lung neoplasm,1.0,Lung Neoplasms,CHEMBL1614707
+Central Nervous System Neoplasm,1.0,Central Nervous System Neoplasms,CHEMBL587723
+toothache,2.0,Toothache,CHEMBL1088750
+breast cancer,2.0,Breast Neoplasms,CHEMBL2408045
+breast cancer,2.0,Breast Neoplasms,CHEMBL3545396
+medulloblastoma,1.0,Medulloblastoma,CHEMBL1230165
+"osteoarthritis, knee",1.0,"Osteoarthritis, Knee",CHEMBL3545216
+breast cancer,3.0,Breast Neoplasms,CHEMBL3545111
+neoplasm,2.0,Neoplasms,CHEMBL3647420
+breast neoplasm,3.0,Breast Neoplasms,CHEMBL3647420
+gastric cancer,2.0,Stomach Neoplasms,CHEMBL3647420
+breast cancer,3.0,Breast Neoplasms,CHEMBL3647420
+COVID-19,2.0,Severe Acute Respiratory Syndrome,CHEMBL1230165
+digestive system neoplasm,2.0,Digestive System Neoplasms,CHEMBL3647420
+cancer,1.0,Neoplasms,CHEMBL2103842
+cancer,1.0,Neoplasms,CHEMBL1614725
+cancer,1.0,Neoplasms,CHEMBL3545085
+cancer,1.0,Neoplasms,CHEMBL587723
+cancer,2.0,Neoplasms,CHEMBL2408045
+cancer,1.0,Neoplasms,CHEMBL3545396
+stomach neoplasm,2.0,Stomach Neoplasms,CHEMBL2103842
+breast carcinoma,1.0,Breast Neoplasms,CHEMBL1738757
+neoplasm,2.0,Neoplasms,CHEMBL2408045
+neoplasm,1.0,Neoplasms,CHEMBL3545396
+colorectal cancer,2.0,Colorectal Neoplasms,CHEMBL3647420
+breast neoplasm,3.0,Breast Neoplasms,CHEMBL180022
+neoplasm,4.0,Neoplasms,CHEMBL313972
+breast carcinoma,3.0,Breast Neoplasms,CHEMBL180022
+neoplasm,3.0,Neoplasms,CHEMBL180022
+rheumatoid arthritis,2.0,"Arthritis, Rheumatoid",CHEMBL1088751
+multiple myeloma,2.0,Multiple Myeloma,CHEMBL514201
+acute coronary syndrome,3.0,Acute Coronary Syndrome,CHEMBL1088752
+osteosarcoma,2.0,Osteosarcoma,CHEMBL217092
+non-small cell lung carcinoma,2.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL180022
+neuropathic pain,2.0,Neuralgia,CHEMBL1088752
+cardiovascular disease,1.0,Cardiovascular Diseases,CHEMBL1088752
+chronic obstructive pulmonary disease,2.0,"Pulmonary Disease, Chronic Obstructive",CHEMBL1088751
+rheumatoid arthritis,2.0,"Arthritis, Rheumatoid",CHEMBL514201
+non-small cell lung carcinoma,2.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL217092
+focal segmental glomerulosclerosis,2.0,"Glomerulosclerosis, Focal Segmental",CHEMBL1088752
+male breast carcinoma,2.0,"Breast Neoplasms, Male",CHEMBL217092
+neoplasm,2.0,Neoplasms,CHEMBL217092
+melanoma,2.0,Melanoma,CHEMBL217092
+alcohol drinking,2.0,Alcohol Drinking,CHEMBL217092
+chronic obstructive pulmonary disease,2.0,"Pulmonary Disease, Chronic Obstructive",CHEMBL1088752
+atherosclerosis,2.0,Atherosclerosis,CHEMBL1088752
+chronic myelogenous leukemia,3.0,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",CHEMBL3545413
+glioblastoma multiforme,2.0,Glioblastoma,CHEMBL3544983
+leukemia,2.0,Leukemia,CHEMBL362558
+rheumatoid arthritis,2.0,"Arthritis, Rheumatoid",CHEMBL3545398
+autism spectrum disorder,2.0,"Child Development Disorders, Pervasive",CHEMBL3545157
+rheumatoid arthritis,2.0,"Arthritis, Rheumatoid",CHEMBL1088752
+Disorder of lipid metabolism,2.0,Lipid Metabolism Disorders,CHEMBL1088752
+pancreatic carcinoma,1.0,Pancreatic Neoplasms,CHEMBL217092
+Thymoma,2.0,Thymoma,CHEMBL217092
+non-small cell lung carcinoma,1.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL545315
+breast neoplasm,2.0,Breast Neoplasms,CHEMBL545315
+carcinoma,1.0,Carcinoma,CHEMBL180022
+glioblastoma multiforme,2.0,Glioblastoma,CHEMBL180022
+Autosomal dominant polycystic kidney disease,2.0,"Polycystic Kidney, Autosomal Dominant",CHEMBL3544983
+pemphigus vulgaris,2.0,Pemphigus,CHEMBL3402567
+pancreatic carcinoma,1.0,Pancreatic Neoplasms,CHEMBL362558
+rheumatoid arthritis,2.0,"Arthritis, Rheumatoid",CHEMBL363648
+rheumatoid arthritis,2.0,"Arthritis, Rheumatoid",CHEMBL1090090
+Cognitive impairment,2.0,Cognitive Dysfunction,CHEMBL119385
+Facioscapulohumeral dystrophy,3.0,"Muscular Dystrophy, Facioscapulohumeral",CHEMBL1088752
+non-small cell lung carcinoma,4.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL2105719
+non-small cell lung carcinoma,3.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL3544983
+pain,1.0,Pain,CHEMBL1088751
+Dementia,2.0,Dementia,CHEMBL119385
+chronic obstructive pulmonary disease,2.0,"Pulmonary Disease, Chronic Obstructive",CHEMBL5314397
+hepatitis C virus infection,1.0,Hepatitis C,CHEMBL3402567
+major depressive disorder,2.0,"Depressive Disorder, Major",CHEMBL1088752
+colorectal adenocarcinoma,2.0,Colorectal Neoplasms,CHEMBL217092
+rectum cancer,2.0,Rectal Neoplasms,CHEMBL217092
+fallopian tube cancer,2.0,Fallopian Tube Neoplasms,CHEMBL217092
+ovarian cancer,2.0,Ovarian Neoplasms,CHEMBL217092
+prostate cancer,2.0,"Prostatic Neoplasms, Castration-Resistant",CHEMBL217092
+malignant colon neoplasm,2.0,Colonic Neoplasms,CHEMBL217092
+lung neoplasm,2.0,Lung Neoplasms,CHEMBL545315
+prostate cancer,2.0,"Prostatic Neoplasms, Castration-Resistant",CHEMBL313972
+angiosarcoma,2.0,Hemangiosarcoma,CHEMBL180022
+breast cancer,3.0,Breast Neoplasms,CHEMBL180022
+fallopian tube cancer,1.0,Fallopian Tube Neoplasms,CHEMBL2364626
+breast cancer,2.0,Breast Neoplasms,CHEMBL2364626
+ovarian cancer,1.0,Ovarian Neoplasms,CHEMBL2364626
+breast cancer,1.0,Breast Neoplasms,CHEMBL3544983
+COVID-19,3.0,Severe Acute Respiratory Syndrome,CHEMBL1088752
+prostate adenocarcinoma,2.0,Prostatic Neoplasms,CHEMBL180022
+ovarian cancer,1.0,Ovarian Neoplasms,CHEMBL180022
+acute lymphoblastic leukemia,3.0,Precursor Cell Lymphoblastic Leukemia-Lymphoma,CHEMBL3545413
+breast cancer,2.0,Breast Neoplasms,CHEMBL217092
+chronic myelogenous leukemia,1.0,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",CHEMBL180022
+brain neoplasm,2.0,Brain Neoplasms,CHEMBL3544983
+postherpetic neuralgia,2.0,"Neuralgia, Postherpetic",CHEMBL1088751
+Alzheimer disease,2.0,Alzheimer Disease,CHEMBL217092
+alcohol dependence,1.0,Alcoholism,CHEMBL217092
+fibrodysplasia ossificans progressiva,2.0,Myositis Ossificans,CHEMBL217092
+lymphangioleiomyomatosis,2.0,Lymphangioleiomyomatosis,CHEMBL217092
+hepatocellular carcinoma,1.0,"Carcinoma, Hepatocellular",CHEMBL180022
+gastric cancer,1.0,Stomach Neoplasms,CHEMBL180022
+autosomal recessive polycystic kidney disease,1.0,"Polycystic Kidney, Autosomal Recessive",CHEMBL3544983
+Alzheimer disease,2.0,Alzheimer Disease,CHEMBL3545157
+amyotrophic lateral sclerosis,2.0,Amyotrophic Lateral Sclerosis,CHEMBL3545157
+myotonic dystrophy,2.0,Myotonic Dystrophy,CHEMBL3545157
+Steinert myotonic dystrophy,2.0,Myotonic Dystrophy,CHEMBL3545157
+osteoarthritis,2.0,Osteoarthritis,CHEMBL1088751
+Alzheimer disease,2.0,Alzheimer Disease,CHEMBL119385
+Huntington disease,2.0,Huntington Disease,CHEMBL119385
+cancer,2.0,Neoplasms,CHEMBL217092
+neoplasm,4.0,Neoplasms,CHEMBL2105719
+biliary tract neoplasm,3.0,Biliary Tract Neoplasms,CHEMBL180022
+HER2 Positive Breast Carcinoma,3.0,Breast Neoplasms,CHEMBL180022
+cancer,1.0,Neoplasms,CHEMBL2364626
+cancer,1.0,Neoplasms,CHEMBL3544983
+cancer,1.0,Neoplasms,CHEMBL362558
+thymus neoplasm,2.0,Thymus Neoplasms,CHEMBL217092
+colorectal cancer,1.0,Colorectal Neoplasms,CHEMBL180022
+adult glioblastoma,1.0,Glioblastoma,CHEMBL2364626
+Lewy body dementia,2.0,Lewy Body Disease,CHEMBL119385
+mesothelioma,2.0,Mesothelioma,CHEMBL24828
+pancreatic carcinoma,2.0,Pancreatic Neoplasms,CHEMBL24828
+thyroid carcinoma,4.0,Thyroid Neoplasms,CHEMBL24828
+non-small cell lung carcinoma,3.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL24828
+prostate carcinoma,2.0,Prostatic Neoplasms,CHEMBL24828
+thyroid neoplasm,4.0,Thyroid Neoplasms,CHEMBL24828
+hepatocellular carcinoma,2.0,"Carcinoma, Hepatocellular",CHEMBL24828
+Mantle cell lymphoma,2.0,"Lymphoma, Mantle-Cell",CHEMBL3301610
+neoplasm,4.0,Neoplasms,CHEMBL24828
+head and neck squamous cell carcinoma,2.0,"Carcinoma, Squamous Cell",CHEMBL2110732
+clear cell renal carcinoma,2.0,"Carcinoma, Renal Cell",CHEMBL24828
+non-small cell lung carcinoma,3.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL2110732
+neuroblastoma,1.0,Neuroblastoma,CHEMBL24828
+carcinoma,2.0,Carcinoma,CHEMBL2110732
+lymphoma,1.0,Lymphoma,CHEMBL1650595
+neoplasm,4.0,Neoplasms,CHEMBL3301610
+non-small cell lung carcinoma,3.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL3301610
+breast carcinoma,4.0,Breast Neoplasms,CHEMBL3301610
+glioblastoma multiforme,2.0,Glioblastoma,CHEMBL2110732
+acute myeloid leukemia,1.0,"Leukemia, Myeloid, Acute",CHEMBL571546
+lymphoma,1.0,Lymphoma,CHEMBL3301610
+chronic lymphocytic leukemia,3.0,"Leukemia, Lymphocytic, Chronic, B-Cell",CHEMBL3989869
+melanoma,2.0,Melanoma,CHEMBL574737
+diffuse large B-cell lymphoma,2.0,"Lymphoma, Large B-Cell, Diffuse",CHEMBL3989869
+neoplasm,2.0,Neoplasms,CHEMBL4871106
+dedifferentiated liposarcoma,3.0,Liposarcoma,CHEMBL3301610
+neoplasm,1.0,Neoplasms,CHEMBL4751394
+actinic keratosis,4.0,"Keratosis, Actinic",CHEMBL571546
+head and neck squamous cell carcinoma,2.0,"Carcinoma, Squamous Cell",CHEMBL24828
+acute myeloid leukemia,2.0,"Leukemia, Myeloid, Acute",CHEMBL24828
+colorectal adenocarcinoma,2.0,Colorectal Neoplasms,CHEMBL24828
+glioblastoma multiforme,2.0,Glioblastoma,CHEMBL24828
+oligoastrocytoma,2.0,Oligodendroglioma,CHEMBL24828
+small cell lung carcinoma,2.0,Small Cell Lung Carcinoma,CHEMBL24828
+multiple myeloma,2.0,Multiple Myeloma,CHEMBL24828
+anaplastic astrocytoma,2.0,Astrocytoma,CHEMBL24828
+anaplastic oligodendroglioma,2.0,Oligodendroglioma,CHEMBL24828
+esophageal carcinoma,1.0,Esophageal Neoplasms,CHEMBL24828
+breast neoplasm,2.0,Breast Neoplasms,CHEMBL24828
+head and neck malignant neoplasia,2.0,Head and Neck Neoplasms,CHEMBL24828
+gliosarcoma,2.0,Gliosarcoma,CHEMBL24828
+neoplasm,2.0,Neoplasms,CHEMBL2110732
+upper aerodigestive tract neoplasm,2.0,Head and Neck Neoplasms,CHEMBL2110732
+Ewing sarcoma,1.0,"Sarcoma, Ewing",CHEMBL3301610
+cutaneous melanoma,2.0,Melanoma,CHEMBL3301610
+glioblastoma multiforme,2.0,Glioblastoma,CHEMBL3301610
+mesothelioma,2.0,Mesothelioma,CHEMBL3301610
+neuroblastoma,1.0,Neuroblastoma,CHEMBL3301610
+osteosarcoma,1.0,Osteosarcoma,CHEMBL3301610
+melanoma,2.0,Melanoma,CHEMBL3301610
+rhabdomyosarcoma,1.0,Rhabdomyosarcoma,CHEMBL3301610
+brain neoplasm,2.0,Brain Neoplasms,CHEMBL3301610
+breast neoplasm,4.0,Breast Neoplasms,CHEMBL3301610
+upper aerodigestive tract neoplasm,2.0,Head and Neck Neoplasms,CHEMBL3301610
+malignant rhabdoid tumour,1.0,Rhabdoid Tumor,CHEMBL3301610
+non-Hodgkins lymphoma,1.0,"Lymphoma, Non-Hodgkin",CHEMBL3301610
+Hodgkins lymphoma,1.0,Hodgkin Disease,CHEMBL3989869
+unspecified peripheral T-cell lymphoma,1.0,"Lymphoma, T-Cell, Peripheral",CHEMBL3989869
+polycythemia vera,1.0,Polycythemia Vera,CHEMBL3989869
+pancreatic carcinoma,1.0,Pancreatic Neoplasms,CHEMBL3989869
+rectum cancer,1.0,Rectal Neoplasms,CHEMBL3989869
+Mantle cell lymphoma,1.0,"Lymphoma, Mantle-Cell",CHEMBL3989869
+chronic lymphocytic leukemia,1.0,"Leukemia, Lymphocytic, Chronic, B-Cell",CHEMBL3544936
+lymphoma,1.0,Lymphoma,CHEMBL3544936
+lymphoma,1.0,Lymphoma,CHEMBL571546
+myelodysplastic syndrome,1.0,Myelodysplastic Syndromes,CHEMBL574737
+T-cell acute lymphoblastic leukemia,1.0,"Leukemia, Biphenotypic, Acute",CHEMBL574737
+acute monocytic leukemia,1.0,"Leukemia, Monocytic, Acute",CHEMBL574737
+acute myelomonocytic leukemia,1.0,"Leukemia, Myelomonocytic, Acute",CHEMBL574737
+acute promyelocytic leukemia,1.0,"Leukemia, Promyelocytic, Acute",CHEMBL574737
+chronic myelogenous leukemia,1.0,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",CHEMBL574737
+leukemia,1.0,Leukemia,CHEMBL574737
+lymphoma,2.0,Lymphoma,CHEMBL574737
+neoplasm,1.0,Neoplasms,CHEMBL574737
+prostate adenocarcinoma,1.0,Prostatic Neoplasms,CHEMBL574737
+small cell lung carcinoma,2.0,Small Cell Lung Carcinoma,CHEMBL574737
+pancreatic carcinoma,2.0,Pancreatic Neoplasms,CHEMBL574737
+acute megakaryoblastic leukaemia,1.0,"Leukemia, Megakaryoblastic, Acute",CHEMBL574737
+acute myeloblastic leukemia without maturation,1.0,"Leukemia, Myeloid, Acute",CHEMBL574737
+acute myeloblastic leukemia with maturation,1.0,"Leukemia, Myeloid, Acute",CHEMBL574737
+non-small cell lung carcinoma,1.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL574737
+basal cell carcinoma,1.0,"Carcinoma, Basal Cell",CHEMBL574737
+triple-negative breast cancer,1.0,Triple Negative Breast Neoplasms,CHEMBL574737
+verrucous carcinoma,1.0,"Carcinoma, Verrucous",CHEMBL574737
+Olfactory Neuroblastoma,1.0,"Esthesioneuroblastoma, Olfactory",CHEMBL574737
+endometrial carcinoma,1.0,Endometrial Neoplasms,CHEMBL574737
+breast carcinoma,4.0,Breast Neoplasms,CHEMBL3989921
+follicular thyroid carcinoma,2.0,"Adenocarcinoma, Follicular",CHEMBL24828
+papillary thyroid carcinoma,4.0,Thyroid Neoplasms,CHEMBL24828
+metastasis,1.0,Neoplasm Metastasis,CHEMBL2110732
+head and neck squamous cell carcinoma,2.0,"Carcinoma, Squamous Cell",CHEMBL3301610
+hepatocellular carcinoma,2.0,"Carcinoma, Hepatocellular",CHEMBL3301610
+multiple myeloma,1.0,Multiple Myeloma,CHEMBL3301610
+metastasis,1.0,Neoplasm Metastasis,CHEMBL3301610
+"Genital neoplasm, female",2.0,"Genital Neoplasms, Female",CHEMBL3301610
+small cell lung carcinoma,3.0,Small Cell Lung Carcinoma,CHEMBL3894860
+triple-negative breast cancer,3.0,Triple Negative Breast Neoplasms,CHEMBL3894860
+sarcoma,2.0,Sarcoma,CHEMBL483465
+metastasis,2.0,Neoplasm Metastasis,CHEMBL483465
+diffuse intrinsic pontine glioma,1.0,Diffuse Intrinsic Pontine Glioma,CHEMBL24828
+Central Nervous System Neoplasm,1.0,Central Nervous System Neoplasms,CHEMBL24828
+rectum cancer,1.0,Rectal Neoplasms,CHEMBL24828
+gastric cancer,2.0,Stomach Neoplasms,CHEMBL24828
+urinary bladder cancer,2.0,Urinary Bladder Neoplasms,CHEMBL24828
+peritoneum cancer,2.0,Peritoneal Neoplasms,CHEMBL24828
+thyroid cancer,4.0,Thyroid Neoplasms,CHEMBL24828
+fallopian tube cancer,2.0,Fallopian Tube Neoplasms,CHEMBL24828
+kidney cancer,2.0,Kidney Neoplasms,CHEMBL24828
+urethra cancer,2.0,Urethral Neoplasms,CHEMBL24828
+breast cancer,2.0,Breast Neoplasms,CHEMBL24828
+ovarian cancer,2.0,Ovarian Neoplasms,CHEMBL24828
+prostate cancer,2.0,"Prostatic Neoplasms, Castration-Resistant",CHEMBL24828
+ureter cancer,2.0,Ureteral Neoplasms,CHEMBL24828
+lung cancer,3.0,Lung Neoplasms,CHEMBL24828
+medullary thyroid gland carcinoma,4.0,"Carcinoma, Medullary",CHEMBL24828
+oral cavity cancer,1.0,Mouth Neoplasms,CHEMBL2110732
+lung cancer,3.0,Lung Neoplasms,CHEMBL2110732
+breast cancer,4.0,Breast Neoplasms,CHEMBL2364649
+oligodendroglioma,2.0,Oligodendroglioma,CHEMBL3301610
+diffuse intrinsic pontine glioma,1.0,Diffuse Intrinsic Pontine Glioma,CHEMBL3301610
+urinary bladder cancer,0.5,Urinary Bladder Neoplasms,CHEMBL3301610
+breast cancer,4.0,Breast Neoplasms,CHEMBL3301610
+prostate cancer,2.0,"Prostatic Neoplasms, Castration-Resistant",CHEMBL3301610
+endometrial cancer,2.0,Endometrial Neoplasms,CHEMBL3301610
+gastric cancer,1.0,Stomach Neoplasms,CHEMBL3989869
+esophageal cancer,1.0,Esophageal Neoplasms,CHEMBL3989869
+follicular lymphoma,4.0,"Lymphoma, Follicular",CHEMBL3989869
+myelofibrosis,1.0,Primary Myelofibrosis,CHEMBL3989869
+prostate cancer,2.0,"Prostatic Neoplasms, Castration-Resistant",CHEMBL571546
+acute erythroleukemia,1.0,"Leukemia, Erythroblastic, Acute",CHEMBL574737
+hypopharyngeal carcinoma,1.0,Hypopharyngeal Neoplasms,CHEMBL574737
+gastric cancer,1.0,Stomach Neoplasms,CHEMBL574737
+anus cancer,1.0,Anus Neoplasms,CHEMBL574737
+peritoneum cancer,2.0,Peritoneal Neoplasms,CHEMBL574737
+fallopian tube cancer,2.0,Fallopian Tube Neoplasms,CHEMBL574737
+kidney cancer,2.0,Kidney Neoplasms,CHEMBL574737
+inverted papilloma,1.0,"Papilloma, Inverted",CHEMBL574737
+cervical cancer,1.0,Uterine Cervical Neoplasms,CHEMBL574737
+appendix carcinoma,1.0,Appendiceal Neoplasms,CHEMBL574737
+salivary gland cancer,1.0,Salivary Gland Neoplasms,CHEMBL574737
+gallbladder cancer,1.0,Gallbladder Neoplasms,CHEMBL574737
+breast cancer,1.0,Breast Neoplasms,CHEMBL574737
+esophageal cancer,1.0,Esophageal Neoplasms,CHEMBL574737
+ovarian cancer,2.0,Ovarian Neoplasms,CHEMBL574737
+prostate cancer,1.0,"Prostatic Neoplasms, Castration-Resistant",CHEMBL574737
+oropharyngeal carcinoma,1.0,Oropharyngeal Neoplasms,CHEMBL574737
+kidney cancer,2.0,Kidney Neoplasms,CHEMBL483465
+lung neoplasm,2.0,Lung Neoplasms,CHEMBL483465
+myelofibrosis,2.0,Primary Myelofibrosis,CHEMBL483465
+stomach neoplasm,2.0,Stomach Neoplasms,CHEMBL24828
+metastasis,2.0,Neoplasm Metastasis,CHEMBL24828
+malignant glioma,1.0,Glioma,CHEMBL24828
+clear cell renal carcinoma,1.0,"Carcinoma, Renal Cell",CHEMBL3301610
+thyroid cancer,2.0,Thyroid Neoplasms,CHEMBL3301610
+lung cancer,2.0,Lung Neoplasms,CHEMBL3301610
+malignant glioma,0.5,Glioma,CHEMBL3301610
+marginal zone B-cell lymphoma,4.0,"Lymphoma, B-Cell, Marginal Zone",CHEMBL3989869
+laryngeal squamous cell carcinoma,1.0,Squamous Cell Carcinoma of Head and Neck,CHEMBL574737
+lethal midline granuloma,1.0,"Granuloma, Lethal Midline",CHEMBL574737
+angiosarcoma,2.0,Hemangiosarcoma,CHEMBL3894860
+breast cancer,2.0,Breast Neoplasms,CHEMBL3894860
+breast neoplasm,2.0,Breast Neoplasms,CHEMBL483465
+malignant glioma,2.0,Glioma,CHEMBL483465
+chronic myelogenous leukemia,1.0,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",CHEMBL4130229
+acute myeloid leukemia,3.0,"Leukemia, Myeloid, Acute",CHEMBL3678958
+neoplasm,1.0,Neoplasms,CHEMBL4650279
+brain neoplasm,2.0,Brain Neoplasms,CHEMBL2110732
+Kaposi's sarcoma,1.0,"Sarcoma, Kaposi",CHEMBL3301610
+non-small cell lung carcinoma,2.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL3894860
+breast cancer,4.0,Breast Neoplasms,CHEMBL3989921
+Malignant Bone Neoplasm,2.0,Bone Neoplasms,CHEMBL483465
+Dementia,2.0,Dementia,CHEMBL4130229
+neoplasm,2.0,Neoplasms,CHEMBL4594568
+breast cancer,3.0,Breast Neoplasms,CHEMBL4594568
+biliary tract cancer,4.0,Biliary Tract Neoplasms,CHEMBL4650256
+breast cancer,3.0,Breast Neoplasms,CHEMBL4650256
+gastrointestinal stromal tumor,2.0,Gastrointestinal Stromal Tumors,CHEMBL24828
+prostate adenocarcinoma,1.0,Prostatic Neoplasms,CHEMBL3301610
+ovarian carcinoma,1.0,Ovarian Neoplasms,CHEMBL3301610
+serous adenocarcinoma,1.0,"Cystadenocarcinoma, Serous",CHEMBL3301610
+angiosarcoma,2.0,Hemangiosarcoma,CHEMBL3301610
+male breast carcinoma,2.0,"Breast Neoplasms, Male",CHEMBL3301610
+meningioma,2.0,Meningioma,CHEMBL3301610
+neurofibromatosis type 1,1.0,Neurofibromatosis 1,CHEMBL3301610
+gastrointestinal stromal tumor,1.0,Gastrointestinal Stromal Tumors,CHEMBL3989869
+gastrointestinal stromal tumor,1.0,Gastrointestinal Stromal Tumors,CHEMBL574737
+malignant epithelial tumor of ovary,1.0,"Carcinoma, Ovarian Epithelial",CHEMBL574737
+neoplasm,1.0,Neoplasms,CHEMBL3989921
+Parkinson disease,2.0,Parkinson Disease,CHEMBL4130229
+gastric cancer,2.0,Stomach Neoplasms,CHEMBL4594568
+neoplasm,2.0,Neoplasms,CHEMBL3678958
+gastric cancer,2.0,Stomach Neoplasms,CHEMBL4650256
+cancer,4.0,Neoplasms,CHEMBL24828
+neoplasm,4.0,Neoplasms,CHEMBL2364649
+metastatic prostate cancer,1.0,Prostatic Neoplasms,CHEMBL3301610
+pancreatic neuroendocrine tumor,2.0,Neuroendocrine Tumors,CHEMBL3301610
+HER2 Positive Breast Carcinoma,4.0,Breast Neoplasms,CHEMBL3301610
+biliary tract cancer,2.0,Biliary Tract Neoplasms,CHEMBL3301610
+cancer,4.0,Neoplasms,CHEMBL3301610
+cancer,1.0,Neoplasms,CHEMBL3544936
+neoplasm,1.0,Neoplasms,CHEMBL571546
+basal cell carcinoma,2.0,"Carcinoma, Basal Cell",CHEMBL571546
+breast neoplasm,2.0,Breast Neoplasms,CHEMBL3894860
+neoplasm,1.0,Neoplasms,CHEMBL483465
+neurodegenerative disease,1.0,Neurodegenerative Diseases,CHEMBL4130229
+myeloid leukemia,1.0,"Leukemia, Myeloid",CHEMBL4130229
+neoplasm,4.0,Neoplasms,CHEMBL4650256
+biliary tract neoplasm,4.0,Biliary Tract Neoplasms,CHEMBL4650256
+angiosarcoma,2.0,Hemangiosarcoma,CHEMBL4650256
+cancer,4.0,Neoplasms,CHEMBL4650256
+adrenal gland pheochromocytoma,1.0,Pheochromocytoma,CHEMBL24828
+carcinoma,1.0,Carcinoma,CHEMBL24828
+colorectal neoplasm,2.0,Colorectal Neoplasms,CHEMBL24828
+Paraganglioma,1.0,Paraganglioma,CHEMBL24828
+gastroesophageal junction adenocarcinoma,1.0,Adenocarcinoma,CHEMBL24828
+colorectal cancer,2.0,Colorectal Neoplasms,CHEMBL24828
+low grade glioma,1.0,Glioma,CHEMBL24828
+squamous cell carcinoma,2.0,"Carcinoma, Squamous Cell",CHEMBL2110732
+liver disease,1.0,Liver Diseases,CHEMBL2110732
+penile neoplasm,2.0,Penile Neoplasms,CHEMBL2110732
+brain cancer,2.0,Brain Neoplasms,CHEMBL2110732
+cancer,2.0,Neoplasms,CHEMBL2110732
+colorectal cancer,1.0,Colorectal Neoplasms,CHEMBL2110732
+prostate carcinoma,1.0,Prostatic Neoplasms,CHEMBL3301610
+renal cell adenocarcinoma,1.0,"Carcinoma, Renal Cell",CHEMBL3301610
+Paraganglioma,2.0,Paraganglioma,CHEMBL3301610
+pancreatic ductal adenocarcinoma,2.0,"Carcinoma, Pancreatic Ductal",CHEMBL3301610
+colorectal cancer,1.0,Colorectal Neoplasms,CHEMBL3301610
+intracranial meningioma,2.0,Meningioma,CHEMBL3301610
+lymphoma,2.0,Lymphoma,CHEMBL3989869
+non-Hodgkins lymphoma,1.0,"Lymphoma, Non-Hodgkin",CHEMBL3989869
+carcinoid tumor,1.0,Carcinoid Tumor,CHEMBL574737
+osteosarcoma,2.0,Osteosarcoma,CHEMBL3894860
+pancreatic carcinoma,2.0,Pancreatic Neoplasms,CHEMBL3894860
+urinary bladder cancer,3.0,Urinary Bladder Neoplasms,CHEMBL3894860
+lung cancer,2.0,Lung Neoplasms,CHEMBL3894860
+ovarian carcinoma,2.0,Ovarian Neoplasms,CHEMBL3989921
+breast neoplasm,4.0,Breast Neoplasms,CHEMBL3989921
+bone neoplasm,2.0,Bone Neoplasms,CHEMBL483465
+pancreatic neoplasm,2.0,Pancreatic Neoplasms,CHEMBL483465
+non-Hodgkins lymphoma,2.0,"Lymphoma, Non-Hodgkin",CHEMBL483465
+gastroesophageal junction adenocarcinoma,2.0,Adenocarcinoma,CHEMBL4594568
+breast neoplasm,3.0,Breast Neoplasms,CHEMBL4650256
+biliary tract neoplasm,4.0,Biliary Tract Neoplasms,CHEMBL4650256
+hepatocellular carcinoma,4.0,"Carcinoma, Hepatocellular",CHEMBL1200485
+neoplasm,1.0,Neoplasms,CHEMBL1200485
+small cell lung carcinoma,2.0,Small Cell Lung Carcinoma,CHEMBL1200485
+pancreatic carcinoma,3.0,Pancreatic Neoplasms,CHEMBL1200485
+non-small cell lung carcinoma,2.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL1200485
+multiple myeloma,2.0,Multiple Myeloma,CHEMBL1200485
+melanoma,3.0,Melanoma,CHEMBL1200485
+clear cell renal carcinoma,4.0,"Carcinoma, Renal Cell",CHEMBL1200485
+lymphoma,2.0,Lymphoma,CHEMBL428690
+mesothelioma,2.0,Mesothelioma,CHEMBL1200485
+prostate adenocarcinoma,2.0,Prostatic Neoplasms,CHEMBL1200485
+neoplasm,1.0,Neoplasms,CHEMBL428690
+lymphoid neoplasm,1.0,Hematologic Neoplasms,CHEMBL428690
+multiple myeloma,2.0,Multiple Myeloma,CHEMBL428690
+male breast carcinoma,2.0,"Breast Neoplasms, Male",CHEMBL1200485
+chronic lymphocytic leukemia,2.0,"Leukemia, Lymphocytic, Chronic, B-Cell",CHEMBL428690
+breast carcinoma,4.0,Breast Neoplasms,CHEMBL3707266
+lymphoma,1.0,Lymphoma,CHEMBL3545110
+neoplasm,1.0,Neoplasms,CHEMBL4289017
+melanoma,2.0,Melanoma,CHEMBL3545110
+glioblastoma multiforme,1.0,Glioblastoma,CHEMBL3545110
+liposarcoma,2.0,Liposarcoma,CHEMBL3545110
+neoplasm,2.0,Neoplasms,CHEMBL3544911
+neoplasm,1.0,Neoplasms,CHEMBL5314407
+neoplasm,2.0,Neoplasms,CHEMBL5095033
+neoplasm,2.0,Neoplasms,CHEMBL3545110
+head and neck squamous cell carcinoma,1.0,"Carcinoma, Squamous Cell",CHEMBL3545110
+lymphoma,1.0,Lymphoma,CHEMBL3544932
+hepatocellular carcinoma,2.0,"Carcinoma, Hepatocellular",CHEMBL3545110
+small cell lung carcinoma,2.0,Small Cell Lung Carcinoma,CHEMBL3544911
+chronic lymphocytic leukemia,2.0,"Leukemia, Lymphocytic, Chronic, B-Cell",CHEMBL1200485
+acute myeloid leukemia,3.0,"Leukemia, Myeloid, Acute",CHEMBL1200485
+chromophobe renal cell carcinoma,4.0,"Carcinoma, Renal Cell",CHEMBL1200485
+cutaneous melanoma,3.0,Melanoma,CHEMBL1200485
+diffuse large B-cell lymphoma,2.0,"Lymphoma, Large B-Cell, Diffuse",CHEMBL1200485
+follicular thyroid carcinoma,2.0,"Adenocarcinoma, Follicular",CHEMBL1200485
+glioblastoma multiforme,2.0,Glioblastoma,CHEMBL1200485
+osteosarcoma,2.0,Osteosarcoma,CHEMBL1200485
+papillary renal cell carcinoma,4.0,"Carcinoma, Renal Cell",CHEMBL1200485
+papillary thyroid carcinoma,4.0,Thyroid Neoplasms,CHEMBL1200485
+renal cell carcinoma,4.0,"Carcinoma, Renal Cell",CHEMBL1200485
+sarcoma,2.0,Sarcoma,CHEMBL1200485
+anaplastic astrocytoma,1.0,Astrocytoma,CHEMBL1200485
+anaplastic oligodendroglioma,1.0,Oligodendroglioma,CHEMBL1200485
+anaplastic large cell lymphoma,2.0,"Lymphoma, Large-Cell, Anaplastic",CHEMBL1200485
+verrucous carcinoma,2.0,"Carcinoma, Verrucous",CHEMBL1200485
+myeloid sarcoma,3.0,"Sarcoma, Myeloid",CHEMBL1200485
+gliosarcoma,2.0,Gliosarcoma,CHEMBL1200485
+Mantle cell lymphoma,2.0,"Lymphoma, Mantle-Cell",CHEMBL1200485
+acute myeloid leukemia,2.0,"Leukemia, Myeloid, Acute",CHEMBL428690
+cutaneous melanoma,2.0,Melanoma,CHEMBL428690
+leukemia,1.0,Leukemia,CHEMBL428690
+sarcoma,2.0,Sarcoma,CHEMBL428690
+male breast carcinoma,1.0,"Breast Neoplasms, Male",CHEMBL428690
+hepatocellular carcinoma,1.0,"Carcinoma, Hepatocellular",CHEMBL5095033
+small cell lung carcinoma,3.0,Small Cell Lung Carcinoma,CHEMBL5095033
+non-Hodgkins lymphoma,1.0,"Lymphoma, Non-Hodgkin",CHEMBL5095033
+neoplasm,1.0,Neoplasms,CHEMBL1090479
+squamous cell lung carcinoma,1.0,"Carcinoma, Squamous Cell",CHEMBL3544911
+non-small cell lung carcinoma,1.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL3544911
+colorectal neoplasm,1.0,Colorectal Neoplasms,CHEMBL3544911
+upper aerodigestive tract neoplasm,1.0,Head and Neck Neoplasms,CHEMBL3544911
+melanoma,1.0,Melanoma,CHEMBL3577124
+non-small cell lung carcinoma,1.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL3577124
+colorectal neoplasm,1.0,Colorectal Neoplasms,CHEMBL3577124
+chronic lymphocytic leukemia,1.0,"Leukemia, Lymphocytic, Chronic, B-Cell",CHEMBL3544932
+myelodysplastic syndrome,1.0,Myelodysplastic Syndromes,CHEMBL3544932
+acute myeloid leukemia,1.0,"Leukemia, Myeloid, Acute",CHEMBL3544932
+multiple myeloma,1.0,Multiple Myeloma,CHEMBL3544932
+primary myelofibrosis,1.0,Primary Myelofibrosis,CHEMBL3544932
+chronic lymphocytic leukemia,1.0,"Leukemia, Lymphocytic, Chronic, B-Cell",CHEMBL4116008
+metastatic prostate cancer,1.0,Prostatic Neoplasms,CHEMBL3545110
+breast carcinoma,3.0,Breast Neoplasms,CHEMBL3545110
+neuroblastoma,1.0,Neuroblastoma,CHEMBL3545110
+ovarian carcinoma,2.0,Ovarian Neoplasms,CHEMBL3545110
+anaplastic astrocytoma,1.0,Astrocytoma,CHEMBL3545110
+non-small cell lung carcinoma,1.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL3545110
+dedifferentiated liposarcoma,2.0,Liposarcoma,CHEMBL3545110
+uterine neoplasm,2.0,Uterine Neoplasms,CHEMBL3545110
+breast neoplasm,3.0,Breast Neoplasms,CHEMBL3545110
+malignant rhabdoid tumour,1.0,Rhabdoid Tumor,CHEMBL3545110
+Fallopian Tube Carcinoma,2.0,Fallopian Tube Neoplasms,CHEMBL3545110
+soft tissue sarcoma,2.0,Sarcoma,CHEMBL3545110
+neoplasm,4.0,Neoplasms,CHEMBL3707266
+acute lymphoblastic leukemia,1.0,Precursor Cell Lymphoblastic Leukemia-Lymphoma,CHEMBL1200485
+acute promyelocytic leukemia,2.0,"Leukemia, Promyelocytic, Acute",CHEMBL1200485
+myelodysplastic syndrome,1.0,Myelodysplastic Syndromes,CHEMBL3544911
+acute myeloid leukemia,1.0,"Leukemia, Myeloid, Acute",CHEMBL3544911
+medulloblastoma,1.0,Medulloblastoma,CHEMBL3544911
+metastasis,1.0,Neoplasm Metastasis,CHEMBL3544911
+chronic myelomonocytic leukemia,1.0,"Leukemia, Myelomonocytic, Chronic",CHEMBL3544911
+metastasis,1.0,Neoplasm Metastasis,CHEMBL3577124
+Waldenstrom macroglobulinemia,1.0,Waldenstrom Macroglobulinemia,CHEMBL3544932
+acute lymphoblastic leukemia,1.0,Precursor Cell Lymphoblastic Leukemia-Lymphoma,CHEMBL3545110
+carcinoma,2.0,Carcinoma,CHEMBL3545110
+colorectal adenocarcinoma,1.0,Colorectal Neoplasms,CHEMBL1200485
+hypopharyngeal carcinoma,2.0,Hypopharyngeal Neoplasms,CHEMBL1200485
+Desmoid-type fibromatosis,3.0,Desmoid Tumors,CHEMBL1200485
+Central Nervous System Neoplasm,2.0,Central Nervous System Neoplasms,CHEMBL1200485
+Uterine Carcinosarcoma,2.0,Retroviridae Infections,CHEMBL1200485
+rectum cancer,2.0,Rectal Neoplasms,CHEMBL1200485
+soft tissue sarcoma,2.0,Sarcoma,CHEMBL1200485
+urinary bladder cancer,2.0,Urinary Bladder Neoplasms,CHEMBL1200485
+peritoneum cancer,2.0,Peritoneal Neoplasms,CHEMBL1200485
+thyroid cancer,4.0,Thyroid Neoplasms,CHEMBL1200485
+fallopian tube cancer,2.0,Fallopian Tube Neoplasms,CHEMBL1200485
+kidney cancer,3.0,Kidney Neoplasms,CHEMBL1200485
+liver cancer,3.0,Liver Neoplasms,CHEMBL1200485
+urethra cancer,2.0,Urethral Neoplasms,CHEMBL1200485
+breast cancer,2.0,Breast Neoplasms,CHEMBL1200485
+ovarian cancer,2.0,Ovarian Neoplasms,CHEMBL1200485
+prostate cancer,2.0,"Prostatic Neoplasms, Castration-Resistant",CHEMBL1200485
+lung cancer,2.0,Lung Neoplasms,CHEMBL1200485
+malignant colon neoplasm,2.0,Colonic Neoplasms,CHEMBL1200485
+oropharyngeal carcinoma,2.0,Oropharyngeal Neoplasms,CHEMBL1200485
+rectal carcinoma,2.0,Rectal Neoplasms,CHEMBL1200485
+prolymphocytic leukemia,2.0,"Leukemia, Prolymphocytic",CHEMBL428690
+kidney cancer,2.0,Kidney Neoplasms,CHEMBL428690
+liver cancer,2.0,Liver Neoplasms,CHEMBL428690
+breast cancer,1.0,Breast Neoplasms,CHEMBL428690
+esophageal cancer,2.0,Esophageal Neoplasms,CHEMBL428690
+prostate cancer,2.0,"Prostatic Neoplasms, Castration-Resistant",CHEMBL428690
+endometrial cancer,2.0,Endometrial Neoplasms,CHEMBL428690
+ovarian cancer,2.0,Ovarian Neoplasms,CHEMBL5095033
+Central Nervous System Neoplasm,1.0,Central Nervous System Neoplasms,CHEMBL3544911
+brain cancer,1.0,Brain Neoplasms,CHEMBL3544911
+ovarian cancer,2.0,Ovarian Neoplasms,CHEMBL3544911
+breast cancer,2.0,Breast Neoplasms,CHEMBL3544911
+myelofibrosis,1.0,Primary Myelofibrosis,CHEMBL3544932
+Vitiligo,2.0,Vitiligo,CHEMBL4116008
+follicular lymphoma,1.0,"Lymphoma, Follicular",CHEMBL4116008
+enteropathy-associated T-cell lymphoma,2.0,Enteropathy-Associated T-Cell Lymphoma,CHEMBL4116008
+thymus neoplasm,2.0,Thymus Neoplasms,CHEMBL3545110
+kidney disease,1.0,Kidney Diseases,CHEMBL3545110
+pulmonary neuroendocrine tumor,2.0,Neuroendocrine Tumors,CHEMBL3545110
+diffuse intrinsic pontine glioma,1.0,Diffuse Intrinsic Pontine Glioma,CHEMBL3545110
+neuroendocrine neoplasm,2.0,Neuroendocrine Tumors,CHEMBL3545110
+fallopian tube cancer,2.0,Fallopian Tube Neoplasms,CHEMBL3545110
+teratoma,2.0,Teratoma,CHEMBL3545110
+breast cancer,3.0,Breast Neoplasms,CHEMBL3545110
+ovarian cancer,2.0,Ovarian Neoplasms,CHEMBL3545110
+prostate cancer,1.0,"Prostatic Neoplasms, Castration-Resistant",CHEMBL3545110
+myelofibrosis,1.0,Primary Myelofibrosis,CHEMBL3545110
+laryngeal squamous cell carcinoma,2.0,Squamous Cell Carcinoma of Head and Neck,CHEMBL1200485
+dry eye syndrome,2.0,Dry Eye Syndromes,CHEMBL5314384
+small cell lung carcinoma,4.0,Small Cell Lung Carcinoma,CHEMBL4650272
+thyroid carcinoma,4.0,Thyroid Neoplasms,CHEMBL1200485
+brain neoplasm,2.0,Brain Neoplasms,CHEMBL1200485
+breast cancer,4.0,Breast Neoplasms,CHEMBL3707266
+urinary bladder carcinoma,2.0,Urinary Bladder Neoplasms,CHEMBL1200485
+gastrointestinal stromal tumor,2.0,Gastrointestinal Stromal Tumors,CHEMBL1200485
+triple-negative breast cancer,2.0,Triple Negative Breast Neoplasms,CHEMBL5095033
+soft tissue sarcoma,2.0,Sarcoma,CHEMBL5095033
+cancer,1.0,Neoplasms,CHEMBL1200485
+cancer,2.0,Neoplasms,CHEMBL3544911
+chronic graft versus host disease,2.0,Bronchiolitis Obliterans Syndrome,CHEMBL5314384
+cancer,2.0,Neoplasms,CHEMBL3545110
+breast neoplasm,4.0,Breast Neoplasms,CHEMBL3707266
+plasma cell neoplasm,1.0,"Neoplasms, Plasma Cell",CHEMBL1200485
+leukemia,3.0,Leukemia,CHEMBL1200485
+iris melanoma,2.0,Uveal Melanoma,CHEMBL1200485
+tongue cancer,2.0,Tongue Neoplasms,CHEMBL1200485
+salivary gland cancer,2.0,Salivary Gland Neoplasms,CHEMBL1200485
+colorectal cancer,1.0,Colorectal Neoplasms,CHEMBL1200485
+adult hepatocellular carcinoma,3.0,Liver Neoplasms,CHEMBL1200485
+carcinoma of liver and intrahepatic biliary tract,3.0,Liver Neoplasms,CHEMBL1200485
+acute leukemia of ambiguous lineage,2.0,"Leukemia, Biphenotypic, Acute",CHEMBL1200485
+adult glioblastoma,2.0,Glioblastoma,CHEMBL1200485
+malignant tumor of neck,2.0,Head and Neck Neoplasms,CHEMBL1200485
+pancreatic carcinoma,2.0,Pancreatic Neoplasms,CHEMBL428690
+lymphoid leukemia,1.0,"Leukemia, Lymphoid",CHEMBL428690
+central nervous system cancer,1.0,Glioma,CHEMBL3544911
+squamous cell carcinoma,1.0,"Carcinoma, Squamous Cell",CHEMBL3544911
+chronic myelogenous leukemia,1.0,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",CHEMBL3544932
+lymphoma,1.0,Lymphoma,CHEMBL4116008
+Paraganglioma,1.0,Paraganglioma,CHEMBL3545110
+colorectal cancer,1.0,Colorectal Neoplasms,CHEMBL3545110
+malignant glioma,1.0,Glioma,CHEMBL3545110
+clear cell adenocarcinoma,2.0,"Adenocarcinoma, Clear Cell",CHEMBL482968
+rheumatoid arthritis,3.0,"Arthritis, Rheumatoid",CHEMBL3301607
+multiple myeloma,1.0,Multiple Myeloma,CHEMBL482968
+rheumatoid arthritis,2.0,"Arthritis, Rheumatoid",CHEMBL3039513
+liver disease,1.0,Liver Diseases,CHEMBL1762621
+diabetic nephropathy,3.0,Diabetic Nephropathies,CHEMBL1762621
+pulmonary arterial hypertension,3.0,"Hypertension, Pulmonary",CHEMBL1762621
+acute myeloid leukemia,2.0,"Leukemia, Myeloid, Acute",CHEMBL415049
+hepatocellular carcinoma,2.0,"Carcinoma, Hepatocellular",CHEMBL482968
+Crohn's disease,3.0,Crohn Disease,CHEMBL3301607
+lymphoma,1.0,Lymphoma,CHEMBL415049
+primary myelofibrosis,4.0,Primary Myelofibrosis,CHEMBL1795071
+polycythemia vera,4.0,Polycythemia Vera,CHEMBL1795071
+chronic obstructive pulmonary disease,2.0,"Pulmonary Disease, Chronic Obstructive",CHEMBL3545168
+ulcerative colitis,3.0,"Colitis, Ulcerative",CHEMBL3301607
+neoplasm,1.0,Neoplasms,CHEMBL3545395
+melanoma,2.0,Melanoma,CHEMBL1762621
+lymphoid neoplasm,1.0,Hematologic Neoplasms,CHEMBL1762621
+pancreatic carcinoma,1.0,Pancreatic Neoplasms,CHEMBL1762621
+Sjogren syndrome,2.0,Sjogren's Syndrome,CHEMBL3301607
+psoriatic arthritis,3.0,"Arthritis, Psoriatic",CHEMBL3301607
+cutaneous lupus erythematosus,2.0,"Lupus Erythematosus, Cutaneous",CHEMBL3301607
+ankylosing spondylitis,3.0,"Spondylitis, Ankylosing",CHEMBL3301607
+uveitis,2.0,Uveitis,CHEMBL3301607
+acute myeloid leukemia,2.0,"Leukemia, Myeloid, Acute",CHEMBL3545395
+lymphoid neoplasm,1.0,Hematologic Neoplasms,CHEMBL482968
+soft tissue sarcoma,2.0,Sarcoma,CHEMBL482968
+papillary thyroid carcinoma,1.0,Thyroid Neoplasms,CHEMBL3545027
+melanoma,1.0,Melanoma,CHEMBL3545027
+non-small cell lung carcinoma,1.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL3545027
+neoplasm,1.0,Neoplasms,CHEMBL415049
+rheumatoid arthritis,4.0,"Arthritis, Rheumatoid",CHEMBL5315119
+chronic lymphocytic leukemia,2.0,"Leukemia, Lymphocytic, Chronic, B-Cell",CHEMBL1795071
+acute lymphoblastic leukemia,1.0,Precursor Cell Lymphoblastic Leukemia-Lymphoma,CHEMBL1795071
+acute myeloid leukemia,1.0,"Leukemia, Myeloid, Acute",CHEMBL1795071
+inflammatory bowel disease,2.0,Inflammatory Bowel Diseases,CHEMBL3301607
+Fallopian Tube Carcinoma,2.0,Fallopian Tube Neoplasms,CHEMBL482968
+hepatocellular carcinoma,2.0,"Carcinoma, Hepatocellular",CHEMBL2158685
+diffuse large B-cell lymphoma,1.0,"Lymphoma, Large B-Cell, Diffuse",CHEMBL2158685
+multiple myeloma,1.0,Multiple Myeloma,CHEMBL2158685
+pancreatic carcinoma,1.0,Pancreatic Neoplasms,CHEMBL2158685
+cholangiocarcinoma,2.0,Cholangiocarcinoma,CHEMBL2158685
+Crohn's disease,2.0,Crohn Disease,CHEMBL4085457
+rheumatoid arthritis,2.0,"Arthritis, Rheumatoid",CHEMBL4085457
+ulcerative colitis,2.0,"Colitis, Ulcerative",CHEMBL4085457
+alopecia areata,3.0,Alopecia Areata,CHEMBL4085457
+Vitiligo,3.0,Vitiligo,CHEMBL4085457
+pain,2.0,Pain,CHEMBL4297775
+pulmonary hypertension,3.0,"Hypertension, Pulmonary",CHEMBL1762621
+kidney disease,1.0,Kidney Diseases,CHEMBL3301607
+peritoneum cancer,2.0,Peritoneal Neoplasms,CHEMBL482968
+breast cancer,2.0,Breast Neoplasms,CHEMBL482968
+ovarian cancer,2.0,Ovarian Neoplasms,CHEMBL482968
+myeloid leukemia,1.0,"Leukemia, Myeloid",CHEMBL415049
+prostate cancer,2.0,"Prostatic Neoplasms, Castration-Resistant",CHEMBL2158685
+liver disease,1.0,Liver Diseases,CHEMBL4085457
+kidney disease,1.0,Kidney Diseases,CHEMBL4085457
+chronic kidney disease,2.0,"Renal Insufficiency, Chronic",CHEMBL1762621
+Autosomal dominant polycystic kidney disease,3.0,"Polycystic Kidney, Autosomal Dominant",CHEMBL1762621
+COVID-19,2.0,Severe Acute Respiratory Syndrome,CHEMBL1762621
+malaria,1.0,Malaria,CHEMBL1795071
+atopic eczema,1.0,"Dermatitis, Atopic",CHEMBL1795071
+psoriasis,2.0,Psoriasis,CHEMBL1795071
+alopecia areata,2.0,Alopecia Areata,CHEMBL1795071
+Myelofibrosis,4.0,Primary Myelofibrosis,CHEMBL1795071
+postherpetic neuralgia,2.0,"Neuralgia, Postherpetic",CHEMBL4297775
+Alport syndrome,2.0,"Nephritis, Hereditary",CHEMBL1762621
+fallopian tube cancer,1.0,Fallopian Tube Neoplasms,CHEMBL1795071
+osteoarthritis,1.0,Osteoarthritis,CHEMBL3544945
+coronavirus infectious disease,2.0,Coronavirus Infections,CHEMBL2158685
+myeloproliferative disorder,4.0,Myeloproliferative Disorders,CHEMBL1795071
+triple-negative breast cancer,1.0,Triple Negative Breast Neoplasms,CHEMBL1795071
+graft versus host disease,4.0,Graft vs Host Disease,CHEMBL1795071
+systemic lupus erythematosus,2.0,"Lupus Erythematosus, Systemic",CHEMBL3301607
+cancer,1.0,Neoplasms,CHEMBL482968
+systemic lupus erythematosus,2.0,"Lupus Erythematosus, Systemic",CHEMBL3545159
+"osteoarthritis, knee",2.0,"Osteoarthritis, Knee",CHEMBL3544945
+celiac disease,2.0,Celiac Disease,CHEMBL4085457
+Sezary's disease,2.0,Sezary Syndrome,CHEMBL4085457
+mycosis fungoides,2.0,Mycosis Fungoides,CHEMBL4085457
+cicatricial alopecia,2.0,Alopecia,CHEMBL4085457
+type 1 diabetes mellitus,2.0,"Diabetes Mellitus, Type 1",CHEMBL4085457
+rheumatoid arthritis,4.0,"Arthritis, Rheumatoid",CHEMBL4298167
+alopecia areata,4.0,Alopecia Areata,CHEMBL4594382
+alopecia areata,4.0,Alopecia Areata,CHEMBL5314649
+neoplasm,1.0,Neoplasms,CHEMBL1762621
+leukemia,2.0,Leukemia,CHEMBL1795071
+Vitiligo,4.0,Vitiligo,CHEMBL1795071
+spondyloarthropathy,3.0,Spondylarthropathies,CHEMBL3301607
+juvenile idiopathic arthritis,1.0,"Arthritis, Juvenile",CHEMBL3301607
+cancer,1.0,Neoplasms,CHEMBL3545027
+colorectal cancer,1.0,Colorectal Neoplasms,CHEMBL3545027
+Keloid,2.0,Keloid,CHEMBL4085457
+spinal cord injury,2.0,Spinal Cord Injuries,CHEMBL4297775
+type II hypersensitivity reaction disease,1.0,Autoimmune Diseases,CHEMBL4298167
+inflammation,1.0,Inflammation,CHEMBL4298167
+metastatic melanoma,4.0,Melanoma,CHEMBL2364607
+metastatic melanoma,4.0,Melanoma,CHEMBL2105741
+metastatic melanoma,1.0,Melanoma,CHEMBL1615025
+neoplasm,1.0,Neoplasms,CHEMBL5314387
+neoplasm,1.0,Neoplasms,CHEMBL1614766
+rheumatoid arthritis,1.0,"Arthritis, Rheumatoid",CHEMBL5095034
+non-Hodgkins lymphoma,1.0,"Lymphoma, Non-Hodgkin",CHEMBL1908394
+acute myeloid leukemia,1.0,"Leukemia, Myeloid, Acute",CHEMBL4594253
+lymphoma,1.0,Lymphoma,CHEMBL4594253
+neoplasm,1.0,Neoplasms,CHEMBL3545243
+rheumatoid arthritis,1.0,"Arthritis, Rheumatoid",CHEMBL3545241
+neoplasm,1.0,Neoplasms,CHEMBL1738758
+atopic eczema,4.0,"Dermatitis, Atopic",CHEMBL3655081
+psoriasis,2.0,Psoriasis,CHEMBL3655081
+neoplasm,2.0,Neoplasms,CHEMBL5095034
+diffuse large B-cell lymphoma,2.0,"Lymphoma, Large B-Cell, Diffuse",CHEMBL4594253
+non-Hodgkins lymphoma,1.0,"Lymphoma, Non-Hodgkin",CHEMBL4594253
+cutaneous melanoma,4.0,Melanoma,CHEMBL2105741
+Erdheim-Chester disease,2.0,Erdheim-Chester Disease,CHEMBL2105741
+acute myeloid leukemia,1.0,"Leukemia, Myeloid, Acute",CHEMBL5095034
+autoimmune thrombocytopenic purpura,3.0,"Purpura, Thrombocytopenic, Idiopathic",CHEMBL5095034
+acute myeloid leukemia,1.0,"Leukemia, Myeloid, Acute",CHEMBL1738758
+liver disease,1.0,Liver Diseases,CHEMBL3655081
+non-Hodgkins lymphoma,1.0,"Lymphoma, Non-Hodgkin",CHEMBL5095034
+prostate cancer,2.0,"Prostatic Neoplasms, Castration-Resistant",CHEMBL1738758
+kidney disease,1.0,Kidney Diseases,CHEMBL3655081
+multiple myeloma,2.0,Multiple Myeloma,CHEMBL2105741
+follicular lymphoma,1.0,"Lymphoma, Follicular",CHEMBL4594253
+lung cancer,4.0,Lung Neoplasms,CHEMBL2105741
+inflammatory breast carcinoma,1.0,Inflammatory Breast Neoplasms,CHEMBL1738758
+food allergy,1.0,Food Hypersensitivity,CHEMBL3655081
+Eczematoid dermatitis,4.0,Eczema,CHEMBL3655081
+cancer,1.0,Neoplasms,CHEMBL2105741
+melanoma,4.0,Melanoma,CHEMBL2364607
+cancer,1.0,Neoplasms,CHEMBL3182621
+lymphoma,1.0,Lymphoma,CHEMBL5095034
+"Anemia, Hemolytic, Autoimmune",2.0,"Anemia, Hemolytic, Autoimmune",CHEMBL5095034
+cancer,2.0,Neoplasms,CHEMBL5095034
+granuloma annulare,2.0,Granuloma Annulare,CHEMBL3655081
+type 1 diabetes mellitus,2.0,"Diabetes Mellitus, Type 1",CHEMBL3655081
+sarcoidosis,2.0,Sarcoidosis,CHEMBL3655081
+endometrioid carcinoma,1.0,"Carcinoma, Endometrioid",CHEMBL3264002
+glioblastoma multiforme,0.5,Glioblastoma,CHEMBL3264002
+neoplasm,1.0,Neoplasms,CHEMBL3264002
+multiple myeloma,1.0,Multiple Myeloma,CHEMBL3264002
+pancreatic carcinoma,1.0,Pancreatic Neoplasms,CHEMBL3264002
+non-small cell lung carcinoma,2.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL3264002
+ovarian cancer,3.0,Ovarian Neoplasms,CHEMBL3264002
+female reproductive system neoplasm,2.0,"Genital Neoplasms, Female",CHEMBL3264002
+neoplasm,1.0,Neoplasms,CHEMBL4594253
+hematopoietic and lymphoid system neoplasm,1.0,Hematologic Neoplasms,CHEMBL4594253
+cancer,2.0,Neoplasms,CHEMBL1615025
+glioblastoma multiforme,4.0,Glioblastoma,CHEMBL2105741
+melanoma,4.0,Melanoma,CHEMBL2105741
+glioma,4.0,Glioma,CHEMBL2105741
+type II hypersensitivity reaction disease,1.0,Autoimmune Diseases,CHEMBL5095034
+inflammation,1.0,Inflammation,CHEMBL5095034
+pancreatic carcinoma,0.5,Pancreatic Neoplasms,CHEMBL1738758
+pancreatic ductal adenocarcinoma,2.0,"Carcinoma, Pancreatic Ductal",CHEMBL1738758
+toxic epidermal necrolysis,0.5,Stevens-Johnson Syndrome,CHEMBL3655081
+colorectal adenocarcinoma,2.0,Colorectal Neoplasms,CHEMBL3264002
+melanoma,1.0,Melanoma,CHEMBL3264002
+thyroid carcinoma,2.0,Thyroid Neoplasms,CHEMBL3264002
+Uveal Melanoma,2.0,Uveal Melanoma,CHEMBL3264002
+colorectal cancer,2.0,Colorectal Neoplasms,CHEMBL3264002
+neoplasm of mature B-cells,1.0,"Lymphoma, Follicular",CHEMBL4594253
+neoplasm,2.0,Neoplasms,CHEMBL1615025
+Familial adenomatous polyposis,1.0,Adenomatous Polyposis Coli,CHEMBL1615025
+hepatocellular carcinoma,1.0,"Carcinoma, Hepatocellular",CHEMBL2107832
+neoplasm,1.0,Neoplasms,CHEMBL2107832
+neoplasm,1.0,Neoplasms,CHEMBL513909
+non-small cell lung carcinoma,2.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL507361
+psoriasis,2.0,Psoriasis,CHEMBL3301606
+acute myeloid leukemia,2.0,"Leukemia, Myeloid, Acute",CHEMBL2107832
+cutaneous melanoma,2.0,Melanoma,CHEMBL2107832
+acute myeloid leukemia,3.0,"Leukemia, Myeloid, Acute",CHEMBL3265032
+neoplasm,1.0,Neoplasms,CHEMBL1236682
+polycythemia vera,1.0,Polycythemia Vera,CHEMBL3545328
+chronic lymphocytic leukemia,1.0,"Leukemia, Lymphocytic, Chronic, B-Cell",CHEMBL1944698
+acute myeloid leukemia,1.0,"Leukemia, Myeloid, Acute",CHEMBL3545354
+ulcerative colitis,1.0,"Colitis, Ulcerative",CHEMBL3301606
+hepatocellular carcinoma,2.0,"Carcinoma, Hepatocellular",CHEMBL1236682
+neoplasm,1.0,Neoplasms,CHEMBL3545354
+neoplasm,1.0,Neoplasms,CHEMBL3545145
+pancreatic carcinoma,2.0,Pancreatic Neoplasms,CHEMBL2105684
+melanoma,2.0,Melanoma,CHEMBL2107832
+non-small cell lung carcinoma,1.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL2107832
+chronic lymphocytic leukemia,2.0,"Leukemia, Lymphocytic, Chronic, B-Cell",CHEMBL3265032
+acute lymphoblastic leukemia,1.0,Precursor Cell Lymphoblastic Leukemia-Lymphoma,CHEMBL3265032
+diffuse large B-cell lymphoma,2.0,"Lymphoma, Large B-Cell, Diffuse",CHEMBL3265032
+Mantle cell lymphoma,2.0,"Lymphoma, Mantle-Cell",CHEMBL3265032
+glioblastoma multiforme,1.0,Glioblastoma,CHEMBL1944698
+rectum cancer,1.0,Rectal Neoplasms,CHEMBL1944698
+essential thrombocythemia,1.0,"Thrombocythemia, Essential",CHEMBL3545328
+essential thrombocythemia,1.0,"Thrombocythemia, Essential",CHEMBL1231124
+primary myelofibrosis,1.0,Primary Myelofibrosis,CHEMBL1231124
+non-small cell lung carcinoma,1.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL1231124
+acute myeloid leukemia,2.0,"Leukemia, Myeloid, Acute",CHEMBL513909
+lymphoma,1.0,Lymphoma,CHEMBL513909
+prostate adenocarcinoma,2.0,Prostatic Neoplasms,CHEMBL513909
+small cell lung carcinoma,2.0,Small Cell Lung Carcinoma,CHEMBL513909
+non-small cell lung carcinoma,2.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL513909
+pancreatic neoplasm,2.0,Pancreatic Neoplasms,CHEMBL513909
+pancreatic carcinoma,2.0,Pancreatic Neoplasms,CHEMBL105442
+non-small cell lung carcinoma,2.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL105442
+pancreatic neoplasm,2.0,Pancreatic Neoplasms,CHEMBL105442
+breast neoplasm,2.0,Breast Neoplasms,CHEMBL105442
+colorectal neoplasm,2.0,Colorectal Neoplasms,CHEMBL105442
+primary myelofibrosis,1.0,Primary Myelofibrosis,CHEMBL4303389
+metastatic melanoma,1.0,Melanoma,CHEMBL2105684
+non-Hodgkins lymphoma,2.0,"Lymphoma, Non-Hodgkin",CHEMBL3265032
+hepatocellular carcinoma,1.0,"Carcinoma, Hepatocellular",CHEMBL1944698
+neoplasm,2.0,Neoplasms,CHEMBL507361
+astrocytoma,3.0,Astrocytoma,CHEMBL2105684
+neoplasm,2.0,Neoplasms,CHEMBL2107823
+breast cancer,1.0,Breast Neoplasms,CHEMBL2107832
+ovarian cancer,2.0,Ovarian Neoplasms,CHEMBL2107832
+follicular lymphoma,2.0,"Lymphoma, Follicular",CHEMBL3265032
+gliosarcoma,1.0,Gliosarcoma,CHEMBL1944698
+myelofibrosis,1.0,Primary Myelofibrosis,CHEMBL3545328
+gastric cancer,1.0,Stomach Neoplasms,CHEMBL1231124
+biliary tract cancer,2.0,Biliary Tract Neoplasms,CHEMBL1236682
+breast cancer,2.0,Breast Neoplasms,CHEMBL105442
+lung cancer,2.0,Lung Neoplasms,CHEMBL105442
+myelofibrosis,1.0,Primary Myelofibrosis,CHEMBL4303389
+neurofibromatosis,4.0,Neurofibromatoses,CHEMBL2105684
+neurofibromatosis type 1,4.0,Neurofibromatosis 1,CHEMBL2105684
+neurofibromatosis type 1,2.0,Neurofibromatosis 1,CHEMBL507361
+asthma,2.0,Asthma,CHEMBL2170582
+ovarian carcinoma,2.0,Ovarian Neoplasms,CHEMBL2105684
+papillary thyroid carcinoma,1.0,Thyroid Neoplasms,CHEMBL2107832
+pancreatic carcinoma,1.0,Pancreatic Neoplasms,CHEMBL2107832
+pilocytic astrocytoma,1.0,Astrocytoma,CHEMBL2107832
+systemic lupus erythematosus,2.0,"Lupus Erythematosus, Systemic",CHEMBL3301606
+cancer,1.0,Neoplasms,CHEMBL3265032
+cancer,1.0,Neoplasms,CHEMBL2392545
+neoplasm,1.0,Neoplasms,CHEMBL1944698
+hematopoietic and lymphoid system neoplasm,1.0,Hematologic Neoplasms,CHEMBL1944698
+hepatocellular carcinoma,1.0,"Carcinoma, Hepatocellular",CHEMBL1231124
+cancer,1.0,Neoplasms,CHEMBL1231124
+cancer,1.0,Neoplasms,CHEMBL1236682
+cancer,1.0,Neoplasms,CHEMBL3545215
+cancer,2.0,Neoplasms,CHEMBL507361
+low grade glioma,3.0,Glioma,CHEMBL2105684
+adenocarcinoma,1.0,Adenocarcinoma,CHEMBL2107832
+urinary bladder cancer,1.0,Urinary Bladder Neoplasms,CHEMBL2107832
+cancer,1.0,Neoplasms,CHEMBL2107832
+colorectal cancer,1.0,Colorectal Neoplasms,CHEMBL2107832
+lymphoma,2.0,Lymphoma,CHEMBL3265032
+myeloproliferative disorder,1.0,Myeloproliferative Disorders,CHEMBL3545328
+carcinoma,1.0,Carcinoma,CHEMBL1231124
+colorectal cancer,2.0,Colorectal Neoplasms,CHEMBL105442
+colorectal cancer,1.0,Colorectal Neoplasms,CHEMBL507361
+low grade glioma,1.0,Glioma,CHEMBL507361
+allergic rhinitis,1.0,"Rhinitis, Allergic, Seasonal",CHEMBL2216870
+chronic lymphocytic leukemia,4.0,"Leukemia, Lymphocytic, Chronic, B-Cell",CHEMBL2216870
+Hodgkins lymphoma,2.0,Hodgkin Disease,CHEMBL2216870
+Mantle cell lymphoma,2.0,"Lymphoma, Mantle-Cell",CHEMBL2216870
+cardiac hypertrophy,2.0,Cardiomegaly,CHEMBL3187723
+neoplasm,4.0,Neoplasms,CHEMBL2216870
+rheumatoid arthritis,4.0,"Arthritis, Rheumatoid",CHEMBL2105759
+metastatic melanoma,4.0,Melanoma,CHEMBL3187723
+myelodysplastic syndrome,2.0,Myelodysplastic Syndromes,CHEMBL1233528
+diabetic nephropathy,2.0,Diabetic Nephropathies,CHEMBL2105759
+neoplasm,4.0,Neoplasms,CHEMBL1287853
+primary myelofibrosis,2.0,Primary Myelofibrosis,CHEMBL2035187
+diffuse large B-cell lymphoma,2.0,"Lymphoma, Large B-Cell, Diffuse",CHEMBL2103830
+rheumatoid arthritis,3.0,"Arthritis, Rheumatoid",CHEMBL2103830
+primary myelofibrosis,3.0,Primary Myelofibrosis,CHEMBL1287853
+cutaneous melanoma,4.0,Melanoma,CHEMBL3187723
+leukemia,1.0,Leukemia,CHEMBL1233528
+neoplasm,4.0,Neoplasms,CHEMBL3187723
+IGA glomerulonephritis,2.0,"Glomerulonephritis, IGA",CHEMBL2103830
+acute myeloid leukemia,3.0,"Leukemia, Myeloid, Acute",CHEMBL1233528
+neoplasm,2.0,Neoplasms,CHEMBL1233528
+acute myeloid leukemia,2.0,"Leukemia, Myeloid, Acute",CHEMBL603469
+leukemia,2.0,Leukemia,CHEMBL603469
+liver disease,1.0,Liver Diseases,CHEMBL1287853
+liver disease,1.0,Liver Diseases,CHEMBL3187723
+leukemia,2.0,Leukemia,CHEMBL2035187
+lymphoma,1.0,Lymphoma,CHEMBL2103830
+psoriasis,2.0,Psoriasis,CHEMBL2105759
+psoriasis,2.0,Psoriasis,CHEMBL603469
+neoplasm,4.0,Neoplasms,CHEMBL2146883
+neoplasm of mature B-cells,4.0,"Lymphoma, Non-Hodgkin",CHEMBL2216870
+rheumatoid arthritis,2.0,"Arthritis, Rheumatoid",CHEMBL3545225
+myelodysplastic syndrome,1.0,Myelodysplastic Syndromes,CHEMBL3545225
+melanoma,3.0,Melanoma,CHEMBL2146883
+ovarian neoplasm,2.0,Ovarian Neoplasms,CHEMBL1233528
+lymphoid neoplasm,1.0,Hematologic Neoplasms,CHEMBL2103830
+"Anemia, Hemolytic, Autoimmune",2.0,"Anemia, Hemolytic, Autoimmune",CHEMBL2103830
+acute monocytic leukemia,1.0,"Leukemia, Monocytic, Acute",CHEMBL1233528
+lymphoma,1.0,Lymphoma,CHEMBL1233528
+Cutaneous T-cell lymphoma,1.0,"Lymphoma, T-Cell, Cutaneous",CHEMBL1233528
+non-small cell lung carcinoma,2.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL1233528
+acute erythroblastic leukemia,1.0,"Leukemia, Erythroblastic, Acute",CHEMBL1233528
+atopic eczema,3.0,"Dermatitis, Atopic",CHEMBL2105759
+essential thrombocythemia,2.0,"Thrombocythemia, Essential",CHEMBL1078178
+polycythemia vera,2.0,Polycythemia Vera,CHEMBL1078178
+primary myelofibrosis,3.0,Primary Myelofibrosis,CHEMBL1078178
+essential thrombocythemia,2.0,"Thrombocythemia, Essential",CHEMBL603469
+neuroblastoma,1.0,Neuroblastoma,CHEMBL603469
+multiple myeloma,2.0,Multiple Myeloma,CHEMBL603469
+polycythemia vera,2.0,Polycythemia Vera,CHEMBL603469
+acute myeloid leukemia,1.0,"Leukemia, Myeloid, Acute",CHEMBL2146883
+cutaneous melanoma,3.0,Melanoma,CHEMBL2146883
+gastric adenocarcinoma,1.0,Stomach Neoplasms,CHEMBL2146883
+multiple myeloma,1.0,Multiple Myeloma,CHEMBL2146883
+metastatic melanoma,3.0,Melanoma,CHEMBL2146883
+non-small cell lung carcinoma,2.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL2146883
+Craniopharyngioma,2.0,Craniopharyngioma,CHEMBL2146883
+colorectal carcinoma,3.0,Colorectal Neoplasms,CHEMBL2146883
+acute myeloid leukemia,1.0,"Leukemia, Myeloid, Acute",CHEMBL2216870
+diffuse large B-cell lymphoma,2.0,"Lymphoma, Large B-Cell, Diffuse",CHEMBL2216870
+lymphoma,3.0,Lymphoma,CHEMBL2216870
+multiple myeloma,1.0,Multiple Myeloma,CHEMBL2216870
+amyloidosis,2.0,Amyloidosis,CHEMBL2216870
+chronic lymphocytic leukemia,1.0,"Leukemia, Lymphocytic, Chronic, B-Cell",CHEMBL2035187
+Hodgkins lymphoma,2.0,Hodgkin Disease,CHEMBL2035187
+acute myeloid leukemia,2.0,"Leukemia, Myeloid, Acute",CHEMBL2035187
+non-small cell lung carcinoma,1.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL2035187
+myeloproliferative disorder,2.0,Myeloproliferative Disorders,CHEMBL2035187
+Mantle cell lymphoma,2.0,"Lymphoma, Mantle-Cell",CHEMBL2035187
+leukemia,1.0,Leukemia,CHEMBL3187723
+rheumatoid arthritis,2.0,"Arthritis, Rheumatoid",CHEMBL3187723
+melanoma,4.0,Melanoma,CHEMBL3187723
+multiple myeloma,2.0,Multiple Myeloma,CHEMBL3187723
+non-small cell lung carcinoma,2.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL3187723
+colorectal carcinoma,2.0,Colorectal Neoplasms,CHEMBL3187723
+Hodgkins lymphoma,1.0,Hodgkin Disease,CHEMBL3545225
+Hodgkins lymphoma,2.0,Hodgkin Disease,CHEMBL3622820
+neoplasm,2.0,Neoplasms,CHEMBL3622820
+psoriasis,2.0,Psoriasis,CHEMBL3622820
+rheumatoid arthritis,2.0,"Arthritis, Rheumatoid",CHEMBL3622820
+melanoma,1.0,Melanoma,CHEMBL3622820
+pancreatic carcinoma,1.0,Pancreatic Neoplasms,CHEMBL3622820
+non-small cell lung carcinoma,2.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL3622820
+myeloproliferative disorder,2.0,Myeloproliferative Disorders,CHEMBL3622820
+acute graft vs. host disease,3.0,Graft vs Host Disease,CHEMBL3622820
+Pruritus,2.0,Pruritus,CHEMBL3622820
+autoimmune thrombocytopenic purpura,3.0,"Purpura, Thrombocytopenic, Idiopathic",CHEMBL2103830
+hemorrhage,4.0,Hemorrhage,CHEMBL2103830
+lymphoma,2.0,Lymphoma,CHEMBL3989516
+rheumatoid arthritis,2.0,"Arthritis, Rheumatoid",CHEMBL3989516
+IGA glomerulonephritis,2.0,"Glomerulonephritis, IGA",CHEMBL3989516
+autoimmune thrombocytopenic purpura,4.0,"Purpura, Thrombocytopenic, Idiopathic",CHEMBL3989516
+"Anemia, Hemolytic, Autoimmune",3.0,"Anemia, Hemolytic, Autoimmune",CHEMBL3989516
+juvenile idiopathic arthritis,3.0,"Arthritis, Juvenile",CHEMBL2105759
+alopecia areata,3.0,Alopecia Areata,CHEMBL2105759
+allergic contact dermatitis,0.5,"Dermatitis, Allergic Contact",CHEMBL2105759
+temporal arteritis,2.0,Giant Cell Arteritis,CHEMBL2105759
+uveitis,3.0,Uveitis,CHEMBL2105759
+primary biliary cirrhosis,2.0,"Liver Cirrhosis, Biliary",CHEMBL2105759
+non-small cell lung carcinoma,1.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL1078178
+acute lymphoblastic leukemia,1.0,Precursor Cell Lymphoblastic Leukemia-Lymphoma,CHEMBL2216870
+Waldenstrom macroglobulinemia,2.0,Waldenstrom Macroglobulinemia,CHEMBL2216870
+breast carcinoma,2.0,Breast Neoplasms,CHEMBL3187723
+thyroid carcinoma,2.0,Thyroid Neoplasms,CHEMBL3187723
+lymphoma,1.0,Lymphoma,CHEMBL3622820
+ulcerative colitis,2.0,"Colitis, Ulcerative",CHEMBL3622820
+bronchiolitis obliterans,1.0,Bronchiolitis Obliterans,CHEMBL3622820
+T-Cell Prolymphocytic Leukemia,1.0,"Leukemia, Prolymphocytic, T-Cell",CHEMBL3622820
+atopic eczema,2.0,"Dermatitis, Atopic",CHEMBL4297477
+Crohn's disease,2.0,Crohn Disease,CHEMBL4297477
+psoriasis,2.0,Psoriasis,CHEMBL4297477
+ulcerative colitis,2.0,"Colitis, Ulcerative",CHEMBL4297477
+psoriatic arthritis,2.0,"Arthritis, Psoriatic",CHEMBL4297477
+alopecia areata,2.0,Alopecia Areata,CHEMBL4297477
+hidradenitis suppurativa,2.0,Hidradenitis Suppurativa,CHEMBL4297477
+ovarian cancer,1.0,Ovarian Neoplasms,CHEMBL2103830
+mature T-cell and NK-cell non-Hodgkin lymphoma,1.0,"Lymphoma, T-Cell, Peripheral",CHEMBL1233528
+myositis,2.0,Myositis,CHEMBL2105759
+pneumonia,3.0,Pneumonia,CHEMBL2105759
+graft versus host disease,1.0,Graft vs Host Disease,CHEMBL2105759
+myelofibrosis,3.0,Primary Myelofibrosis,CHEMBL1078178
+prostate cancer,2.0,"Prostatic Neoplasms, Castration-Resistant",CHEMBL603469
+myelofibrosis,1.0,Primary Myelofibrosis,CHEMBL603469
+sarcoma,1.0,Sarcoma,CHEMBL2146883
+esophageal carcinoma,1.0,Esophageal Neoplasms,CHEMBL2146883
+breast cancer,2.0,Breast Neoplasms,CHEMBL2146883
+ovarian cancer,1.0,Ovarian Neoplasms,CHEMBL2146883
+follicular lymphoma,3.0,"Lymphoma, Follicular",CHEMBL2216870
+myelofibrosis,1.0,Primary Myelofibrosis,CHEMBL2216870
+kidney disease,1.0,Kidney Diseases,CHEMBL1287853
+myelofibrosis,3.0,Primary Myelofibrosis,CHEMBL1287853
+graft versus host disease,1.0,Graft vs Host Disease,CHEMBL2035187
+myelofibrosis,2.0,Primary Myelofibrosis,CHEMBL2035187
+pancreatic carcinoma,2.0,Pancreatic Neoplasms,CHEMBL3187723
+rectum cancer,1.0,Rectal Neoplasms,CHEMBL3187723
+hairy cell leukemia,2.0,"Leukemia, Hairy Cell",CHEMBL3187723
+peritoneum cancer,3.0,Peritoneal Neoplasms,CHEMBL3187723
+fallopian tube cancer,3.0,Fallopian Tube Neoplasms,CHEMBL3187723
+ovarian cancer,3.0,Ovarian Neoplasms,CHEMBL3187723
+lung cancer,1.0,Lung Neoplasms,CHEMBL3187723
+malignant colon neoplasm,1.0,Colonic Neoplasms,CHEMBL3187723
+breast cancer,1.0,Breast Neoplasms,CHEMBL3545225
+hepatocellular carcinoma,1.0,"Carcinoma, Hepatocellular",CHEMBL3622820
+breast cancer,1.0,Breast Neoplasms,CHEMBL3622820
+lung cancer,1.0,Lung Neoplasms,CHEMBL3622820
+classic Hodgkin lymphoma,2.0,Hodgkin Disease,CHEMBL3622820
+endometrial cancer,1.0,Endometrial Neoplasms,CHEMBL3622820
+graft versus host disease,3.0,Graft vs Host Disease,CHEMBL3622820
+hematopoietic and lymphoid cell neoplasm,2.0,Hematologic Neoplasms,CHEMBL3622820
+kidney disease,1.0,Kidney Diseases,CHEMBL4297477
+primary myelofibrosis,4.0,Primary Myelofibrosis,CHEMBL4297216
+Sjogren syndrome,2.0,Sjogren's Syndrome,CHEMBL3986824
+cutaneous lupus erythematosus,2.0,"Lupus Erythematosus, Cutaneous",CHEMBL3986824
+atopic eczema,2.0,"Dermatitis, Atopic",CHEMBL4594275
+dermatitis,2.0,Dermatitis,CHEMBL4594275
+pneumonia,1.0,Pneumonia,CHEMBL2103830
+myelofibrosis,2.0,Primary Myelofibrosis,CHEMBL2103830
+COVID-19,2.0,Severe Acute Respiratory Syndrome,CHEMBL2103830
+severe acute respiratory syndrome,3.0,Severe Acute Respiratory Syndrome,CHEMBL2105759
+COVID-19,3.0,Severe Acute Respiratory Syndrome,CHEMBL2105759
+breast carcinoma,2.0,Breast Neoplasms,CHEMBL2146883
+chronic myelomonocytic leukemia,2.0,"Leukemia, Myelomonocytic, Chronic",CHEMBL2146883
+breast cancer,1.0,Breast Neoplasms,CHEMBL2035187
+prostate cancer,2.0,"Prostatic Neoplasms, Castration-Resistant",CHEMBL2035187
+COVID-19,2.0,Severe Acute Respiratory Syndrome,CHEMBL2035187
+breast cancer,2.0,Breast Neoplasms,CHEMBL3187723
+systemic scleroderma,2.0,"Scleroderma, Systemic",CHEMBL3622820
+myelofibrosis,2.0,Primary Myelofibrosis,CHEMBL3622820
+unspecified peripheral T-cell lymphoma,2.0,"Lymphoma, T-Cell, Peripheral",CHEMBL4577523
+non-small cell lung carcinoma,2.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL4577523
+Thrombocytopenia,4.0,Thrombocytopenia,CHEMBL3989516
+dermatomyositis,3.0,Dermatomyositis,CHEMBL2105759
+Sjogren syndrome,2.0,Sjogren's Syndrome,CHEMBL2105759
+Vitiligo,2.0,Vitiligo,CHEMBL2105759
+thyroid carcinoma,2.0,Thyroid Neoplasms,CHEMBL2146883
+skin cancer,1.0,Skin Neoplasms,CHEMBL2146883
+non-Hodgkins lymphoma,4.0,"Lymphoma, Non-Hodgkin",CHEMBL2216870
+lymphoplasmacytic lymphoma,2.0,Waldenstrom Macroglobulinemia,CHEMBL2216870
+brain neoplasm,1.0,Brain Neoplasms,CHEMBL3187723
+hematologic disease,1.0,Hematologic Diseases,CHEMBL3622820
+Myelofibrosis,4.0,Primary Myelofibrosis,CHEMBL4297216
+diffuse large B-cell lymphoma,1.0,"Lymphoma, Large B-Cell, Diffuse",CHEMBL4594275
+Mantle cell lymphoma,1.0,"Lymphoma, Mantle-Cell",CHEMBL4594275
+follicular lymphoma,1.0,"Lymphoma, Follicular",CHEMBL4594275
+hidradenitis suppurativa,2.0,Hidradenitis Suppurativa,CHEMBL2103830
+HIV infection,2.0,HIV Infections,CHEMBL2105759
+chronic kidney disease,2.0,"Renal Insufficiency, Chronic",CHEMBL2105759
+autoimmune thrombocytopenic purpura,2.0,"Purpura, Thrombocytopenic, Idiopathic",CHEMBL2105759
+lichen planus,2.0,Lichen Planus,CHEMBL2105759
+type 1 diabetes mellitus,2.0,"Diabetes Mellitus, Type 1",CHEMBL2105759
+gallbladder carcinoma,2.0,Gallbladder Neoplasms,CHEMBL2146883
+Cerebral arteriovenous malformation,2.0,Intracranial Arteriovenous Malformations,CHEMBL2146883
+myelodysplastic syndrome,2.0,Myelodysplastic Syndromes,CHEMBL1287853
+myeloproliferative disorder,2.0,Myeloproliferative Disorders,CHEMBL1287853
+Chronic Neutrophilic Leukemia,2.0,"Leukemia, Neutrophilic, Chronic",CHEMBL1287853
+neoplasm,4.0,Neoplasms,CHEMBL2035187
+gastrointestinal stromal tumor,1.0,Gastrointestinal Stromal Tumors,CHEMBL3187723
+hemophagocytic syndrome,2.0,"Lymphohistiocytosis, Hemophagocytic",CHEMBL3622820
+dermatomyositis,3.0,Dermatomyositis,CHEMBL4297477
+cicatricial alopecia,2.0,Alopecia,CHEMBL4297477
+acute myeloid leukemia,1.0,"Leukemia, Myeloid, Acute",CHEMBL3986824
+polycythemia vera,4.0,Polycythemia Vera,CHEMBL5095049
+primary myelofibrosis,4.0,Primary Myelofibrosis,CHEMBL5095049
+systemic lupus erythematosus,2.0,"Lupus Erythematosus, Systemic",CHEMBL3989516
+juvenile dermatomyositis,3.0,Dermatomyositis,CHEMBL2105759
+neuromyelitis optica,1.0,Neuromyelitis Optica,CHEMBL2105759
+mastitis,2.0,Mastitis,CHEMBL2105759
+systemic lupus erythematosus,3.0,"Lupus Erythematosus, Systemic",CHEMBL2105759
+chronic graft versus host disease,1.0,Bronchiolitis Obliterans Syndrome,CHEMBL2105759
+lymphoid neoplasm,2.0,Hematologic Neoplasms,CHEMBL2146883
+cancer,4.0,Neoplasms,CHEMBL2146883
+cancer,4.0,Neoplasms,CHEMBL2216870
+liver disease,1.0,Liver Diseases,CHEMBL2035187
+ovarian carcinoma,3.0,Ovarian Neoplasms,CHEMBL3187723
+biliary tract neoplasm,3.0,Biliary Tract Neoplasms,CHEMBL3187723
+triple-negative breast cancer,2.0,Triple Negative Breast Neoplasms,CHEMBL3187723
+skin carcinoma,0.5,Skin Neoplasms,CHEMBL3187723
+hilar cholangiocarcinoma,2.0,Klatskin Tumor,CHEMBL3187723
+biliary tract cancer,3.0,Biliary Tract Neoplasms,CHEMBL3187723
+cancer,4.0,Neoplasms,CHEMBL3187723
+diffuse large B-cell lymphoma,2.0,"Lymphoma, Large B-Cell, Diffuse",CHEMBL3622820
+cancer,2.0,Neoplasms,CHEMBL3622820
+chronic graft versus host disease,2.0,Bronchiolitis Obliterans Syndrome,CHEMBL3622820
+immune system disease,1.0,Immune System Diseases,CHEMBL4297477
+systemic lupus erythematosus,2.0,"Lupus Erythematosus, Systemic",CHEMBL4297477
+myeloproliferative disorder,4.0,Myeloproliferative Disorders,CHEMBL4297216
+systemic lupus erythematosus,2.0,"Lupus Erythematosus, Systemic",CHEMBL3986824
+inflammation,1.0,Inflammation,CHEMBL3986824
+type II hypersensitivity reaction disease,1.0,Autoimmune Diseases,CHEMBL4594275
+hematopoietic and lymphoid system neoplasm,1.0,Hematologic Neoplasms,CHEMBL4594275
+neoplasm,1.0,Neoplasms,CHEMBL4577523
+type II hypersensitivity reaction disease,1.0,Autoimmune Diseases,CHEMBL4577523
+chronic graft versus host disease,1.0,Bronchiolitis Obliterans Syndrome,CHEMBL2103830
+subarachnoid hemorrhage,2.0,Subarachnoid Hemorrhage,CHEMBL2105759
+influenza,3.0,"Influenza, Human",CHEMBL2105759
+Myalgia,2.0,Myalgia,CHEMBL2105759
+Sepsis,3.0,Sepsis,CHEMBL2105759
+brain injury,2.0,Brain Injuries,CHEMBL2105759
+neoplasm,3.0,Neoplasms,CHEMBL1078178
+myeloid leukemia,1.0,"Leukemia, Myeloid",CHEMBL1078178
+pancreatic ductal adenocarcinoma,3.0,"Carcinoma, Pancreatic Ductal",CHEMBL1078178
+acute lymphoblastic leukemia,3.0,Precursor Cell Lymphoblastic Leukemia-Lymphoma,CHEMBL603469
+pancreatic carcinoma,0.5,Pancreatic Neoplasms,CHEMBL2146883
+gastroesophageal junction adenocarcinoma,1.0,Adenocarcinoma,CHEMBL2146883
+pancreatic ductal adenocarcinoma,0.5,"Carcinoma, Pancreatic Ductal",CHEMBL2146883
+colorectal cancer,3.0,Colorectal Neoplasms,CHEMBL2146883
+neoplasm of mature B-cells,3.0,"Lymphoma, Follicular",CHEMBL2216870
+pancreatic ductal adenocarcinoma,1.0,"Carcinoma, Pancreatic Ductal",CHEMBL2216870
+myelodysplastic syndrome,1.0,Myelodysplastic Syndromes,CHEMBL2035187
+lymphoma,2.0,Lymphoma,CHEMBL2035187
+colorectal cancer,2.0,Colorectal Neoplasms,CHEMBL2035187
+chronic myelomonocytic leukemia,1.0,"Leukemia, Myelomonocytic, Chronic",CHEMBL2035187
+Uveal Melanoma,2.0,Uveal Melanoma,CHEMBL3187723
+colorectal cancer,2.0,Colorectal Neoplasms,CHEMBL3187723
+low grade glioma,1.0,Glioma,CHEMBL3187723
+systemic inflammatory response syndrome,2.0,Systemic Inflammatory Response Syndrome,CHEMBL3622820
+Inflammatory abnormality of the skin,2.0,Dermatitis,CHEMBL4594275
+myeloproliferative disorder,4.0,Myeloproliferative Disorders,CHEMBL6068336
+Splenomegaly,4.0,Splenomegaly,CHEMBL6068336
+neoplasm,1.0,Neoplasms,CHEMBL1236962
+idiopathic pulmonary fibrosis,1.0,Idiopathic Pulmonary Fibrosis,CHEMBL1236962
+neoplasm,1.0,Neoplasms,CHEMBL3935857
+neoplasm,2.0,Neoplasms,CHEMBL3657311
+renal cell carcinoma,2.0,"Carcinoma, Renal Cell",CHEMBL3545097
+pulmonary arterial hypertension,1.0,"Hypertension, Pulmonary",CHEMBL4742157
+Merkel cell skin cancer,1.0,"Carcinoma, Merkel Cell",CHEMBL3545097
+hepatocellular carcinoma,1.0,"Carcinoma, Hepatocellular",CHEMBL3545097
+neoplasm,1.0,Neoplasms,CHEMBL3545097
+neoplasm,1.0,Neoplasms,CHEMBL5095025
+neoplasm,1.0,Neoplasms,CHEMBL3644672
+neoplasm,1.0,Neoplasms,CHEMBL1258517
+allergic rhinitis,1.0,"Rhinitis, Allergic, Seasonal",CHEMBL3545247
+endometrial neoplasm,2.0,Endometrial Neoplasms,CHEMBL3545097
+head and neck squamous cell carcinoma,2.0,"Carcinoma, Squamous Cell",CHEMBL4303596
+lymphoma,1.0,Lymphoma,CHEMBL3544963
+neoplasm,1.0,Neoplasms,CHEMBL3951811
+chronic lymphocytic leukemia,1.0,"Leukemia, Lymphocytic, Chronic, B-Cell",CHEMBL4303596
+diffuse large B-cell lymphoma,1.0,"Lymphoma, Large B-Cell, Diffuse",CHEMBL4303596
+Mantle cell lymphoma,1.0,"Lymphoma, Mantle-Cell",CHEMBL4303596
+neoplasm,1.0,Neoplasms,CHEMBL3544960
+hepatocellular carcinoma,1.0,"Carcinoma, Hepatocellular",CHEMBL1801204
+glioblastoma multiforme,1.0,Glioblastoma,CHEMBL1801204
+lymphoma,1.0,Lymphoma,CHEMBL1801204
+neoplasm,1.0,Neoplasms,CHEMBL1801204
+anaplastic astrocytoma,1.0,Astrocytoma,CHEMBL1801204
+anaplastic oligodendroglioma,1.0,Oligodendroglioma,CHEMBL1801204
+lymphoma,2.0,Lymphoma,CHEMBL3622533
+renal cell carcinoma,2.0,"Carcinoma, Renal Cell",CHEMBL3935857
+endometrial neoplasm,2.0,Endometrial Neoplasms,CHEMBL3935857
+age-related macular degeneration,1.0,Macular Degeneration,CHEMBL2141712
+multiple myeloma,1.0,Multiple Myeloma,CHEMBL3545097
+breast neoplasm,2.0,Breast Neoplasms,CHEMBL3545097
+metastatic prostate cancer,1.0,Prostatic Neoplasms,CHEMBL3408248
+non-small cell lung carcinoma,1.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL3408248
+non-small cell lung carcinoma,1.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL3935857
+T-cell acute lymphoblastic leukemia,2.0,"Leukemia, Biphenotypic, Acute",CHEMBL3545097
+endometrioid carcinoma,1.0,"Carcinoma, Endometrioid",CHEMBL3545097
+lymphoma,1.0,Lymphoma,CHEMBL3545097
+non-small cell lung carcinoma,2.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL3545097
+Waldenstrom macroglobulinemia,1.0,Waldenstrom Macroglobulinemia,CHEMBL3545097
+Fallopian Tube Carcinoma,1.0,Fallopian Tube Neoplasms,CHEMBL3545097
+gliosarcoma,1.0,Gliosarcoma,CHEMBL3545097
+gastric cancer,1.0,Stomach Neoplasms,CHEMBL3408248
+breast cancer,1.0,Breast Neoplasms,CHEMBL3408248
+prostate cancer,1.0,"Prostatic Neoplasms, Castration-Resistant",CHEMBL3408248
+thyroid cancer,2.0,Thyroid Neoplasms,CHEMBL3622533
+endometrial cancer,1.0,Endometrial Neoplasms,CHEMBL3545248
+squamous cell lung carcinoma,2.0,"Carcinoma, Squamous Cell",CHEMBL3545097
+pancreatic endocrine carcinoma,2.0,"Carcinoma, Islet Cell",CHEMBL3545097
+ovarian serous cystadenocarcinoma,1.0,"Cystadenoma, Serous",CHEMBL3545097
+soft tissue sarcoma,2.0,Sarcoma,CHEMBL3545097
+thyroid cancer,1.0,Thyroid Neoplasms,CHEMBL3545097
+breast cancer,2.0,Breast Neoplasms,CHEMBL3545097
+prostate cancer,2.0,"Prostatic Neoplasms, Castration-Resistant",CHEMBL3545097
+cancer,1.0,Neoplasms,CHEMBL1236962
+cancer,1.0,Neoplasms,CHEMBL4303596
+cancer,1.0,Neoplasms,CHEMBL1801204
+triple-negative breast cancer,1.0,Triple Negative Breast Neoplasms,CHEMBL3408248
+metastatic melanoma,1.0,Melanoma,CHEMBL3657311
+pancreatic carcinoma,1.0,Pancreatic Neoplasms,CHEMBL3657311
+gastric cancer,1.0,Stomach Neoplasms,CHEMBL3657311
+ovarian cancer,2.0,Ovarian Neoplasms,CHEMBL3657311
+cancer,1.0,Neoplasms,CHEMBL4742157
+cancer,1.0,Neoplasms,CHEMBL3935857
+uterine corpus cancer,2.0,Endometrial Neoplasms,CHEMBL3545097
+cancer,1.0,Neoplasms,CHEMBL3545097
+Paraganglioma,1.0,Paraganglioma,CHEMBL1801204
+breast carcinoma,1.0,Breast Neoplasms,CHEMBL3408248
+prostate carcinoma,1.0,Prostatic Neoplasms,CHEMBL3408248
+small cell lung carcinoma,1.0,Small Cell Lung Carcinoma,CHEMBL3657311
+non-small cell lung carcinoma,1.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL3657311
+diffuse large B-cell lymphoma,1.0,"Lymphoma, Large B-Cell, Diffuse",CHEMBL3622533
+thyroid neoplasm,2.0,Thyroid Neoplasms,CHEMBL3622533
+pituitary-dependent Cushing's disease,2.0,Pituitary ACTH Hypersecretion,CHEMBL3622533
+neoplasm,1.0,Neoplasms,CHEMBL3545248
+colorectal cancer,1.0,Colorectal Neoplasms,CHEMBL3545248
+neoplasm,1.0,Neoplasms,CHEMBL4742157
+intracranial meningioma,2.0,Meningioma,CHEMBL4742157
+endometrial cancer,2.0,Endometrial Neoplasms,CHEMBL3935857
+lung carcinoma,2.0,Lung Neoplasms,CHEMBL3545097
+renal cell adenocarcinoma,2.0,"Carcinoma, Renal Cell",CHEMBL3545097
+urothelial carcinoma,2.0,Urinary Bladder Neoplasms,CHEMBL3545097
+Transitional Cell Carcinoma,2.0,"Carcinoma, Transitional Cell",CHEMBL3545097
+urinary bladder carcinoma,2.0,Urinary Bladder Neoplasms,CHEMBL3545097
+ovarian cancer,1.0,Ovarian Neoplasms,CHEMBL3545097
+lung cancer,2.0,Lung Neoplasms,CHEMBL3545097
+endometrial cancer,2.0,Endometrial Neoplasms,CHEMBL3545097
+adult glioblastoma,1.0,Glioblastoma,CHEMBL3545097
+neoplasm,2.0,Neoplasms,CHEMBL1879463
+non-Hodgkins lymphoma,1.0,"Lymphoma, Non-Hodgkin",CHEMBL1922094
+neoplasm,1.0,Neoplasms,CHEMBL1097999
+psoriasis,2.0,Psoriasis,CHEMBL1097999
+endometrial neoplasm,2.0,Endometrial Neoplasms,CHEMBL592445
+renal cell carcinoma,2.0,"Carcinoma, Renal Cell",CHEMBL1922094
+acute myeloid leukemia,2.0,"Leukemia, Myeloid, Acute",CHEMBL592445
+lymphoma,1.0,Lymphoma,CHEMBL3393066
+rheumatoid arthritis,2.0,"Arthritis, Rheumatoid",CHEMBL5095028
+breast carcinoma,4.0,Breast Neoplasms,CHEMBL2396661
+chronic lymphocytic leukemia,2.0,"Leukemia, Lymphocytic, Chronic, B-Cell",CHEMBL4650214
+lymphoma,1.0,Lymphoma,CHEMBL3120215
+head and neck squamous cell carcinoma,2.0,"Carcinoma, Squamous Cell",CHEMBL2396661
+neoplasm,4.0,Neoplasms,CHEMBL2396661
+squamous cell carcinoma,2.0,"Carcinoma, Squamous Cell",CHEMBL2396661
+liver disease,1.0,Liver Diseases,CHEMBL2396661
+head and neck squamous cell carcinoma,2.0,"Carcinoma, Squamous Cell",CHEMBL2326966
+neuroblastoma,1.0,Neuroblastoma,CHEMBL2326966
+endometrial carcinoma,2.0,Endometrial Neoplasms,CHEMBL1922094
+Transitional Cell Carcinoma,2.0,"Carcinoma, Transitional Cell",CHEMBL1879463
+myelodysplastic syndrome,2.0,Myelodysplastic Syndromes,CHEMBL592445
+neoplasm,1.0,Neoplasms,CHEMBL592445
+non-small cell lung carcinoma,1.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL592445
+non-Hodgkins lymphoma,1.0,"Lymphoma, Non-Hodgkin",CHEMBL2331680
+hepatocellular carcinoma,1.0,"Carcinoma, Hepatocellular",CHEMBL2326966
+acute myeloid leukemia,1.0,"Leukemia, Myeloid, Acute",CHEMBL3040440
+pancreatic carcinoma,1.0,Pancreatic Neoplasms,CHEMBL3040440
+mesothelioma,1.0,Mesothelioma,CHEMBL3393066
+multiple myeloma,1.0,Multiple Myeloma,CHEMBL2396661
+pancreatic carcinoma,1.0,Pancreatic Neoplasms,CHEMBL2396661
+breast neoplasm,4.0,Breast Neoplasms,CHEMBL2396661
+upper aerodigestive tract neoplasm,2.0,Head and Neck Neoplasms,CHEMBL2396661
+esophageal squamous cell carcinoma,1.0,Esophageal Neoplasms,CHEMBL2396661
+rectum cancer,1.0,Rectal Neoplasms,CHEMBL2396661
+oropharynx cancer,1.0,Oropharyngeal Neoplasms,CHEMBL2396661
+hepatocellular carcinoma,2.0,"Carcinoma, Hepatocellular",CHEMBL3586404
+diffuse large B-cell lymphoma,1.0,"Lymphoma, Large B-Cell, Diffuse",CHEMBL3586404
+glioblastoma multiforme,1.0,Glioblastoma,CHEMBL3586404
+multiple myeloma,1.0,Multiple Myeloma,CHEMBL3586404
+non-small cell lung carcinoma,1.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL3586404
+lymphoid neoplasm,1.0,Hematologic Neoplasms,CHEMBL4303323
+breast neoplasm,2.0,Breast Neoplasms,CHEMBL1234354
+neoplasm of mature B-cells,3.0,"Lymphoma, Follicular",CHEMBL4650214
+idiopathic pulmonary fibrosis,2.0,Idiopathic Pulmonary Fibrosis,CHEMBL1950289
+psoriasis vulgaris,2.0,Psoriasis,CHEMBL1097999
+diffuse large B-cell lymphoma,1.0,"Lymphoma, Large B-Cell, Diffuse",CHEMBL4650214
+Mantle cell lymphoma,1.0,"Lymphoma, Mantle-Cell",CHEMBL4650214
+lymphoma,1.0,Lymphoma,CHEMBL4297584
+breast cancer,2.0,Breast Neoplasms,CHEMBL1922094
+prostate cancer,1.0,"Prostatic Neoplasms, Castration-Resistant",CHEMBL1922094
+infection,3.0,Infections,CHEMBL1879463
+pancreatic neuroendocrine tumor,2.0,Neuroendocrine Tumors,CHEMBL1879463
+kidney cancer,1.0,Kidney Neoplasms,CHEMBL1879463
+breast cancer,2.0,Breast Neoplasms,CHEMBL1879463
+prostate cancer,1.0,"Prostatic Neoplasms, Castration-Resistant",CHEMBL1879463
+endometrial cancer,2.0,Endometrial Neoplasms,CHEMBL1879463
+breast cancer,3.0,Breast Neoplasms,CHEMBL592445
+B-cell acute lymphoblastic leukemia,1.0,"Leukemia, Biphenotypic, Acute",CHEMBL3040440
+breast cancer,1.0,Breast Neoplasms,CHEMBL3545096
+breast cancer,4.0,Breast Neoplasms,CHEMBL2396661
+neuroendocrine neoplasm,1.0,Neuroendocrine Tumors,CHEMBL3586404
+breast cancer,1.0,Breast Neoplasms,CHEMBL3586404
+myeloid leukemia,1.0,"Leukemia, Myeloid",CHEMBL1614713
+breast cancer,2.0,Breast Neoplasms,CHEMBL1234354
+follicular lymphoma,3.0,"Lymphoma, Follicular",CHEMBL4650214
+chronic lymphocytic leukemia,2.0,"Leukemia, Lymphocytic, Chronic, B-Cell",CHEMBL4297584
+non-Hodgkins lymphoma,2.0,"Lymphoma, Non-Hodgkin",CHEMBL4297584
+classic Hodgkin lymphoma,1.0,Hodgkin Disease,CHEMBL4297584
+COVID-19,2.0,Severe Acute Respiratory Syndrome,CHEMBL1879463
+gastric cancer,1.0,Stomach Neoplasms,CHEMBL2396661
+oropharynx squamous cell carcinoma,2.0,Squamous Cell Carcinoma of Head and Neck,CHEMBL2396661
+neoplasm,2.0,Neoplasms,CHEMBL3586404
+Cowden disease,1.0,"Hamartoma Syndrome, Multiple",CHEMBL3545096
+gastrointestinal stromal tumor,1.0,Gastrointestinal Stromal Tumors,CHEMBL2396661
+endometrial cancer,2.0,Endometrial Neoplasms,CHEMBL2396661
+meningioma,1.0,Meningioma,CHEMBL2396661
+lymphatic malformation,1.0,Lymphedema,CHEMBL3120215
+unspecified peripheral T-cell lymphoma,2.0,"Lymphoma, T-Cell, Peripheral",CHEMBL4297584
+breast cancer,2.0,Breast Neoplasms,CHEMBL4297584
+cancer,1.0,Neoplasms,CHEMBL1922094
+cancer,2.0,Neoplasms,CHEMBL1879463
+cancer,1.0,Neoplasms,CHEMBL592445
+cancer,1.0,Neoplasms,CHEMBL2326966
+cancer,1.0,Neoplasms,CHEMBL3545096
+triple-negative breast cancer,2.0,Triple Negative Breast Neoplasms,CHEMBL2396661
+cancer,4.0,Neoplasms,CHEMBL2396661
+cancer,1.0,Neoplasms,CHEMBL1234354
+cancer,1.0,Neoplasms,CHEMBL4650214
+ovarian carcinoma,2.0,Ovarian Neoplasms,CHEMBL2396661
+Uveal Melanoma,1.0,Uveal Melanoma,CHEMBL2396661
+colorectal cancer,2.0,Colorectal Neoplasms,CHEMBL2396661
+lymphatic malformation,2.0,Lymphedema,CHEMBL2396661
+neoplasm of oropharynx,1.0,Oropharyngeal Neoplasms,CHEMBL2396661
+B-cell acute lymphoblastic leukemia,1.0,"Leukemia, B-Cell",CHEMBL4650214
+Cutaneous T-cell lymphoma,1.0,"Lymphoma, T-Cell, Cutaneous",CHEMBL4297584
+hematologic disorder,1.0,Hematologic Diseases,CHEMBL4297584
+non-small cell lung carcinoma,2.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL3137331
+malignant pleural mesothelioma,2.0,Mesothelioma,CHEMBL3137331
+neoplasm,3.0,Neoplasms,CHEMBL2103839
+sarcoma,3.0,Sarcoma,CHEMBL2103839
+non-small cell lung carcinoma,2.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL2103839
+Mantle cell lymphoma,2.0,"Lymphoma, Mantle-Cell",CHEMBL3218576
+chronic obstructive pulmonary disease,2.0,"Pulmonary Disease, Chronic Obstructive",CHEMBL5314409
+neoplasm,1.0,Neoplasms,CHEMBL4297181
+non-Hodgkins lymphoma,3.0,"Lymphoma, Non-Hodgkin",CHEMBL3218576
+Hodgkins lymphoma,2.0,Hodgkin Disease,CHEMBL3545054
+diffuse large B-cell lymphoma,2.0,"Lymphoma, Large B-Cell, Diffuse",CHEMBL3218576
+neoplasm,4.0,Neoplasms,CHEMBL3218576
+osteosarcoma,3.0,Osteosarcoma,CHEMBL2103839
+myelodysplastic syndrome,2.0,Myelodysplastic Syndromes,CHEMBL2103839
+leiomyosarcoma,2.0,Leiomyosarcoma,CHEMBL2103839
+leukemia,2.0,Leukemia,CHEMBL2103839
+liposarcoma,2.0,Liposarcoma,CHEMBL2103839
+lymphoma,2.0,Lymphoma,CHEMBL2103839
+primary myelofibrosis,2.0,Primary Myelofibrosis,CHEMBL2103839
+breast neoplasm,2.0,Breast Neoplasms,CHEMBL2103839
+gliosarcoma,1.0,Gliosarcoma,CHEMBL2103839
+soft tissue sarcoma,3.0,Sarcoma,CHEMBL2103839
+pancreatic carcinoma,2.0,Pancreatic Neoplasms,CHEMBL3137331
+glioblastoma multiforme,1.0,Glioblastoma,CHEMBL3545366
+non-small cell lung carcinoma,1.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL3545366
+neoplasm of mature B-cells,4.0,"Lymphoma, Follicular",CHEMBL3545068
+breast carcinoma,2.0,Breast Neoplasms,CHEMBL3218576
+lymphoma,1.0,Lymphoma,CHEMBL3218576
+squamous cell carcinoma,1.0,"Carcinoma, Squamous Cell",CHEMBL3218576
+gallbladder neoplasm,2.0,Gallbladder Neoplasms,CHEMBL3218576
+cholangiocarcinoma,2.0,Cholangiocarcinoma,CHEMBL3218576
+mesothelioma,1.0,Mesothelioma,CHEMBL4297181
+non-small cell lung carcinoma,2.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL4297181
+breast neoplasm,1.0,Breast Neoplasms,CHEMBL4297181
+colorectal neoplasm,1.0,Colorectal Neoplasms,CHEMBL4297181
+non-Hodgkins lymphoma,1.0,"Lymphoma, Non-Hodgkin",CHEMBL4297181
+myocardial infarction,1.0,Myocardial Infarction,CHEMBL230011
+diffuse large B-cell lymphoma,1.0,"Lymphoma, Large B-Cell, Diffuse",CHEMBL2336325
+non-small cell lung carcinoma,2.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL2336325
+chronic lymphocytic leukemia,1.0,"Leukemia, Lymphocytic, Chronic, B-Cell",CHEMBL3545366
+lymphoma,2.0,Lymphoma,CHEMBL3545366
+neoplasm,1.0,Neoplasms,CHEMBL3545366
+melanoma,1.0,Melanoma,CHEMBL3545366
+Mantle cell lymphoma,1.0,"Lymphoma, Mantle-Cell",CHEMBL3545366
+breast carcinoma,1.0,Breast Neoplasms,CHEMBL3545068
+metastasis,1.0,Neoplasm Metastasis,CHEMBL4297181
+adenocarcinoma,2.0,Adenocarcinoma,CHEMBL2336325
+clear cell renal carcinoma,2.0,"Carcinoma, Renal Cell",CHEMBL2336325
+gastric adenocarcinoma,2.0,Stomach Neoplasms,CHEMBL2336325
+glioblastoma multiforme,1.0,Glioblastoma,CHEMBL2336325
+neoplasm,2.0,Neoplasms,CHEMBL2336325
+small cell lung carcinoma,2.0,Small Cell Lung Carcinoma,CHEMBL2336325
+squamous cell carcinoma,2.0,"Carcinoma, Squamous Cell",CHEMBL2336325
+squamous cell lung carcinoma,2.0,"Carcinoma, Squamous Cell",CHEMBL2336325
+stomach neoplasm,2.0,Stomach Neoplasms,CHEMBL2336325
+triple-negative breast cancer,1.0,Triple Negative Breast Neoplasms,CHEMBL2336325
+endometrial carcinoma,1.0,Endometrial Neoplasms,CHEMBL2336325
+Hereditary breast and ovarian cancer syndrome,1.0,Hereditary Breast and Ovarian Cancer Syndrome,CHEMBL2336325
+chronic obstructive pulmonary disease,2.0,"Pulmonary Disease, Chronic Obstructive",CHEMBL2216859
+hearing loss,3.0,Hearing Loss,CHEMBL4297348
+diffuse large B-cell lymphoma,1.0,"Lymphoma, Large B-Cell, Diffuse",CHEMBL4297615
+neoplasm,3.0,Neoplasms,CHEMBL4297615
+melanoma,1.0,Melanoma,CHEMBL4297615
+Sjogren syndrome,2.0,Sjogren's Syndrome,CHEMBL4297648
+inflammation,1.0,Inflammation,CHEMBL4297650
+multiple myeloma,1.0,Multiple Myeloma,CHEMBL2103839
+breast cancer,2.0,Breast Neoplasms,CHEMBL2103839
+prostate cancer,2.0,"Prostatic Neoplasms, Castration-Resistant",CHEMBL2103839
+endometrial cancer,2.0,Endometrial Neoplasms,CHEMBL2103839
+ovarian cancer,3.0,Ovarian Neoplasms,CHEMBL3137331
+mixed glioma,1.0,Glioma,CHEMBL3545366
+breast cancer,1.0,Breast Neoplasms,CHEMBL3545366
+ovarian cancer,2.0,Ovarian Neoplasms,CHEMBL3545366
+neoplasm,1.0,Neoplasms,CHEMBL3545068
+chronic lymphocytic leukemia,2.0,"Leukemia, Lymphocytic, Chronic, B-Cell",CHEMBL3218576
+breast cancer,2.0,Breast Neoplasms,CHEMBL3218576
+prostate cancer,1.0,"Prostatic Neoplasms, Castration-Resistant",CHEMBL3218576
+follicular lymphoma,2.0,"Lymphoma, Follicular",CHEMBL3218576
+malignant colon neoplasm,1.0,Colonic Neoplasms,CHEMBL3218576
+breast cancer,1.0,Breast Neoplasms,CHEMBL4297181
+prostate cancer,2.0,"Prostatic Neoplasms, Castration-Resistant",CHEMBL4297181
+endometrial cancer,2.0,Endometrial Neoplasms,CHEMBL4297181
+urinary bladder cancer,1.0,Urinary Bladder Neoplasms,CHEMBL2336325
+breast cancer,2.0,Breast Neoplasms,CHEMBL2336325
+prostate cancer,1.0,"Prostatic Neoplasms, Castration-Resistant",CHEMBL2336325
+neoplasm of mature B-cells,3.0,"Lymphoma, Follicular",CHEMBL4297615
+lymphoma,2.0,Lymphoma,CHEMBL4297615
+Sjogren syndrome,2.0,Sjogren's Syndrome,CHEMBL4297615
+myeloproliferative disorder,2.0,Myeloproliferative Disorders,CHEMBL4297615
+pemphigus vulgaris,2.0,Pemphigus,CHEMBL4297615
+"Anemia, Hemolytic, Autoimmune",3.0,"Anemia, Hemolytic, Autoimmune",CHEMBL4297615
+breast cancer,1.0,Breast Neoplasms,CHEMBL4297615
+endometrial cancer,1.0,Endometrial Neoplasms,CHEMBL4297615
+psoriasis,1.0,Psoriasis,CHEMBL4297648
+breast cancer,4.0,Breast Neoplasms,CHEMBL4650215
+diffuse large B-cell lymphoma,2.0,"Lymphoma, Large B-Cell, Diffuse",CHEMBL3545068
+acute lymphoblastic leukemia,0.5,Precursor Cell Lymphoblastic Leukemia-Lymphoma,CHEMBL3218576
+chronic lymphocytic leukemia,1.0,"Leukemia, Lymphocytic, Chronic, B-Cell",CHEMBL4297615
+follicular lymphoma,3.0,"Lymphoma, Follicular",CHEMBL4297615
+neoplasm,2.0,Neoplasms,CHEMBL4650215
+diffuse scleroderma,2.0,"Scleroderma, Diffuse",CHEMBL2005186
+psoriasis,2.0,Psoriasis,CHEMBL2005186
+idiopathic pulmonary fibrosis,2.0,Idiopathic Pulmonary Fibrosis,CHEMBL2005186
+liver disease,1.0,Liver Diseases,CHEMBL2005186
+psoriasis vulgaris,2.0,Psoriasis,CHEMBL2005186
+graft versus host disease,2.0,Graft vs Host Disease,CHEMBL2005186
+non-small cell lung carcinoma,1.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL3899477
+bone sarcoma,3.0,Osteosarcoma,CHEMBL2103839
+Mantle cell lymphoma,1.0,"Lymphoma, Mantle-Cell",CHEMBL3545068
+follicular lymphoma,4.0,"Lymphoma, Follicular",CHEMBL3545068
+non-small cell lung carcinoma,1.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL3218576
+Renal insufficiency,1.0,Renal Insufficiency,CHEMBL3218576
+Mantle cell lymphoma,3.0,"Lymphoma, Mantle-Cell",CHEMBL4297615
+endometrioid carcinoma,1.0,"Carcinoma, Endometrioid",CHEMBL3137331
+asthma,1.0,Asthma,CHEMBL5314409
+Hodgkins lymphoma,1.0,Hodgkin Disease,CHEMBL3545068
+multiple myeloma,2.0,Multiple Myeloma,CHEMBL3545068
+mycosis fungoides,1.0,Mycosis Fungoides,CHEMBL3545068
+meningioma,2.0,Meningioma,CHEMBL2336325
+mature T-cell and NK-cell non-Hodgkin lymphoma,1.0,"Lymphoma, T-Cell, Peripheral",CHEMBL4297615
+immune system disease,4.0,Immune System Diseases,CHEMBL2005186
+cancer,3.0,Neoplasms,CHEMBL2103839
+glioblastoma multiforme,0.5,Glioblastoma,CHEMBL3137331
+cancer,1.0,Neoplasms,CHEMBL3137331
+female reproductive system neoplasm,2.0,"Genital Neoplasms, Female",CHEMBL3137331
+cancer,1.0,Neoplasms,CHEMBL3545054
+cancer,1.0,Neoplasms,CHEMBL3545366
+triple-negative breast cancer,1.0,Triple Negative Breast Neoplasms,CHEMBL3545068
+uterine corpus cancer,2.0,Endometrial Neoplasms,CHEMBL3218576
+urothelial carcinoma,1.0,Urinary Bladder Neoplasms,CHEMBL3218576
+cancer,2.0,Neoplasms,CHEMBL2336325
+cancer,3.0,Neoplasms,CHEMBL4297615
+cancer,2.0,Neoplasms,CHEMBL4650215
+endometrial cancer,1.0,Endometrial Neoplasms,CHEMBL4650215
+type II hypersensitivity reaction disease,1.0,Autoimmune Diseases,CHEMBL2005186
+chronic graft versus host disease,3.0,Bronchiolitis Obliterans Syndrome,CHEMBL2005186
+Malignant Pancreatic Neoplasm,1.0,Pancreatic Neoplasms,CHEMBL3899477
+melanoma,1.0,Melanoma,CHEMBL3137331
+thyroid carcinoma,2.0,Thyroid Neoplasms,CHEMBL3137331
+pancreatic ductal adenocarcinoma,2.0,"Carcinoma, Pancreatic Ductal",CHEMBL3137331
+colorectal cancer,2.0,Colorectal Neoplasms,CHEMBL3137331
+lung cancer,2.0,Lung Neoplasms,CHEMBL3137331
+non-Hodgkins lymphoma,1.0,"Lymphoma, Non-Hodgkin",CHEMBL3545366
+colorectal cancer,1.0,Colorectal Neoplasms,CHEMBL3545366
+Cutaneous T-cell lymphoma,1.0,"Lymphoma, T-Cell, Cutaneous",CHEMBL3545068
+non-Hodgkins lymphoma,1.0,"Lymphoma, Non-Hodgkin",CHEMBL3545068
+breast cancer,1.0,Breast Neoplasms,CHEMBL3545068
+marginal zone B-cell lymphoma,2.0,"Lymphoma, B-Cell, Marginal Zone",CHEMBL3218576
+pancreatic ductal adenocarcinoma,2.0,"Carcinoma, Pancreatic Ductal",CHEMBL4297181
+lymphoma,1.0,Lymphoma,CHEMBL2336325
+uterine neoplasm,1.0,Uterine Neoplasms,CHEMBL2336325
+lung cancer,1.0,Lung Neoplasms,CHEMBL2336325
+neoplasm,3.0,Neoplasms,CHEMBL3643413
+non-Hodgkins lymphoma,1.0,"Lymphoma, Non-Hodgkin",CHEMBL4297615
+breast neoplasm,4.0,Breast Neoplasms,CHEMBL4650215
+multiple myeloma,1.0,Multiple Myeloma,CHEMBL2005186
+non-small cell lung carcinoma,3.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL1567
+renal cell carcinoma,4.0,"Carcinoma, Renal Cell",CHEMBL1567
+hepatocellular carcinoma,3.0,"Carcinoma, Hepatocellular",CHEMBL1567
+clear cell renal carcinoma,4.0,"Carcinoma, Renal Cell",CHEMBL1567
+kidney neoplasm,3.0,Kidney Neoplasms,CHEMBL1567
+breast neoplasm,3.0,Breast Neoplasms,CHEMBL1567
+Mantle cell lymphoma,2.0,"Lymphoma, Mantle-Cell",CHEMBL300138
+diabetic retinopathy,3.0,Diabetic Retinopathy,CHEMBL91829
+lymphoma,2.0,Lymphoma,CHEMBL300138
+Kaposi's sarcoma,2.0,"Sarcoma, Kaposi",CHEMBL1567
+lymphoma,4.0,Lymphoma,CHEMBL5315125
+mesothelioma,2.0,Mesothelioma,CHEMBL1567
+melanoma,1.0,Melanoma,CHEMBL2103840
+non-small cell lung carcinoma,2.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL14762
+chronic lymphocytic leukemia,3.0,"Leukemia, Lymphocytic, Chronic, B-Cell",CHEMBL2103840
+glioblastoma multiforme,3.0,Glioblastoma,CHEMBL300138
+multiple myeloma,2.0,Multiple Myeloma,CHEMBL2103840
+multiple myeloma,2.0,Multiple Myeloma,CHEMBL1567
+diffuse large B-cell lymphoma,2.0,"Lymphoma, Large B-Cell, Diffuse",CHEMBL1567
+neoplasm of mature B-cells,2.0,"Lymphoma, Follicular",CHEMBL300138
+diabetes mellitus,2.0,Diabetes Mellitus,CHEMBL91829
+Cutaneous T-cell lymphoma,2.0,"Lymphoma, T-Cell, Cutaneous",CHEMBL300138
+papillary renal cell carcinoma,4.0,"Carcinoma, Renal Cell",CHEMBL1567
+neoplasm,1.0,Neoplasms,CHEMBL192986
+neoplasm,1.0,Neoplasms,CHEMBL4213970
+chronic lymphocytic leukemia,4.0,"Leukemia, Lymphocytic, Chronic, B-Cell",CHEMBL5315125
+lymphoid leukemia,1.0,"Leukemia, Lymphoid",CHEMBL300138
+neoplasm,1.0,Neoplasms,CHEMBL3544964
+neoplasm,1.0,Neoplasms,CHEMBL384304
+heart failure,1.0,Heart Failure,CHEMBL91829
+acute lymphoblastic leukemia,2.0,Precursor Cell Lymphoblastic Leukemia-Lymphoma,CHEMBL2103840
+acute myeloid leukemia,2.0,"Leukemia, Myeloid, Acute",CHEMBL2103840
+male breast carcinoma,1.0,"Breast Neoplasms, Male",CHEMBL2103840
+diabetic neuropathy,3.0,Diabetic Neuropathies,CHEMBL91829
+neoplasm,1.0,Neoplasms,CHEMBL14762
+pituitary-dependent Cushing's disease,2.0,Pituitary ACTH Hypersecretion,CHEMBL14762
+colorectal adenocarcinoma,2.0,Colorectal Neoplasms,CHEMBL300138
+diffuse large B-cell lymphoma,2.0,"Lymphoma, Large B-Cell, Diffuse",CHEMBL300138
+renal cell carcinoma,2.0,"Carcinoma, Renal Cell",CHEMBL300138
+small cell lung carcinoma,2.0,Small Cell Lung Carcinoma,CHEMBL300138
+multiple myeloma,2.0,Multiple Myeloma,CHEMBL300138
+non-small cell lung carcinoma,2.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL300138
+pancreatic neoplasm,2.0,Pancreatic Neoplasms,CHEMBL300138
+gliosarcoma,1.0,Gliosarcoma,CHEMBL300138
+chronic lymphocytic leukemia,2.0,"Leukemia, Lymphocytic, Chronic, B-Cell",CHEMBL1567
+acute myeloid leukemia,1.0,"Leukemia, Myeloid, Acute",CHEMBL1567
+follicular thyroid carcinoma,2.0,"Adenocarcinoma, Follicular",CHEMBL1567
+germ cell tumor,2.0,"Neoplasms, Germ Cell and Embryonal",CHEMBL1567
+glioblastoma multiforme,2.0,Glioblastoma,CHEMBL1567
+neoplasm,1.0,Neoplasms,CHEMBL1567
+papillary thyroid carcinoma,2.0,Thyroid Neoplasms,CHEMBL1567
+prostate adenocarcinoma,1.0,Prostatic Neoplasms,CHEMBL1567
+small cell lung carcinoma,1.0,Small Cell Lung Carcinoma,CHEMBL1567
+anaplastic astrocytoma,2.0,Astrocytoma,CHEMBL1567
+metastatic melanoma,1.0,Melanoma,CHEMBL1567
+stomach neoplasm,1.0,Stomach Neoplasms,CHEMBL1567
+male breast carcinoma,2.0,"Breast Neoplasms, Male",CHEMBL1567
+pancreatic endocrine carcinoma,3.0,"Carcinoma, Islet Cell",CHEMBL1567
+inflammatory breast carcinoma,2.0,Inflammatory Breast Neoplasms,CHEMBL1567
+gliosarcoma,2.0,Gliosarcoma,CHEMBL1567
+soft tissue sarcoma,1.0,Sarcoma,CHEMBL1567
+neoplasm of mature B-cells,4.0,"Lymphoma, Follicular",CHEMBL5315125
+non-Hodgkins lymphoma,1.0,"Lymphoma, Non-Hodgkin",CHEMBL3545420
+chronic lymphocytic leukemia,1.0,"Leukemia, Lymphocytic, Chronic, B-Cell",CHEMBL296468
+neoplasm,1.0,Neoplasms,CHEMBL296468
+multiple myeloma,1.0,Multiple Myeloma,CHEMBL296468
+Mantle cell lymphoma,1.0,"Lymphoma, Mantle-Cell",CHEMBL296468
+lymphoid neoplasm,1.0,Hematologic Neoplasms,CHEMBL3545083
+myelodysplastic syndrome,1.0,Myelodysplastic Syndromes,CHEMBL3590106
+acute myeloid leukemia,1.0,"Leukemia, Myeloid, Acute",CHEMBL3590106
+neoplasm,2.0,Neoplasms,CHEMBL3590106
+pancreatic carcinoma,1.0,Pancreatic Neoplasms,CHEMBL3590106
+hepatocellular carcinoma,2.0,"Carcinoma, Hepatocellular",CHEMBL564829
+Thymoma,2.0,Thymoma,CHEMBL564829
+neoplasm,1.0,Neoplasms,CHEMBL2103840
+non-Hodgkins lymphoma,3.0,"Lymphoma, Non-Hodgkin",CHEMBL300138
+Waldenstrom macroglobulinemia,2.0,Waldenstrom Macroglobulinemia,CHEMBL300138
+Fallopian Tube Carcinoma,2.0,Fallopian Tube Neoplasms,CHEMBL300138
+peritoneal neoplasm,2.0,Peritoneal Neoplasms,CHEMBL300138
+acute lymphoblastic leukemia,1.0,Precursor Cell Lymphoblastic Leukemia-Lymphoma,CHEMBL1567
+Thymic Carcinoma,2.0,Thymoma,CHEMBL1567
+Thymic Carcinoma,2.0,Thymoma,CHEMBL564829
+Sjogren syndrome,2.0,Sjogren's Syndrome,CHEMBL3989909
+prolymphocytic leukemia,1.0,"Leukemia, Prolymphocytic",CHEMBL2103840
+breast cancer,1.0,Breast Neoplasms,CHEMBL2103840
+breast cancer,1.0,Breast Neoplasms,CHEMBL14762
+breast cancer,2.0,Breast Neoplasms,CHEMBL300138
+ovarian cancer,2.0,Ovarian Neoplasms,CHEMBL300138
+prostate cancer,2.0,"Prostatic Neoplasms, Castration-Resistant",CHEMBL300138
+lung cancer,2.0,Lung Neoplasms,CHEMBL300138
+hypopharyngeal carcinoma,2.0,Hypopharyngeal Neoplasms,CHEMBL1567
+islet cell tumor,2.0,"Adenoma, Islet Cell",CHEMBL1567
+neuroendocrine neoplasm,4.0,Neuroendocrine Tumors,CHEMBL1567
+urinary bladder cancer,2.0,Urinary Bladder Neoplasms,CHEMBL1567
+peritoneum cancer,2.0,Peritoneal Neoplasms,CHEMBL1567
+fallopian tube cancer,2.0,Fallopian Tube Neoplasms,CHEMBL1567
+kidney cancer,3.0,Kidney Neoplasms,CHEMBL1567
+liver cancer,2.0,Liver Neoplasms,CHEMBL1567
+mixed glioma,2.0,Glioma,CHEMBL1567
+urethra cancer,2.0,Urethral Neoplasms,CHEMBL1567
+breast cancer,3.0,Breast Neoplasms,CHEMBL1567
+esophageal cancer,2.0,Esophageal Neoplasms,CHEMBL1567
+prostate cancer,2.0,"Prostatic Neoplasms, Castration-Resistant",CHEMBL1567
+lung cancer,2.0,Lung Neoplasms,CHEMBL1567
+medullary thyroid gland carcinoma,2.0,"Carcinoma, Medullary",CHEMBL1567
+oropharyngeal carcinoma,2.0,Oropharyngeal Neoplasms,CHEMBL1567
+follicular lymphoma,4.0,"Lymphoma, Follicular",CHEMBL5315125
+follicular lymphoma,2.0,"Lymphoma, Follicular",CHEMBL300138
+malignant glioma,2.0,Glioma,CHEMBL300138
+laryngeal squamous cell carcinoma,2.0,Squamous Cell Carcinoma of Head and Neck,CHEMBL1567
+pancreatic carcinoma,3.0,Pancreatic Neoplasms,CHEMBL1567
+type 1 diabetes mellitus,3.0,"Diabetes Mellitus, Type 1",CHEMBL91829
+type 2 diabetes mellitus,2.0,"Diabetes Mellitus, Type 2",CHEMBL91829
+cystic fibrosis,2.0,Cystic Fibrosis,CHEMBL14762
+Ehlers-Danlos syndrome,3.0,Ehlers-Danlos Syndrome,CHEMBL300138
+urinary bladder carcinoma,2.0,Urinary Bladder Neoplasms,CHEMBL1567
+von Hippel-Lindau disease,1.0,von Hippel-Lindau Disease,CHEMBL1567
+gastrointestinal stromal tumor,4.0,Gastrointestinal Stromal Tumors,CHEMBL1567
+malignant epithelial tumor of ovary,2.0,"Carcinoma, Ovarian Epithelial",CHEMBL1567
+Parkinson disease,2.0,Parkinson Disease,CHEMBL290352
+common variable immunodeficiency,2.0,Common Variable Immunodeficiency,CHEMBL3989909
+neoplasm,2.0,Neoplasms,CHEMBL300138
+cancer,2.0,Neoplasms,CHEMBL300138
+cancer,1.0,Neoplasms,CHEMBL1567
+inborn error of immunity,4.0,Primary Immunodeficiency Diseases,CHEMBL3989909
+neoplasm,1.0,Neoplasms,CHEMBL3984425
+pancreatic carcinoma,1.0,Pancreatic Neoplasms,CHEMBL2103840
+lymphoid leukemia,1.0,"Leukemia, Lymphoid",CHEMBL2103840
+non-Hodgkins lymphoma,1.0,"Lymphoma, Non-Hodgkin",CHEMBL2103840
+Paraganglioma,1.0,Paraganglioma,CHEMBL300138
+colorectal cancer,2.0,Colorectal Neoplasms,CHEMBL300138
+head and neck squamous cell carcinoma,2.0,"Carcinoma, Squamous Cell",CHEMBL1567
+astrocytoma,2.0,Astrocytoma,CHEMBL1567
+ovarian carcinoma,2.0,Ovarian Neoplasms,CHEMBL1567
+lymphoid leukemia,2.0,"Leukemia, Lymphoid",CHEMBL1567
+Ocular Melanoma,2.0,Uveal Melanoma,CHEMBL1567
+thyroid cancer,2.0,Thyroid Neoplasms,CHEMBL1567
+adult oligodendroglioma,2.0,Oligodendroglioma,CHEMBL1567
+iris melanoma,2.0,Uveal Melanoma,CHEMBL1567
+colorectal cancer,1.0,Colorectal Neoplasms,CHEMBL1567
+adult hepatocellular carcinoma,2.0,Liver Neoplasms,CHEMBL1567
+adult glioblastoma,2.0,Glioblastoma,CHEMBL1567
+cancer,1.0,Neoplasms,CHEMBL296468
+colorectal cancer,1.0,Colorectal Neoplasms,CHEMBL4213970
+Paraganglioma,0.5,Paraganglioma,CHEMBL3590106
+Uveal Melanoma,2.0,Uveal Melanoma,CHEMBL3590106
+small cell lung carcinoma,2.0,Small Cell Lung Carcinoma,CHEMBL2103851
+neoplasm,2.0,Neoplasms,CHEMBL1230609
+hepatocellular carcinoma,1.0,"Carcinoma, Hepatocellular",CHEMBL1230609
+clear cell renal carcinoma,2.0,"Carcinoma, Renal Cell",CHEMBL124660
+myocardial infarction,2.0,Myocardial Infarction,CHEMBL2107872
+acute myeloid leukemia,1.0,"Leukemia, Myeloid, Acute",CHEMBL4790100
+acute myeloid leukemia,1.0,"Leukemia, Myeloid, Acute",CHEMBL5314406
+glioblastoma multiforme,2.0,Glioblastoma,CHEMBL3813873
+neoplasm,1.0,Neoplasms,CHEMBL1980391
+Hodgkins lymphoma,2.0,Hodgkin Disease,CHEMBL3813873
+breast neoplasm,2.0,Breast Neoplasms,CHEMBL1721885
+gliosarcoma,2.0,Gliosarcoma,CHEMBL124660
+neoplasm,1.0,Neoplasms,CHEMBL3112866
+rheumatoid arthritis,1.0,"Arthritis, Rheumatoid",CHEMBL3813873
+neoplasm,1.0,Neoplasms,CHEMBL1721885
+melanoma,2.0,Melanoma,CHEMBL3813873
+nasopharyngeal neoplasm,2.0,Nasopharyngeal Neoplasms,CHEMBL1278146
+acute myeloid leukemia,1.0,"Leukemia, Myeloid, Acute",CHEMBL3813873
+neoplasm,2.0,Neoplasms,CHEMBL1278146
+renal cell carcinoma,2.0,"Carcinoma, Renal Cell",CHEMBL1278146
+age-related macular degeneration,2.0,Macular Degeneration,CHEMBL3545427
+non-small cell lung carcinoma,3.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL1278146
+renal cell carcinoma,2.0,"Carcinoma, Renal Cell",CHEMBL1230609
+neoplasm,1.0,Neoplasms,CHEMBL2103851
+acute myeloid leukemia,3.0,"Leukemia, Myeloid, Acute",CHEMBL2105728
+gastric adenocarcinoma,1.0,Stomach Neoplasms,CHEMBL2105728
+glioblastoma multiforme,2.0,Glioblastoma,CHEMBL2105728
+myelodysplastic syndrome,1.0,Myelodysplastic Syndromes,CHEMBL124660
+acute myeloid leukemia,1.0,"Leukemia, Myeloid, Acute",CHEMBL124660
+glioblastoma multiforme,1.0,Glioblastoma,CHEMBL124660
+oligoastrocytoma,2.0,Oligodendroglioma,CHEMBL124660
+anaplastic astrocytoma,2.0,Astrocytoma,CHEMBL124660
+anaplastic oligodendroglioma,2.0,Oligodendroglioma,CHEMBL124660
+renal cell carcinoma,3.0,"Carcinoma, Renal Cell",CHEMBL3545427
+gastric adenocarcinoma,1.0,Stomach Neoplasms,CHEMBL3188551
+metastatic melanoma,1.0,Melanoma,CHEMBL3188551
+neoplasm,1.0,Neoplasms,CHEMBL52885
+pancreatic carcinoma,2.0,Pancreatic Neoplasms,CHEMBL52885
+non-small cell lung carcinoma,1.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL52885
+neoplasm,4.0,Neoplasms,CHEMBL3813873
+prostate adenocarcinoma,1.0,Prostatic Neoplasms,CHEMBL3813873
+metastatic melanoma,2.0,Melanoma,CHEMBL3813873
+colorectal adenocarcinoma,3.0,Colorectal Neoplasms,CHEMBL1278146
+breast neoplasm,2.0,Breast Neoplasms,CHEMBL1278146
+acute myeloid leukemia,2.0,"Leukemia, Myeloid, Acute",CHEMBL5314391
+renal cell carcinoma,2.0,"Carcinoma, Renal Cell",CHEMBL5314391
+multiple myeloma,2.0,Multiple Myeloma,CHEMBL5314391
+non-small cell lung carcinoma,2.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL5314391
+neoplasm,1.0,Neoplasms,CHEMBL3545427
+small cell lung carcinoma,2.0,Small Cell Lung Carcinoma,CHEMBL3545427
+non-small cell lung carcinoma,2.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL3545427
+neoplasm,1.0,Neoplasms,CHEMBL3188551
+breast cancer,2.0,Breast Neoplasms,CHEMBL1230609
+lung cancer,1.0,Lung Neoplasms,CHEMBL1230609
+diffuse intrinsic pontine glioma,1.0,Diffuse Intrinsic Pontine Glioma,CHEMBL2105728
+gastric cancer,1.0,Stomach Neoplasms,CHEMBL3545427
+breast cancer,2.0,Breast Neoplasms,CHEMBL52885
+malignant peripheral nerve sheath tumor,1.0,Neurilemmoma,CHEMBL3813873
+liver disease,0.5,Liver Diseases,CHEMBL3813873
+angiosarcoma,2.0,Hemangiosarcoma,CHEMBL3813873
+breast cancer,2.0,Breast Neoplasms,CHEMBL3813873
+prostate cancer,2.0,"Prostatic Neoplasms, Castration-Resistant",CHEMBL3813873
+triple-negative breast cancer,3.0,Triple Negative Breast Neoplasms,CHEMBL1278146
+digestive system neuroendocrine neoplasm,2.0,Carcinoid Tumor,CHEMBL1278146
+ovarian cancer,2.0,Ovarian Neoplasms,CHEMBL5314391
+head and neck neoplasia,2.0,Head and Neck Neoplasms,CHEMBL1230609
+multiple myeloma,2.0,Multiple Myeloma,CHEMBL3188551
+pancreatic carcinoma,2.0,Pancreatic Neoplasms,CHEMBL1278146
+cervical cancer,2.0,Uterine Cervical Neoplasms,CHEMBL1278146
+breast cancer,2.0,Breast Neoplasms,CHEMBL1278146
+lung carcinoma,2.0,Lung Neoplasms,CHEMBL1278146
+esophageal squamous cell carcinoma,2.0,Esophageal Neoplasms,CHEMBL1278146
+intrahepatic cholangiocarcinoma,2.0,Cholangiocarcinoma,CHEMBL1278146
+gastrointestinal stromal tumor,3.0,Gastrointestinal Stromal Tumors,CHEMBL2105728
+gastrointestinal stromal tumor,1.0,Gastrointestinal Stromal Tumors,CHEMBL3813873
+melanoma,2.0,Melanoma,CHEMBL1278146
+gastrointestinal stromal tumor,3.0,Gastrointestinal Stromal Tumors,CHEMBL1278146
+cancer,2.0,Neoplasms,CHEMBL1230609
+cancer,1.0,Neoplasms,CHEMBL3545427
+cancer,1.0,Neoplasms,CHEMBL3188551
+cancer,1.0,Neoplasms,CHEMBL52885
+cancer,2.0,Neoplasms,CHEMBL1278146
+cancer,1.0,Neoplasms,CHEMBL5314391
+Paraganglioma,2.0,Paraganglioma,CHEMBL2105728
+renal cell carcinoma,2.0,"Carcinoma, Renal Cell",CHEMBL124660
+adult glioblastoma,1.0,Glioblastoma,CHEMBL124660
+melanoma,1.0,Melanoma,CHEMBL3188551
+colorectal cancer,2.0,Colorectal Neoplasms,CHEMBL52885
+breast neoplasm,2.0,Breast Neoplasms,CHEMBL3813873
+"tenosynovial giant cell tumor, diffuse type",3.0,"Synovitis, Pigmented Villonodular",CHEMBL3813873
+small cell lung carcinoma,2.0,Small Cell Lung Carcinoma,CHEMBL1278146
+nasopharyngeal carcinoma,1.0,Nasopharyngeal Carcinoma,CHEMBL1278146
+colorectal cancer,2.0,Colorectal Neoplasms,CHEMBL5314391
+acute myeloid leukemia,4.0,"Leukemia, Myeloid, Acute",CHEMBL608533
+acute myeloid leukemia,3.0,"Leukemia, Myeloid, Acute",CHEMBL576982
+acute myeloid leukemia,1.0,"Leukemia, Myeloid, Acute",CHEMBL522892
+neoplasm,4.0,Neoplasms,CHEMBL3301622
+renal cell carcinoma,2.0,"Carcinoma, Renal Cell",CHEMBL223360
+acute myeloid leukemia,3.0,"Leukemia, Myeloid, Acute",CHEMBL3301622
+neoplasm,3.0,Neoplasms,CHEMBL576982
+melanoma,1.0,Melanoma,CHEMBL522892
+multiple myeloma,2.0,Multiple Myeloma,CHEMBL522892
+adenoid cystic carcinoma,2.0,"Carcinoma, Adenoid Cystic",CHEMBL522892
+neoplasm,2.0,Neoplasms,CHEMBL522892
+neoplasm,1.0,Neoplasms,CHEMBL223360
+renal cell carcinoma,3.0,"Carcinoma, Renal Cell",CHEMBL522892
+malignant pleural mesothelioma,2.0,Mesothelioma,CHEMBL522892
+hepatocellular carcinoma,2.0,"Carcinoma, Hepatocellular",CHEMBL522892
+liver disease,1.0,Liver Diseases,CHEMBL3301622
+acute myeloid leukemia,4.0,"Leukemia, Myeloid, Acute",CHEMBL2105709
+clear cell renal carcinoma,3.0,"Carcinoma, Renal Cell",CHEMBL522892
+leukemia,3.0,Leukemia,CHEMBL608533
+non-small cell lung carcinoma,2.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL522892
+hepatocellular carcinoma,3.0,"Carcinoma, Hepatocellular",CHEMBL223360
+liver disease,1.0,Liver Diseases,CHEMBL608533
+glioblastoma multiforme,2.0,Glioblastoma,CHEMBL522892
+neoplasm,4.0,Neoplasms,CHEMBL535
+bladder tumor,2.0,Urinary Bladder Neoplasms,CHEMBL535
+renal cell carcinoma,4.0,"Carcinoma, Renal Cell",CHEMBL535
+non-small cell lung carcinoma,3.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL535
+head and neck squamous cell carcinoma,2.0,"Carcinoma, Squamous Cell",CHEMBL535
+hepatocellular carcinoma,2.0,"Carcinoma, Hepatocellular",CHEMBL535
+metastatic prostate cancer,3.0,Prostatic Neoplasms,CHEMBL535
+adenocarcinoma,2.0,Adenocarcinoma,CHEMBL535
+melanoma,2.0,Melanoma,CHEMBL535
+metastatic melanoma,2.0,Melanoma,CHEMBL535
+breast neoplasm,3.0,Breast Neoplasms,CHEMBL535
+Thymoma,2.0,Thymoma,CHEMBL535
+pancreatic carcinoma,2.0,Pancreatic Neoplasms,CHEMBL535
+glioblastoma multiforme,2.0,Glioblastoma,CHEMBL535
+small cell lung carcinoma,2.0,Small Cell Lung Carcinoma,CHEMBL535
+stomach neoplasm,2.0,Stomach Neoplasms,CHEMBL535
+neoplasm,4.0,Neoplasms,CHEMBL608533
+gliosarcoma,2.0,Gliosarcoma,CHEMBL522892
+rectum cancer,1.0,Rectal Neoplasms,CHEMBL608533
+thyroid carcinoma,2.0,Thyroid Neoplasms,CHEMBL535
+Ascites,2.0,Ascites,CHEMBL535
+prostate adenocarcinoma,3.0,Prostatic Neoplasms,CHEMBL535
+sarcoma,2.0,Sarcoma,CHEMBL535
+clear cell renal carcinoma,4.0,"Carcinoma, Renal Cell",CHEMBL535
+cholangiocarcinoma,2.0,Cholangiocarcinoma,CHEMBL535
+carcinoma,2.0,Carcinoma,CHEMBL535
+age-related macular degeneration,2.0,Macular Degeneration,CHEMBL223360
+non-small cell lung carcinoma,2.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL223360
+myelodysplastic syndrome,1.0,Myelodysplastic Syndromes,CHEMBL2105709
+myelodysplastic syndrome,2.0,Myelodysplastic Syndromes,CHEMBL608533
+mast-cell leukemia,4.0,"Leukemia, Mast-Cell",CHEMBL608533
+acute myeloid leukemia,1.0,"Leukemia, Myeloid, Acute",CHEMBL535
+germ cell tumor,2.0,"Neoplasms, Germ Cell and Embryonal",CHEMBL535
+urogenital neoplasm,3.0,Urogenital Neoplasms,CHEMBL535
+colorectal neoplasm,2.0,Colorectal Neoplasms,CHEMBL535
+carcinoid tumor,2.0,Carcinoid Tumor,CHEMBL535
+alveolar soft part sarcoma,2.0,"Sarcoma, Alveolar Soft Part",CHEMBL535
+Ebola hemorrhagic fever,1.0,"Hemorrhagic Fever, Ebola",CHEMBL535
+pancreatic endocrine carcinoma,2.0,"Carcinoma, Islet Cell",CHEMBL535
+gliosarcoma,1.0,Gliosarcoma,CHEMBL535
+colorectal carcinoma,2.0,Colorectal Neoplasms,CHEMBL535
+soft tissue sarcoma,2.0,Sarcoma,CHEMBL535
+urogenital neoplasm,2.0,Urogenital Neoplasms,CHEMBL522892
+non-small cell lung carcinoma,1.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL3301622
+neoplasm,1.0,Neoplasms,CHEMBL2041933
+renal cell carcinoma,1.0,"Carcinoma, Renal Cell",CHEMBL3545076
+non-small cell lung carcinoma,1.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL3545076
+neoplasm,1.0,Neoplasms,CHEMBL3545137
+neoplasm,1.0,Neoplasms,CHEMBL5314388
+lymphoma,1.0,Lymphoma,CHEMBL3545199
+Hodgkins lymphoma,1.0,Hodgkin Disease,CHEMBL2386889
+acute lymphoblastic leukemia,1.0,Precursor Cell Lymphoblastic Leukemia-Lymphoma,CHEMBL2386889
+acute myeloid leukemia,1.0,"Leukemia, Myeloid, Acute",CHEMBL2386889
+chronic myelogenous leukemia,1.0,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",CHEMBL2386889
+non-Hodgkins lymphoma,1.0,"Lymphoma, Non-Hodgkin",CHEMBL2386889
+endometriosis,1.0,Endometriosis,CHEMBL223360
+acute lymphoblastic leukemia,1.0,Precursor Cell Lymphoblastic Leukemia-Lymphoma,CHEMBL2105709
+acute lymphoblastic leukemia,1.0,Precursor Cell Lymphoblastic Leukemia-Lymphoma,CHEMBL608533
+osteosarcoma,1.0,Osteosarcoma,CHEMBL535
+urothelial carcinoma,2.0,Urinary Bladder Neoplasms,CHEMBL535
+Fallopian Tube Carcinoma,2.0,Fallopian Tube Neoplasms,CHEMBL535
+Thymic Carcinoma,2.0,Thymoma,CHEMBL535
+adrenal cortex carcinoma,2.0,Adrenal Cortex Neoplasms,CHEMBL535
+adrenal cortex carcinoma,2.0,Adrenal Cortex Neoplasms,CHEMBL522892
+myelodysplastic syndrome,2.0,Myelodysplastic Syndromes,CHEMBL3301622
+acute myeloid leukemia,4.0,"Leukemia, Myeloid, Acute",CHEMBL3301603
+Tenosynovial Giant Cell Tumor,4.0,Giant Cell Tumor of Tendon Sheath,CHEMBL3989973
+colorectal adenocarcinoma,2.0,Colorectal Neoplasms,CHEMBL223360
+rectum cancer,2.0,Rectal Neoplasms,CHEMBL223360
+breast cancer,2.0,Breast Neoplasms,CHEMBL223360
+malignant colon neoplasm,2.0,Colonic Neoplasms,CHEMBL223360
+systemic mastocytosis,4.0,"Mastocytosis, Systemic",CHEMBL608533
+adrenal gland pheochromocytoma,2.0,Pheochromocytoma,CHEMBL535
+pancreatic neuroendocrine tumor,4.0,Neuroendocrine Tumors,CHEMBL535
+neuroendocrine neoplasm,4.0,Neuroendocrine Tumors,CHEMBL535
+gastric cancer,2.0,Stomach Neoplasms,CHEMBL535
+urinary bladder cancer,2.0,Urinary Bladder Neoplasms,CHEMBL535
+peritoneum cancer,2.0,Peritoneal Neoplasms,CHEMBL535
+fallopian tube cancer,2.0,Fallopian Tube Neoplasms,CHEMBL535
+kidney cancer,3.0,Kidney Neoplasms,CHEMBL535
+breast cancer,3.0,Breast Neoplasms,CHEMBL535
+esophageal cancer,2.0,Esophageal Neoplasms,CHEMBL535
+ovarian cancer,2.0,Ovarian Neoplasms,CHEMBL535
+prostate cancer,2.0,"Prostatic Neoplasms, Castration-Resistant",CHEMBL535
+lung cancer,2.0,Lung Neoplasms,CHEMBL535
+myeloid leukemia,1.0,"Leukemia, Myeloid",CHEMBL2109328
+gastric cancer,2.0,Stomach Neoplasms,CHEMBL522892
+urinary bladder cancer,2.0,Urinary Bladder Neoplasms,CHEMBL522892
+thyroid cancer,2.0,Thyroid Neoplasms,CHEMBL522892
+breast cancer,2.0,Breast Neoplasms,CHEMBL522892
+prostate cancer,2.0,"Prostatic Neoplasms, Castration-Resistant",CHEMBL522892
+endometrial cancer,2.0,Endometrial Neoplasms,CHEMBL522892
+neuroendocrine neoplasm,1.0,Neuroendocrine Tumors,CHEMBL3545076
+Intervertebral disk degeneration,1.0,Intervertebral Disc Degeneration,CHEMBL4297639
+liver disease,1.0,Liver Diseases,CHEMBL576982
+kidney disease,1.0,Kidney Diseases,CHEMBL3301622
+metastasis,1.0,Neoplasm Metastasis,CHEMBL3545076
+"osteoarthritis, knee",3.0,"Osteoarthritis, Knee",CHEMBL4297639
+acute myeloid leukemia,1.0,"Leukemia, Myeloid, Acute",CHEMBL4650283
+acute myeloid leukemia,1.0,"Leukemia, Myeloid, Acute",CHEMBL4650288
+Mastocytosis,4.0,Mastocytosis,CHEMBL608533
+brain neoplasm,2.0,Brain Neoplasms,CHEMBL535
+myeloid leukemia,4.0,"Leukemia, Myeloid",CHEMBL3301603
+papillary renal cell carcinoma,4.0,"Carcinoma, Renal Cell",CHEMBL535
+von Hippel-Lindau disease,2.0,von Hippel-Lindau Disease,CHEMBL535
+gastrointestinal stromal tumor,4.0,Gastrointestinal Stromal Tumors,CHEMBL535
+von Hippel-Lindau disease,2.0,von Hippel-Lindau Disease,CHEMBL522892
+gastrointestinal stromal tumor,2.0,Gastrointestinal Stromal Tumors,CHEMBL522892
+osteoarthritis,2.0,Osteoarthritis,CHEMBL4297639
+cancer,4.0,Neoplasms,CHEMBL535
+cancer,2.0,Neoplasms,CHEMBL522892
+cancer,1.0,Neoplasms,CHEMBL2041933
+cancer,1.0,Neoplasms,CHEMBL3545076
+non-small cell lung carcinoma,2.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL3984441
+myelodysplastic syndrome,1.0,Myelodysplastic Syndromes,CHEMBL576982
+myeloid leukemia,4.0,"Leukemia, Myeloid",CHEMBL2105709
+thymus neoplasm,2.0,Thymus Neoplasms,CHEMBL535
+kidney disease,1.0,Kidney Diseases,CHEMBL535
+kidney neoplasm,3.0,Kidney Neoplasms,CHEMBL535
+renal cell adenocarcinoma,4.0,"Carcinoma, Renal Cell",CHEMBL535
+Uveal Melanoma,2.0,Uveal Melanoma,CHEMBL535
+liver cancer,2.0,Liver Neoplasms,CHEMBL535
+iris melanoma,2.0,Uveal Melanoma,CHEMBL535
+nasopharyngeal carcinoma,2.0,Nasopharyngeal Carcinoma,CHEMBL535
+malignant glioma,2.0,Glioma,CHEMBL535
+adrenal gland pheochromocytoma,2.0,Pheochromocytoma,CHEMBL522892
+brain neoplasm,2.0,Brain Neoplasms,CHEMBL522892
+adult glioblastoma,2.0,Glioblastoma,CHEMBL522892
+leukemia,1.0,Leukemia,CHEMBL3301622
+myeloid leukemia,3.0,"Leukemia, Myeloid",CHEMBL3301622
+liver disease,1.0,Liver Diseases,CHEMBL1873475
+neoplasm,4.0,Neoplasms,CHEMBL1873475
+lymphoma,3.0,Lymphoma,CHEMBL1873475
+macroglobulinemia,4.0,Waldenstrom Macroglobulinemia,CHEMBL1873475
+multiple myeloma,2.0,Multiple Myeloma,CHEMBL1873475
+chronic lymphocytic leukemia,4.0,"Leukemia, Lymphocytic, Chronic, B-Cell",CHEMBL1873475
+leukemia,2.0,Leukemia,CHEMBL1873475
+Mantle cell lymphoma,4.0,"Lymphoma, Mantle-Cell",CHEMBL1873475
+lymphoid leukemia,2.0,"Leukemia, Lymphoid",CHEMBL1873475
+non-small cell lung carcinoma,4.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL3707320
+acute myeloid leukemia,2.0,"Leukemia, Myeloid, Acute",CHEMBL1873475
+lymphoma,1.0,Lymphoma,CHEMBL483158
+prostate adenocarcinoma,2.0,Prostatic Neoplasms,CHEMBL483158
+neoplasm of mature B-cells,3.0,"Lymphoma, Follicular",CHEMBL1873475
+neoplasm,1.0,Neoplasms,CHEMBL483158
+non-Hodgkins lymphoma,3.0,"Lymphoma, Non-Hodgkin",CHEMBL1873475
+neuroblastoma,1.0,Neuroblastoma,CHEMBL483158
+Hodgkins lymphoma,2.0,Hodgkin Disease,CHEMBL1873475
+ovarian carcinoma,2.0,Ovarian Neoplasms,CHEMBL483158
+carcinoid tumor,2.0,Carcinoid Tumor,CHEMBL1873475
+breast carcinoma,2.0,Breast Neoplasms,CHEMBL483158
+acute lymphoblastic leukemia,1.0,Precursor Cell Lymphoblastic Leukemia-Lymphoma,CHEMBL1873475
+diffuse large B-cell lymphoma,3.0,"Lymphoma, Large B-Cell, Diffuse",CHEMBL1873475
+diabetic nephropathy,2.0,Diabetic Nephropathies,CHEMBL3916717
+neoplasm,1.0,Neoplasms,CHEMBL3692206
+neoplasm,2.0,Neoplasms,CHEMBL4285417
+neoplasm,1.0,Neoplasms,CHEMBL3600873
+myelodysplastic syndrome,2.0,Myelodysplastic Syndromes,CHEMBL483158
+unspecified peripheral T-cell lymphoma,3.0,"Lymphoma, T-Cell, Peripheral",CHEMBL483158
+acute myeloid leukemia,2.0,"Leukemia, Myeloid, Acute",CHEMBL483158
+Burkitts lymphoma,1.0,Burkitt Lymphoma,CHEMBL483158
+diffuse large B-cell lymphoma,1.0,"Lymphoma, Large B-Cell, Diffuse",CHEMBL483158
+small cell lung carcinoma,2.0,Small Cell Lung Carcinoma,CHEMBL483158
+multiple myeloma,1.0,Multiple Myeloma,CHEMBL483158
+head and neck malignant neoplasia,1.0,Head and Neck Neoplasms,CHEMBL483158
+Mantle cell lymphoma,1.0,"Lymphoma, Mantle-Cell",CHEMBL483158
+myelodysplastic syndrome,1.0,Myelodysplastic Syndromes,CHEMBL1873475
+Burkitts lymphoma,2.0,Burkitt Lymphoma,CHEMBL1873475
+cutaneous melanoma,2.0,Melanoma,CHEMBL1873475
+renal cell carcinoma,1.0,"Carcinoma, Renal Cell",CHEMBL1873475
+metastatic melanoma,2.0,Melanoma,CHEMBL1873475
+non-small cell lung carcinoma,2.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL1873475
+amyloidosis,2.0,Amyloidosis,CHEMBL1873475
+food allergy,2.0,Food Hypersensitivity,CHEMBL1873475
+neoplasm,1.0,Neoplasms,CHEMBL3039517
+non-small cell lung carcinoma,2.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL3039517
+pancreatic neoplasm,1.0,Pancreatic Neoplasms,CHEMBL3039517
+chronic lymphocytic leukemia,1.0,"Leukemia, Lymphocytic, Chronic, B-Cell",CHEMBL4285417
+head and neck squamous cell carcinoma,2.0,"Carcinoma, Squamous Cell",CHEMBL4285417
+breast carcinoma,2.0,Breast Neoplasms,CHEMBL4285417
+small cell lung carcinoma,2.0,Small Cell Lung Carcinoma,CHEMBL4285417
+non-small cell lung carcinoma,3.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL4285417
+pancreatic neoplasm,1.0,Pancreatic Neoplasms,CHEMBL259084
+breast neoplasm,1.0,Breast Neoplasms,CHEMBL259084
+colonic neoplasm,1.0,Colonic Neoplasms,CHEMBL259084
+neoplasm,1.0,Neoplasms,CHEMBL3989870
+small cell lung carcinoma,2.0,Small Cell Lung Carcinoma,CHEMBL3989870
+ovarian carcinoma,2.0,Ovarian Neoplasms,CHEMBL3989870
+chronic lymphocytic leukemia,1.0,"Leukemia, Lymphocytic, Chronic, B-Cell",CHEMBL3905910
+melanoma,1.0,Melanoma,CHEMBL3905910
+glioblastoma multiforme,1.0,Glioblastoma,CHEMBL1873475
+Waldenstrom macroglobulinemia,4.0,Waldenstrom Macroglobulinemia,CHEMBL1873475
+marginal zone B-cell lymphoma,3.0,"Lymphoma, B-Cell, Marginal Zone",CHEMBL1873475
+"Anemia, Hemolytic, Autoimmune",2.0,"Anemia, Hemolytic, Autoimmune",CHEMBL1873475
+breast neoplasm,2.0,Breast Neoplasms,CHEMBL4285417
+pulmonary arterial hypertension,2.0,"Hypertension, Pulmonary",CHEMBL3916717
+"Hepatitis, Alcoholic",2.0,"Hepatitis, Alcoholic",CHEMBL3916717
+metastatic prostate cancer,2.0,Prostatic Neoplasms,CHEMBL3989870
+rheumatoid arthritis,2.0,"Arthritis, Rheumatoid",CHEMBL4081711
+hidradenitis suppurativa,2.0,Hidradenitis Suppurativa,CHEMBL4081711
+peritoneum cancer,2.0,Peritoneal Neoplasms,CHEMBL483158
+fallopian tube cancer,2.0,Fallopian Tube Neoplasms,CHEMBL483158
+digestive system cancer,1.0,Digestive System Neoplasms,CHEMBL483158
+breast cancer,2.0,Breast Neoplasms,CHEMBL483158
+follicular lymphoma,1.0,"Lymphoma, Follicular",CHEMBL483158
+head and neck squamous cell carcinoma,2.0,"Carcinoma, Squamous Cell",CHEMBL1873475
+mast-cell leukemia,2.0,"Leukemia, Mast-Cell",CHEMBL1873475
+T-Cell Prolymphocytic Leukemia,2.0,"Leukemia, Prolymphocytic, T-Cell",CHEMBL1873475
+prolymphocytic leukemia,2.0,"Leukemia, Prolymphocytic",CHEMBL1873475
+breast cancer,1.0,Breast Neoplasms,CHEMBL1873475
+esophageal cancer,2.0,Esophageal Neoplasms,CHEMBL1873475
+prostate cancer,2.0,"Prostatic Neoplasms, Castration-Resistant",CHEMBL1873475
+lung cancer,1.0,Lung Neoplasms,CHEMBL1873475
+classic Hodgkin lymphoma,2.0,Hodgkin Disease,CHEMBL1873475
+graft versus host disease,3.0,Graft vs Host Disease,CHEMBL1873475
+follicular lymphoma,3.0,"Lymphoma, Follicular",CHEMBL1873475
+malignant colon neoplasm,1.0,Colonic Neoplasms,CHEMBL1873475
+hematopoietic and lymphoid cell neoplasm,2.0,Hematologic Neoplasms,CHEMBL1873475
+adenocarcinoma,2.0,Adenocarcinoma,CHEMBL4285417
+diffuse large B-cell lymphoma,1.0,"Lymphoma, Large B-Cell, Diffuse",CHEMBL4285417
+squamous cell carcinoma,2.0,"Carcinoma, Squamous Cell",CHEMBL4285417
+prolymphocytic leukemia,1.0,"Leukemia, Prolymphocytic",CHEMBL4285417
+bile duct cancer,2.0,Bile Duct Neoplasms,CHEMBL4285417
+breast cancer,2.0,Breast Neoplasms,CHEMBL4285417
+ovarian cancer,2.0,Ovarian Neoplasms,CHEMBL4285417
+prostate cancer,2.0,"Prostatic Neoplasms, Castration-Resistant",CHEMBL4285417
+cervical adenocarcinoma,1.0,Uterine Cervical Neoplasms,CHEMBL3989870
+non-small cell lung carcinoma,1.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL3989870
+ovarian neoplasm,2.0,Ovarian Neoplasms,CHEMBL3989870
+ovarian cancer,2.0,Ovarian Neoplasms,CHEMBL3989870
+hematopoietic and lymphoid cell neoplasm,1.0,Hematologic Neoplasms,CHEMBL3905910
+breast cancer,2.0,Breast Neoplasms,CHEMBL4297462
+prostate cancer,2.0,"Prostatic Neoplasms, Castration-Resistant",CHEMBL4297462
+immune system disease,1.0,Immune System Diseases,CHEMBL4435170
+psoriasis,4.0,Psoriasis,CHEMBL4435170
+ulcerative colitis,2.0,"Colitis, Ulcerative",CHEMBL4435170
+kidney disease,1.0,Kidney Diseases,CHEMBL4435170
+lupus nephritis,2.0,Lupus Nephritis,CHEMBL4435170
+Decreased liver function,1.0,Liver Diseases,CHEMBL4435170
+head and neck squamous cell carcinoma,1.0,"Carcinoma, Squamous Cell",CHEMBL483158
+non-small cell lung carcinoma,1.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL483158
+COVID-19,2.0,Severe Acute Respiratory Syndrome,CHEMBL1873475
+osteosarcoma,2.0,Osteosarcoma,CHEMBL4285417
+leiomyosarcoma,2.0,Leiomyosarcoma,CHEMBL3989870
+COVID-19,2.0,Severe Acute Respiratory Syndrome,CHEMBL4081711
+psoriasis,2.0,Psoriasis,CHEMBL4459585
+hidradenitis suppurativa,2.0,Hidradenitis Suppurativa,CHEMBL4459585
+neoplasm,1.0,Neoplasms,CHEMBL4650286
+breast cancer,1.0,Breast Neoplasms,CHEMBL4650286
+ovarian cancer,1.0,Ovarian Neoplasms,CHEMBL4650286
+oral squamous cell carcinoma,1.0,Squamous Cell Carcinoma of Head and Neck,CHEMBL3989870
+laryngeal squamous cell carcinoma,1.0,Squamous Cell Carcinoma of Head and Neck,CHEMBL3989870
+hypopharyngeal squamous cell carcinoma,1.0,Squamous Cell Carcinoma of Head and Neck,CHEMBL3989870
+psoriatic arthritis,3.0,"Arthritis, Psoriatic",CHEMBL4435170
+cutaneous lupus erythematosus,2.0,"Lupus Erythematosus, Cutaneous",CHEMBL4435170
+ulcerative colitis,2.0,"Colitis, Ulcerative",CHEMBL4459585
+anaphylaxis,2.0,Anaphylaxis,CHEMBL1873475
+carcinoma,2.0,Carcinoma,CHEMBL4285417
+melanoma,2.0,Melanoma,CHEMBL4285417
+non-alcoholic fatty liver disease,3.0,Non-alcoholic Fatty Liver Disease,CHEMBL3916717
+non-alcoholic steatohepatitis,3.0,Non-alcoholic Fatty Liver Disease,CHEMBL3916717
+pancreatic carcinoma,1.0,Pancreatic Neoplasms,CHEMBL3989870
+neoplasm,1.0,Neoplasms,CHEMBL4647810
+Mantle cell lymphoma,1.0,"Lymphoma, Mantle-Cell",CHEMBL4647810
+cancer,1.0,Neoplasms,CHEMBL483158
+lymphoid neoplasm,2.0,Hematologic Neoplasms,CHEMBL1873475
+cancer,4.0,Neoplasms,CHEMBL1873475
+chronic graft versus host disease,3.0,Bronchiolitis Obliterans Syndrome,CHEMBL1873475
+cancer,1.0,Neoplasms,CHEMBL3039517
+triple-negative breast cancer,2.0,Triple Negative Breast Neoplasms,CHEMBL4285417
+cancer,2.0,Neoplasms,CHEMBL4285417
+cancer,1.0,Neoplasms,CHEMBL4303241
+cancer,1.0,Neoplasms,CHEMBL259084
+triple-negative breast cancer,1.0,Triple Negative Breast Neoplasms,CHEMBL3989870
+cancer,1.0,Neoplasms,CHEMBL3905910
+cancer,1.0,Neoplasms,CHEMBL4456085
+acute respiratory distress syndrome,1.0,Respiratory Distress Syndrome,CHEMBL4081711
+systemic lupus erythematosus,1.0,"Lupus Erythematosus, Systemic",CHEMBL4081711
+cancer,1.0,Neoplasms,CHEMBL4297462
+neoplasm,2.0,Neoplasms,CHEMBL3408947
+alopecia areata,2.0,Alopecia Areata,CHEMBL4435170
+Pyoderma,0.5,Pyoderma,CHEMBL4435170
+systemic lupus erythematosus,2.0,"Lupus Erythematosus, Systemic",CHEMBL4435170
+inflammation,1.0,Inflammation,CHEMBL4435170
+ovarian cancer,1.0,Ovarian Neoplasms,CHEMBL4647810
+inflammatory bowel disease,1.0,Inflammatory Bowel Diseases,CHEMBL4459585
+breast neoplasm,2.0,Breast Neoplasms,CHEMBL483158
+urinary bladder cancer,2.0,Urinary Bladder Neoplasms,CHEMBL483158
+head and neck malignant neoplasia,2.0,Head and Neck Neoplasms,CHEMBL1873475
+colorectal cancer,1.0,Colorectal Neoplasms,CHEMBL1873475
+systemic mastocytosis,2.0,"Mastocytosis, Systemic",CHEMBL1873475
+cholangiocarcinoma,2.0,Cholangiocarcinoma,CHEMBL4285417
+non-Hodgkins lymphoma,1.0,"Lymphoma, Non-Hodgkin",CHEMBL4285417
+squamous cell carcinoma,1.0,"Carcinoma, Squamous Cell",CHEMBL3989870
+prostate carcinoma,2.0,Prostatic Neoplasms,CHEMBL3989870
+colorectal carcinoma,1.0,Colorectal Neoplasms,CHEMBL3989870
+head and neck carcinoma,1.0,Head and Neck Neoplasms,CHEMBL3989870
+Sjogren syndrome,3.0,Sjogren's Syndrome,CHEMBL4435170
+Vitiligo,3.0,Vitiligo,CHEMBL4435170
+lichen planopilaris,2.0,Lichen Planus,CHEMBL4435170
+hidradenitis suppurativa,2.0,Hidradenitis Suppurativa,CHEMBL4435170
+psoriasis vulgaris,4.0,Psoriasis,CHEMBL4435170
+pityriasis rubra pilaris,2.0,Pityriasis Rubra Pilaris,CHEMBL4435170
+non-Hodgkins lymphoma,1.0,"Lymphoma, Non-Hodgkin",CHEMBL4647810
+rheumatoid arthritis,2.0,"Arthritis, Rheumatoid",CHEMBL3301600
+chronic lymphocytic leukemia,4.0,"Leukemia, Lymphocytic, Chronic, B-Cell",CHEMBL3707348
+neoplasm,1.0,Neoplasms,CHEMBL3128043
+neoplasm,1.0,Neoplasms,CHEMBL2029988
+neoplasm,1.0,Neoplasms,CHEMBL3545321
+Mantle cell lymphoma,4.0,"Lymphoma, Mantle-Cell",CHEMBL3707348
+non-small cell lung carcinoma,3.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL572881
+diffuse large B-cell lymphoma,1.0,"Lymphoma, Large B-Cell, Diffuse",CHEMBL3301600
+leukemia,1.0,Leukemia,CHEMBL3301600
+chronic lymphocytic leukemia,2.0,"Leukemia, Lymphocytic, Chronic, B-Cell",CHEMBL4071161
+Sjogren syndrome,2.0,Sjogren's Syndrome,CHEMBL4071161
+head and neck squamous cell carcinoma,2.0,"Carcinoma, Squamous Cell",CHEMBL3707348
+diffuse large B-cell lymphoma,3.0,"Lymphoma, Large B-Cell, Diffuse",CHEMBL3707348
+glioblastoma multiforme,1.0,Glioblastoma,CHEMBL3707348
+rheumatoid arthritis,2.0,"Arthritis, Rheumatoid",CHEMBL3707348
+multiple myeloma,1.0,Multiple Myeloma,CHEMBL3707348
+pancreatic carcinoma,2.0,Pancreatic Neoplasms,CHEMBL3707348
+non-small cell lung carcinoma,2.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL3707348
+rheumatoid arthritis,1.0,"Arthritis, Rheumatoid",CHEMBL4071161
+non-Hodgkins lymphoma,2.0,"Lymphoma, Non-Hodgkin",CHEMBL3707348
+Waldenstrom macroglobulinemia,2.0,Waldenstrom Macroglobulinemia,CHEMBL3707348
+rheumatoid arthritis,2.0,"Arthritis, Rheumatoid",CHEMBL4072833
+relapsing-remitting multiple sclerosis,3.0,"Multiple Sclerosis, Relapsing-Remitting",CHEMBL4072833
+rheumatoid arthritis,2.0,"Arthritis, Rheumatoid",CHEMBL3900554
+rheumatoid arthritis,2.0,"Arthritis, Rheumatoid",CHEMBL4065122
+urticaria,2.0,Urticaria,CHEMBL4065122
+chronic lymphocytic leukemia,3.0,"Leukemia, Lymphocytic, Chronic, B-Cell",CHEMBL3936761
+neoplasm of mature B-cells,3.0,"Lymphoma, Follicular",CHEMBL3936761
+diffuse large B-cell lymphoma,3.0,"Lymphoma, Large B-Cell, Diffuse",CHEMBL3936761
+leukemia,1.0,Leukemia,CHEMBL3936761
+lymphoma,2.0,Lymphoma,CHEMBL3936761
+Waldenstrom macroglobulinemia,4.0,Waldenstrom Macroglobulinemia,CHEMBL3936761
+Mantle cell lymphoma,4.0,"Lymphoma, Mantle-Cell",CHEMBL3936761
+rheumatoid arthritis,2.0,"Arthritis, Rheumatoid",CHEMBL4163691
+rheumatoid arthritis,1.0,"Arthritis, Rheumatoid",CHEMBL4297674
+breast cancer,1.0,Breast Neoplasms,CHEMBL572881
+prolymphocytic leukemia,1.0,"Leukemia, Prolymphocytic",CHEMBL3707348
+ovarian cancer,2.0,Ovarian Neoplasms,CHEMBL3707348
+follicular lymphoma,2.0,"Lymphoma, Follicular",CHEMBL3707348
+kidney disease,1.0,Kidney Diseases,CHEMBL4072833
+follicular lymphoma,3.0,"Lymphoma, Follicular",CHEMBL3936761
+non-small cell lung carcinoma,4.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL4559134
+thyroid cancer,4.0,Thyroid Neoplasms,CHEMBL4559134
+medullary thyroid gland carcinoma,4.0,"Carcinoma, Medullary",CHEMBL4559134
+pemphigus vulgaris,3.0,Pemphigus,CHEMBL3702854
+autoimmune thrombocytopenic purpura,3.0,"Purpura, Thrombocytopenic, Idiopathic",CHEMBL3702854
+lymphoma,1.0,Lymphoma,CHEMBL3707348
+infectious disease,1.0,Communicable Diseases,CHEMBL3707348
+hematopoietic and lymphoid cell neoplasm,2.0,Hematologic Neoplasms,CHEMBL3707348
+COVID-19,3.0,Severe Acute Respiratory Syndrome,CHEMBL3707348
+chronic progressive multiple sclerosis,3.0,"Multiple Sclerosis, Chronic Progressive",CHEMBL4065122
+lupus nephritis,2.0,Lupus Nephritis,CHEMBL3936761
+Castleman disease,2.0,Castleman Disease,CHEMBL3936761
+IgG4-related disease,2.0,Immunoglobulin G4-Related Disease,CHEMBL3936761
+COVID-19,2.0,Severe Acute Respiratory Syndrome,CHEMBL3936761
+non-small cell lung carcinoma,4.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL4582651
+IgG4-related disease,2.0,Immunoglobulin G4-Related Disease,CHEMBL3702854
+leukemia,1.0,Leukemia,CHEMBL3707348
+neoplasm,4.0,Neoplasms,CHEMBL4582651
+medullary thyroid gland carcinoma,4.0,"Carcinoma, Medullary",CHEMBL4582651
+pemphigus,3.0,Pemphigus,CHEMBL3702854
+rheumatoid arthritis,2.0,"Arthritis, Rheumatoid",CHEMBL4594348
+neoplasm,4.0,Neoplasms,CHEMBL3707348
+food allergy,2.0,Food Hypersensitivity,CHEMBL3707348
+multiple sclerosis,3.0,Multiple Sclerosis,CHEMBL4072833
+osteoarthritis,1.0,Osteoarthritis,CHEMBL3900554
+multiple sclerosis,3.0,Multiple Sclerosis,CHEMBL4065122
+neoplasm,4.0,Neoplasms,CHEMBL3936761
+neuromyelitis optica,2.0,Neuromyelitis Optica,CHEMBL3936761
+autoimmune thrombocytopenic purpura,2.0,"Purpura, Thrombocytopenic, Idiopathic",CHEMBL3936761
+hemophagocytic syndrome,3.0,"Lymphohistiocytosis, Hemophagocytic",CHEMBL3936761
+neoplasm,4.0,Neoplasms,CHEMBL4559134
+liver disease,1.0,Liver Diseases,CHEMBL4559134
+Renal insufficiency,1.0,Renal Insufficiency,CHEMBL4559134
+atopic eczema,2.0,"Dermatitis, Atopic",CHEMBL3702854
+"Anemia, Hemolytic, Autoimmune",2.0,"Anemia, Hemolytic, Autoimmune",CHEMBL3702854
+asthma,2.0,Asthma,CHEMBL3702854
+neoplasm,2.0,Neoplasms,CHEMBL4071161
+cancer,2.0,Neoplasms,CHEMBL4071161
+systemic lupus erythematosus,1.0,"Lupus Erythematosus, Systemic",CHEMBL3545193
+cancer,4.0,Neoplasms,CHEMBL3707348
+chronic graft versus host disease,2.0,Bronchiolitis Obliterans Syndrome,CHEMBL3707348
+systemic lupus erythematosus,2.0,"Lupus Erythematosus, Systemic",CHEMBL4072833
+type II hypersensitivity reaction disease,1.0,Autoimmune Diseases,CHEMBL4065122
+systemic lupus erythematosus,2.0,"Lupus Erythematosus, Systemic",CHEMBL4065122
+kidney disease,2.0,Kidney Diseases,CHEMBL3936761
+marginal zone B-cell lymphoma,2.0,"Lymphoma, B-Cell, Marginal Zone",CHEMBL3936761
+"Anemia, Hemolytic, Autoimmune",2.0,"Anemia, Hemolytic, Autoimmune",CHEMBL3936761
+cancer,4.0,Neoplasms,CHEMBL3936761
+cancer,4.0,Neoplasms,CHEMBL4582651
+type II hypersensitivity reaction disease,1.0,Autoimmune Diseases,CHEMBL4297674
+hematopoietic and lymphoid system neoplasm,1.0,Hematologic Neoplasms,CHEMBL4297674
+follicular thyroid carcinoma,2.0,"Adenocarcinoma, Follicular",CHEMBL4559134
+papillary thyroid carcinoma,4.0,Thyroid Neoplasms,CHEMBL4559134
+thyroid neoplasm,4.0,Thyroid Neoplasms,CHEMBL4559134
+cancer,4.0,Neoplasms,CHEMBL4559134
+type II hypersensitivity reaction disease,1.0,Autoimmune Diseases,CHEMBL3702854
+inflammation,1.0,Inflammation,CHEMBL3702854
+systemic lupus erythematosus,2.0,"Lupus Erythematosus, Systemic",CHEMBL4594348
+non-Hodgkins lymphoma,1.0,"Lymphoma, Non-Hodgkin",CHEMBL4071161
+chronic idiopathic urticaria,2.0,Chronic Urticaria,CHEMBL4071161
+marginal zone B-cell lymphoma,2.0,"Lymphoma, B-Cell, Marginal Zone",CHEMBL3707348
+liver disease,1.0,Liver Diseases,CHEMBL4072833
+monoclonal gammopathy,2.0,Paraproteinemias,CHEMBL3936761
+lymphoid leukemia,2.0,"Leukemia, Lymphoid",CHEMBL3936761
+non-Hodgkins lymphoma,3.0,"Lymphoma, Non-Hodgkin",CHEMBL3936761
+thyroid carcinoma,2.0,Thyroid Neoplasms,CHEMBL4582651
+chronic idiopathic urticaria,2.0,Chronic Urticaria,CHEMBL3702854
+glioblastoma multiforme,1.0,Glioblastoma,CHEMBL601719
+non-small cell lung carcinoma,4.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL601719
+melanoma,4.0,Melanoma,CHEMBL1229517
+non-small cell lung carcinoma,4.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL2403108
+metastatic melanoma,4.0,Melanoma,CHEMBL1229517
+melanoma,4.0,Melanoma,CHEMBL2105729
+multiple myeloma,2.0,Multiple Myeloma,CHEMBL1229517
+neoplasm,4.0,Neoplasms,CHEMBL1229517
+neoplasm,4.0,Neoplasms,CHEMBL2403108
+neoplasm,4.0,Neoplasms,CHEMBL601719
+metastatic melanoma,4.0,Melanoma,CHEMBL2105729
+non-small cell lung carcinoma,2.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL1229517
+papillary renal cell carcinoma,2.0,"Carcinoma, Renal Cell",CHEMBL601719
+neoplasm of mature B-cells,1.0,"Lymphoma, Follicular",CHEMBL3545360
+non-small cell lung carcinoma,3.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL4113131
+neoplasm,1.0,Neoplasms,CHEMBL3545236
+neoplasm,1.0,Neoplasms,CHEMBL4209157
+neoplasm,1.0,Neoplasms,CHEMBL3545360
+acute myeloid leukemia,2.0,"Leukemia, Myeloid, Acute",CHEMBL1229517
+cutaneous melanoma,4.0,Melanoma,CHEMBL1229517
+lymphoma,1.0,Lymphoma,CHEMBL1229517
+Craniopharyngioma,2.0,Craniopharyngioma,CHEMBL1229517
+hairy cell leukemia,2.0,"Leukemia, Hairy Cell",CHEMBL1229517
+colorectal carcinoma,2.0,Colorectal Neoplasms,CHEMBL1229517
+acute myeloid leukemia,2.0,"Leukemia, Myeloid, Acute",CHEMBL601719
+adenocarcinoma,2.0,Adenocarcinoma,CHEMBL601719
+squamous cell carcinoma,2.0,"Carcinoma, Squamous Cell",CHEMBL601719
+anaplastic large cell lymphoma,2.0,"Lymphoma, Large-Cell, Anaplastic",CHEMBL601719
+anaplastic large cell lymphoma,2.0,"Lymphoma, Large-Cell, Anaplastic",CHEMBL2403108
+neoplasm,2.0,Neoplasms,CHEMBL4303729
+melanoma,1.0,Melanoma,CHEMBL4303729
+non-small cell lung carcinoma,1.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL4303729
+cholangiocarcinoma,1.0,Cholangiocarcinoma,CHEMBL4303729
+hairy cell leukemia,1.0,"Leukemia, Hairy Cell",CHEMBL4303729
+Histiocytosis,1.0,Histiocytosis,CHEMBL4303729
+non-small cell lung carcinoma,1.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL3545236
+colorectal adenocarcinoma,2.0,Colorectal Neoplasms,CHEMBL1229517
+Langerhans Cell Histiocytosis,2.0,"Histiocytosis, Langerhans-Cell",CHEMBL1229517
+cutaneous melanoma,4.0,Melanoma,CHEMBL2105729
+thyroid carcinoma,1.0,Thyroid Neoplasms,CHEMBL2105729
+Erdheim-Chester disease,2.0,Erdheim-Chester Disease,CHEMBL2105729
+lung adenocarcinoma,3.0,Adenocarcinoma of Lung,CHEMBL601719
+cutaneous melanoma,2.0,Melanoma,CHEMBL2403108
+glioblastoma multiforme,2.0,Glioblastoma,CHEMBL2403108
+neuroblastoma,2.0,Neuroblastoma,CHEMBL2403108
+melanoma,2.0,Melanoma,CHEMBL2403108
+liver disease,1.0,Liver Diseases,CHEMBL2403108
+cholangiocarcinoma,2.0,Cholangiocarcinoma,CHEMBL2403108
+soft tissue sarcoma,3.0,Sarcoma,CHEMBL2403108
+melanoma,2.0,Melanoma,CHEMBL4113131
+neoplasm,1.0,Neoplasms,CHEMBL4297644
+non-small cell lung carcinoma,3.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL4297865
+neoplasm of mature B-cells,1.0,"Lymphoma, Follicular",CHEMBL4297866
+non-small cell lung carcinoma,3.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL4297866
+thyroid cancer,2.0,Thyroid Neoplasms,CHEMBL1229517
+kidney disease,1.0,Kidney Diseases,CHEMBL601719
+diffuse intrinsic pontine glioma,1.0,Diffuse Intrinsic Pontine Glioma,CHEMBL601719
+gastric cancer,2.0,Stomach Neoplasms,CHEMBL601719
+breast cancer,1.0,Breast Neoplasms,CHEMBL601719
+prostate cancer,1.0,"Prostatic Neoplasms, Castration-Resistant",CHEMBL601719
+lung cancer,3.0,Lung Neoplasms,CHEMBL601719
+inflammatory myofibroblastic tumor,2.0,"Granuloma, Plasma Cell",CHEMBL601719
+thyroid cancer,2.0,Thyroid Neoplasms,CHEMBL2403108
+inflammatory myofibroblastic tumor,2.0,"Granuloma, Plasma Cell",CHEMBL2403108
+thyroid cancer,1.0,Thyroid Neoplasms,CHEMBL4303729
+lung cancer,2.0,Lung Neoplasms,CHEMBL4113131
+multiple myeloma,2.0,Multiple Myeloma,CHEMBL2105729
+multiple myeloma,2.0,Multiple Myeloma,CHEMBL601719
+endometrial cancer,2.0,Endometrial Neoplasms,CHEMBL601719
+COVID-19,2.0,Severe Acute Respiratory Syndrome,CHEMBL4297865
+relapsing-remitting multiple sclerosis,2.0,"Multiple Sclerosis, Relapsing-Remitting",CHEMBL4650321
+primary progressive multiple sclerosis,3.0,"Multiple Sclerosis, Chronic Progressive",CHEMBL4650323
+secondary progressive multiple sclerosis,3.0,"Multiple Sclerosis, Chronic Progressive",CHEMBL4650323
+chronic lymphocytic leukemia,1.0,"Leukemia, Lymphocytic, Chronic, B-Cell",CHEMBL4650338
+neoplasm of mature B-cells,1.0,"Lymphoma, Follicular",CHEMBL4650338
+chronic lymphocytic leukemia,3.0,"Leukemia, Lymphocytic, Chronic, B-Cell",CHEMBL4650485
+Mantle cell lymphoma,4.0,"Lymphoma, Mantle-Cell",CHEMBL4650485
+irritable bowel syndrome,2.0,Irritable Bowel Syndrome,CHEMBL4650296
+thyroid carcinoma,2.0,Thyroid Neoplasms,CHEMBL1229517
+Histiocytosis,2.0,Histiocytosis,CHEMBL1229517
+skin cancer,1.0,Skin Neoplasms,CHEMBL1229517
+chronic lymphocytic leukemia,3.0,"Leukemia, Lymphocytic, Chronic, B-Cell",CHEMBL4650321
+neoplasm of mature B-cells,2.0,"Lymphoma, Follicular",CHEMBL4650321
+Hodgkins lymphoma,1.0,Hodgkin Disease,CHEMBL4650321
+Mantle cell lymphoma,3.0,"Lymphoma, Mantle-Cell",CHEMBL4650321
+neuromyelitis optica,2.0,Neuromyelitis Optica,CHEMBL4650338
+pancreatic carcinoma,2.0,Pancreatic Neoplasms,CHEMBL1229517
+NF2-related schwannomatosis,2.0,Neurofibromatosis 2,CHEMBL601719
+prostate cancer,2.0,"Prostatic Neoplasms, Castration-Resistant",CHEMBL4297865
+COVID-19,2.0,Severe Acute Respiratory Syndrome,CHEMBL4297866
+chronic lymphocytic leukemia,4.0,"Leukemia, Lymphocytic, Chronic, B-Cell",CHEMBL4594293
+Mantle cell lymphoma,4.0,"Lymphoma, Mantle-Cell",CHEMBL4594293
+diffuse large B-cell lymphoma,3.0,"Lymphoma, Large B-Cell, Diffuse",CHEMBL4650321
+autoimmune thrombocytopenic purpura,2.0,"Purpura, Thrombocytopenic, Idiopathic",CHEMBL4650321
+Waldenstrom macroglobulinemia,2.0,Waldenstrom Macroglobulinemia,CHEMBL4650321
+follicular lymphoma,2.0,"Lymphoma, Follicular",CHEMBL4650321
+kidney disease,1.0,Kidney Diseases,CHEMBL4650323
+multiple sclerosis,3.0,Multiple Sclerosis,CHEMBL4650323
+kidney disease,2.0,Kidney Diseases,CHEMBL4650338
+lymphoid neoplasm,2.0,Hematologic Neoplasms,CHEMBL1229517
+cancer,4.0,Neoplasms,CHEMBL1229517
+cancer,4.0,Neoplasms,CHEMBL601719
+cancer,4.0,Neoplasms,CHEMBL2403108
+cancer,1.0,Neoplasms,CHEMBL3545360
+cancer,2.0,Neoplasms,CHEMBL4303729
+neoplasm,1.0,Neoplasms,CHEMBL4297640
+neoplasm,3.0,Neoplasms,CHEMBL4650321
+liver disease,1.0,Liver Diseases,CHEMBL4650321
+cancer,3.0,Neoplasms,CHEMBL4650321
+systemic lupus erythematosus,2.0,"Lupus Erythematosus, Systemic",CHEMBL4650321
+neoplasm,1.0,Neoplasms,CHEMBL4650338
+type II hypersensitivity reaction disease,1.0,Autoimmune Diseases,CHEMBL4650338
+leukemia,2.0,Leukemia,CHEMBL4650485
+neoplasm,4.0,Neoplasms,CHEMBL4650485
+Waldenstrom macroglobulinemia,2.0,Waldenstrom Macroglobulinemia,CHEMBL4650485
+Paraganglioma,0.5,Paraganglioma,CHEMBL1229517
+colorectal cancer,2.0,Colorectal Neoplasms,CHEMBL1229517
+glioma,4.0,Glioma,CHEMBL2105729
+carcinoma,3.0,Carcinoma,CHEMBL601719
+bile duct carcinoma,2.0,Bile Duct Neoplasms,CHEMBL601719
+Uveal Melanoma,2.0,Uveal Melanoma,CHEMBL601719
+gallbladder cancer,2.0,Gallbladder Neoplasms,CHEMBL601719
+colorectal cancer,1.0,Colorectal Neoplasms,CHEMBL601719
+colorectal cancer,1.0,Colorectal Neoplasms,CHEMBL4303729
+lymphoma,2.0,Lymphoma,CHEMBL4650321
+marginal zone B-cell lymphoma,3.0,"Lymphoma, B-Cell, Marginal Zone",CHEMBL4650321
+B-cell acute lymphoblastic leukemia,1.0,"Leukemia, B-Cell",CHEMBL4650338
+marginal zone B-cell lymphoma,2.0,"Lymphoma, B-Cell, Marginal Zone",CHEMBL4650485
+Renal insufficiency,1.0,Renal Insufficiency,CHEMBL4650485
+multiple sclerosis,2.0,Multiple Sclerosis,CHEMBL4650485
+non-small cell lung carcinoma,4.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL3545311
+neoplasm,1.0,Neoplasms,CHEMBL2109406
+non-small cell lung carcinoma,4.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL3286830
+neoplasm,2.0,Neoplasms,CHEMBL1976040
+melanoma,4.0,Melanoma,CHEMBL3301612
+metastatic melanoma,1.0,Melanoma,CHEMBL558752
+small cell lung carcinoma,2.0,Small Cell Lung Carcinoma,CHEMBL1976040
+glioblastoma multiforme,0.5,Glioblastoma,CHEMBL1976040
+non-small cell lung carcinoma,2.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL3301612
+neoplasm,1.0,Neoplasms,CHEMBL2109396
+neoplasm,1.0,Neoplasms,CHEMBL3137345
+head and neck malignant neoplasia,2.0,Head and Neck Neoplasms,CHEMBL3137345
+neoplasm,4.0,Neoplasms,CHEMBL3301612
+multiple myeloma,2.0,Multiple Myeloma,CHEMBL3301612
+metastatic melanoma,4.0,Melanoma,CHEMBL3301612
+neoplasm,4.0,Neoplasms,CHEMBL3545311
+head and neck squamous cell carcinoma,1.0,"Carcinoma, Squamous Cell",CHEMBL1976040
+gastric adenocarcinoma,2.0,Stomach Neoplasms,CHEMBL1976040
+squamous cell carcinoma,1.0,"Carcinoma, Squamous Cell",CHEMBL1976040
+ovarian carcinoma,2.0,Ovarian Neoplasms,CHEMBL1976040
+non-small cell lung carcinoma,2.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL1976040
+triple-negative breast cancer,1.0,Triple Negative Breast Neoplasms,CHEMBL1976040
+Fallopian Tube Carcinoma,2.0,Fallopian Tube Neoplasms,CHEMBL1976040
+neoplasm,1.0,Neoplasms,CHEMBL558752
+myelodysplastic syndrome,1.0,Myelodysplastic Syndromes,CHEMBL3809489
+acute myeloid leukemia,1.0,"Leukemia, Myeloid, Acute",CHEMBL3809489
+melanoma,1.0,Melanoma,CHEMBL3809489
+non-small cell lung carcinoma,2.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL3809489
+inflammatory breast carcinoma,2.0,Inflammatory Breast Neoplasms,CHEMBL3809489
+neoplasm,4.0,Neoplasms,CHEMBL1983268
+neuroblastoma,3.0,Neuroblastoma,CHEMBL3286830
+neoplasm,1.0,Neoplasms,CHEMBL3707404
+non-small cell lung carcinoma,1.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL3707404
+head and neck squamous cell carcinoma,1.0,"Carcinoma, Squamous Cell",CHEMBL2109406
+non-small cell lung carcinoma,3.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL2109406
+upper aerodigestive tract neoplasm,2.0,Head and Neck Neoplasms,CHEMBL2109406
+neoplasm,1.0,Neoplasms,CHEMBL2109401
+thyroid carcinoma,2.0,Thyroid Neoplasms,CHEMBL3301612
+anaplastic large cell lymphoma,2.0,"Lymphoma, Large-Cell, Anaplastic",CHEMBL3545311
+clear cell renal carcinoma,2.0,"Carcinoma, Renal Cell",CHEMBL1976040
+medulloblastoma,1.0,Medulloblastoma,CHEMBL1976040
+lung adenocarcinoma,2.0,Adenocarcinoma of Lung,CHEMBL3809489
+pancreatic carcinoma,1.0,Pancreatic Neoplasms,CHEMBL3809489
+central nervous system cancer,1.0,Glioma,CHEMBL1983268
+cutaneous melanoma,2.0,Melanoma,CHEMBL1983268
+non-small cell lung carcinoma,4.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL1983268
+neoplasm,4.0,Neoplasms,CHEMBL3286830
+anaplastic large cell lymphoma,2.0,"Lymphoma, Large-Cell, Anaplastic",CHEMBL3286830
+colorectal adenocarcinoma,4.0,Colorectal Neoplasms,CHEMBL3301612
+hairy cell leukemia,2.0,"Leukemia, Hairy Cell",CHEMBL3301612
+breast cancer,2.0,Breast Neoplasms,CHEMBL3545071
+ovarian serous cystadenocarcinoma,2.0,"Cystadenoma, Serous",CHEMBL1976040
+"Blast Phase Chronic Myelogenous Leukemia, BCR-ABL1 Positive",1.0,Blast Crisis,CHEMBL1976040
+urinary bladder cancer,1.0,Urinary Bladder Neoplasms,CHEMBL1976040
+peritoneum cancer,2.0,Peritoneal Neoplasms,CHEMBL1976040
+uterine cancer,2.0,Uterine Neoplasms,CHEMBL1976040
+cervical cancer,1.0,Uterine Cervical Neoplasms,CHEMBL1976040
+breast cancer,2.0,Breast Neoplasms,CHEMBL1976040
+ovarian cancer,2.0,Ovarian Neoplasms,CHEMBL1976040
+prostate cancer,2.0,"Prostatic Neoplasms, Castration-Resistant",CHEMBL1976040
+lung cancer,2.0,Lung Neoplasms,CHEMBL1976040
+mesothelioma,2.0,Mesothelioma,CHEMBL3809489
+Central Nervous System Neoplasm,0.5,Central Nervous System Neoplasms,CHEMBL3809489
+kidney disease,1.0,Kidney Diseases,CHEMBL3286830
+breast cancer,1.0,Breast Neoplasms,CHEMBL3707404
+angiosarcoma,2.0,Hemangiosarcoma,CHEMBL2109406
+cutaneous melanoma,4.0,Melanoma,CHEMBL3301612
+pancreatic carcinoma,2.0,Pancreatic Neoplasms,CHEMBL3301612
+pancreatic carcinoma,2.0,Pancreatic Neoplasms,CHEMBL3545071
+multiple myeloma,2.0,Multiple Myeloma,CHEMBL1976040
+laryngeal squamous cell carcinoma,2.0,Squamous Cell Carcinoma of Head and Neck,CHEMBL1976040
+hypopharyngeal squamous cell carcinoma,2.0,Squamous Cell Carcinoma of Head and Neck,CHEMBL1976040
+oropharynx squamous cell carcinoma,2.0,Squamous Cell Carcinoma of Head and Neck,CHEMBL1976040
+invasive lobular carcinoma,2.0,"Carcinoma, Lobular",CHEMBL1983268
+non-small cell lung carcinoma,3.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL4298138
+non-small cell lung carcinoma,1.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL4650298
+COVID-19,2.0,Severe Acute Respiratory Syndrome,CHEMBL3809489
+lymphoma,4.0,Lymphoma,CHEMBL3286830
+non-small cell lung carcinoma,2.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL4650989
+immune system disease,1.0,Immune System Diseases,CHEMBL4071864
+psoriasis,2.0,Psoriasis,CHEMBL4071864
+rheumatoid arthritis,2.0,"Arthritis, Rheumatoid",CHEMBL4071864
+ulcerative colitis,2.0,"Colitis, Ulcerative",CHEMBL4071864
+inflammatory bowel disease,1.0,Inflammatory Bowel Diseases,CHEMBL4071864
+ulcerative colitis,2.0,"Colitis, Ulcerative",CHEMBL4802154
+neoplasm,2.0,Neoplasms,CHEMBL5095036
+osteosarcoma,1.0,Osteosarcoma,CHEMBL5095036
+colon adenocarcinoma,2.0,"Pulmonary Disease, Chronic Obstructive",CHEMBL3301612
+pancreatic carcinoma,2.0,Pancreatic Neoplasms,CHEMBL1976040
+acute myeloid leukemia,1.0,"Leukemia, Myeloid, Acute",CHEMBL1983268
+liver disease,1.0,Liver Diseases,CHEMBL3286830
+neoplasm,4.0,Neoplasms,CHEMBL4298138
+neoplasm,2.0,Neoplasms,CHEMBL4650989
+carcinoma,1.0,Carcinoma,CHEMBL2109396
+lymphoma,1.0,Lymphoma,CHEMBL2109396
+sarcoma,1.0,Sarcoma,CHEMBL2109396
+biliary tract neoplasm,3.0,Biliary Tract Neoplasms,CHEMBL3301612
+colorectal neoplasm,4.0,Colorectal Neoplasms,CHEMBL3301612
+skin carcinoma,0.5,Skin Neoplasms,CHEMBL3301612
+cancer,4.0,Neoplasms,CHEMBL3301612
+cancer,2.0,Neoplasms,CHEMBL1976040
+neoplasm,1.0,Neoplasms,CHEMBL3809489
+lymphoid neoplasm,2.0,Hematologic Neoplasms,CHEMBL1983268
+cancer,4.0,Neoplasms,CHEMBL1983268
+ganglioneuroblastoma,3.0,Ganglioneuroblastoma,CHEMBL3286830
+cancer,4.0,Neoplasms,CHEMBL3286830
+cancer,4.0,Neoplasms,CHEMBL4298138
+colorectal cancer,2.0,Colorectal Neoplasms,CHEMBL3137345
+pancreatic ductal adenocarcinoma,1.0,"Carcinoma, Pancreatic Ductal",CHEMBL3301612
+colorectal cancer,4.0,Colorectal Neoplasms,CHEMBL3301612
+neoplasm,1.0,Neoplasms,CHEMBL3545071
+non-small cell lung carcinoma,1.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL3545071
+peritoneum cancer,2.0,Peritoneal Neoplasms,CHEMBL3545071
+fallopian tube cancer,2.0,Fallopian Tube Neoplasms,CHEMBL3545071
+cancer,1.0,Neoplasms,CHEMBL3545071
+ovarian cancer,2.0,Ovarian Neoplasms,CHEMBL3545071
+carcinoma,3.0,Carcinoma,CHEMBL3545311
+lung cancer,3.0,Lung Neoplasms,CHEMBL3545311
+myelodysplastic syndrome,1.0,Myelodysplastic Syndromes,CHEMBL1976040
+neuroblastoma,1.0,Neuroblastoma,CHEMBL1976040
+verrucous carcinoma,2.0,"Carcinoma, Verrucous",CHEMBL1976040
+fallopian tube cancer,2.0,Fallopian Tube Neoplasms,CHEMBL1976040
+colorectal cancer,1.0,Colorectal Neoplasms,CHEMBL3809489
+thyroid carcinoma,2.0,Thyroid Neoplasms,CHEMBL1983268
+Uveal Melanoma,1.0,Uveal Melanoma,CHEMBL1983268
+lung cancer,2.0,Lung Neoplasms,CHEMBL3286830
+breast neoplasm,2.0,Breast Neoplasms,CHEMBL2109406
+breast cancer,2.0,Breast Neoplasms,CHEMBL2109406
+lung cancer,3.0,Lung Neoplasms,CHEMBL2109406
+liver disease,1.0,Liver Diseases,CHEMBL4298138
+pancreatic carcinoma,0.5,Pancreatic Neoplasms,CHEMBL5095036
+myeloid leukemia,1.0,"Leukemia, Myeloid",CHEMBL5095036
+pancreatic ductal adenocarcinoma,0.5,"Carcinoma, Pancreatic Ductal",CHEMBL5095036
+hepatocellular carcinoma,1.0,"Carcinoma, Hepatocellular",CHEMBL3989990
+pancreatic carcinoma,2.0,Pancreatic Neoplasms,CHEMBL3989990
+Crohn's disease,2.0,Crohn Disease,CHEMBL4297643
+chronic obstructive pulmonary disease,2.0,"Pulmonary Disease, Chronic Obstructive",CHEMBL4297701
+chronic lymphocytic leukemia,2.0,"Leukemia, Lymphocytic, Chronic, B-Cell",CHEMBL4297728
+head and neck squamous cell carcinoma,1.0,"Carcinoma, Squamous Cell",CHEMBL4298013
+esophageal squamous cell carcinoma,1.0,Esophageal Neoplasms,CHEMBL4298013
+Crohn's disease,2.0,Crohn Disease,CHEMBL6067997
+rheumatoid arthritis,2.0,"Arthritis, Rheumatoid",CHEMBL6067997
+non-small cell lung carcinoma,2.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL4297701
+breast cancer,1.0,Breast Neoplasms,CHEMBL4298013
+COVID-19,2.0,Severe Acute Respiratory Syndrome,CHEMBL4297643
+adult acute respiratory distress syndrome,2.0,Respiratory Distress Syndrome,CHEMBL4297701
+head and neck squamous cell carcinoma,2.0,"Carcinoma, Squamous Cell",CHEMBL4650292
+melanoma,1.0,Melanoma,CHEMBL4650292
+common variable immunodeficiency,1.0,Common Variable Immunodeficiency,CHEMBL4297643
+neoplasm of mature B-cells,2.0,"Lymphoma, Follicular",CHEMBL4297728
+diffuse large B-cell lymphoma,2.0,"Lymphoma, Large B-Cell, Diffuse",CHEMBL4297728
+pancreatic carcinoma,2.0,Pancreatic Neoplasms,CHEMBL4297728
+non-small cell lung carcinoma,2.0,"Carcinoma, Non-Small-Cell Lung",CHEMBL4297728
+triple-negative breast cancer,2.0,Triple Negative Breast Neoplasms,CHEMBL4297728
+gastric cancer,2.0,Stomach Neoplasms,CHEMBL4297728
+ovarian cancer,2.0,Ovarian Neoplasms,CHEMBL4297728
+prostate cancer,1.0,"Prostatic Neoplasms, Castration-Resistant",CHEMBL4297728
+urothelial carcinoma,1.0,Urinary Bladder Neoplasms,CHEMBL4297728

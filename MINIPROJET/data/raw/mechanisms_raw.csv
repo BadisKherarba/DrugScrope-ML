@@ -1,0 +1,611 @@
+action_type,max_phase,mechanism_of_action,molecule_chembl_id,target_chembl_id
+INHIBITOR,4,Receptor protein-tyrosine kinase erbB-2 inhibitor,CHEMBL1201585,CHEMBL1824
+INHIBITOR,4,Receptor protein-tyrosine kinase erbB-2 inhibitor,CHEMBL2007641,CHEMBL1824
+INHIBITOR,4,Receptor protein-tyrosine kinase erbB-2 inhibitor,CHEMBL1201179,CHEMBL1824
+INHIBITOR,4,Tyrosine-protein kinase ABL inhibitor,CHEMBL1201740,CHEMBL1862
+INHIBITOR,4,Tyrosine-protein kinase ABL inhibitor,CHEMBL1421,CHEMBL1862
+INHIBITOR,4,Tyrosine-protein kinase ABL inhibitor,CHEMBL288441,CHEMBL1862
+INHIBITOR,4,Tyrosine-protein kinase ABL inhibitor,CHEMBL1946170,CHEMBL1862
+INHIBITOR,4,Tyrosine-protein kinase ABL inhibitor,CHEMBL1642,CHEMBL1862
+INHIBITOR,4,Tyrosine-protein kinase LCK inhibitor,CHEMBL1201733,CHEMBL258
+INHIBITOR,4,MAP kinase p38 beta inhibitor,CHEMBL1946170,CHEMBL3961
+INHIBITOR,4,Receptor protein-tyrosine kinase erbB-2 inhibitor,CHEMBL2105712,CHEMBL1824
+INHIBITOR,4,Tyrosine-protein kinase ABL inhibitor,CHEMBL4208229,CHEMBL1862
+INHIBITOR,1,Receptor protein-tyrosine kinase erbB-2 inhibitor,CHEMBL1645462,CHEMBL1824
+INHIBITOR,1,MAP kinase p38 alpha inhibitor,CHEMBL585902,CHEMBL260
+INHIBITOR,2,MAP kinase p38 alpha inhibitor,CHEMBL3991932,CHEMBL260
+INHIBITOR,2,Receptor protein-tyrosine kinase erbB-2 inhibitor,CHEMBL1947204,CHEMBL1824
+INHIBITOR,1,MAP kinase p38 alpha inhibitor,CHEMBL3545117,CHEMBL260
+INHIBITOR,1,Tyrosine-protein kinase ABL inhibitor,CHEMBL5314408,CHEMBL1862
+INHIBITOR,1,MAP kinase p38 alpha inhibitor,CHEMBL2031465,CHEMBL260
+INHIBITOR,2,MAP kinase p38 alpha inhibitor,CHEMBL9960,CHEMBL260
+INHIBITOR,2,MAP kinase p38 alpha inhibitor,CHEMBL103667,CHEMBL260
+INHIBITOR,2,DNA-dependent protein kinase inhibitor,CHEMBL3586573,CHEMBL3142
+INHIBITOR,2,Receptor protein-tyrosine kinase erbB-2 inhibitor,CHEMBL483321,CHEMBL1824
+INHIBITOR,1,Receptor protein-tyrosine kinase erbB-2 inhibitor,CHEMBL598797,CHEMBL1824
+INHIBITOR,1,MAP kinase p38 alpha inhibitor,CHEMBL3544968,CHEMBL260
+INHIBITOR,1,Tyrosine-protein kinase LCK inhibitor,CHEMBL3109738,CHEMBL258
+INHIBITOR,1,Receptor protein-tyrosine kinase erbB-2 inhibitor,CHEMBL3109738,CHEMBL1824
+INHIBITOR,1,Tyrosine-protein kinase ABL inhibitor,CHEMBL1908397,CHEMBL1862
+INHIBITOR,1,MAP kinase p38 alpha inhibitor,CHEMBL3545074,CHEMBL260
+INHIBITOR,1,MAP kinase p38 alpha inhibitor,CHEMBL3544998,CHEMBL260
+INHIBITOR,1,Receptor protein-tyrosine kinase erbB-2 inhibitor,CHEMBL6067986,CHEMBL1824
+INHIBITOR,4,Receptor protein-tyrosine kinase erbB-2 inhibitor,CHEMBL3989868,CHEMBL1824
+INHIBITOR,2,MAP kinase p38 alpha inhibitor,CHEMBL1938400,CHEMBL260
+INHIBITOR,1,MAP kinase p38 alpha inhibitor,CHEMBL3545139,CHEMBL260
+INHIBITOR,1,MAP kinase p38 alpha inhibitor,CHEMBL1766582,CHEMBL260
+INHIBITOR,1,MAP kinase p38 alpha inhibitor,CHEMBL203567,CHEMBL260
+INHIBITOR,1,MAP kinase p38 alpha inhibitor,CHEMBL190333,CHEMBL260
+INHIBITOR,1,MAP kinase p38 beta inhibitor,CHEMBL190333,CHEMBL3961
+INHIBITOR,1,Receptor protein-tyrosine kinase erbB-2 inhibitor,CHEMBL3545200,CHEMBL1824
+INHIBITOR,1,MAP kinase p38 alpha inhibitor,CHEMBL3545384,CHEMBL260
+INHIBITOR,1,MAP kinase p38 alpha inhibitor,CHEMBL3544930,CHEMBL260
+INHIBITOR,1,MAP kinase p38 alpha inhibitor,CHEMBL1614702,CHEMBL260
+INHIBITOR,1,MAP kinase p38 alpha inhibitor,CHEMBL1090173,CHEMBL260
+INHIBITOR,1,MAP kinase p38 alpha inhibitor,CHEMBL3545201,CHEMBL260
+INHIBITOR,2,Receptor protein-tyrosine kinase erbB-2 inhibitor,CHEMBL1614707,CHEMBL1824
+INHIBITOR,1,Receptor protein-tyrosine kinase erbB-2 inhibitor,CHEMBL1614725,CHEMBL1824
+INHIBITOR,1,Tyrosine-protein kinase ABL inhibitor,CHEMBL3545085,CHEMBL1862
+INHIBITOR,3,Receptor protein-tyrosine kinase erbB-2 inhibitor,CHEMBL3545111,CHEMBL1824
+INHIBITOR,3,Receptor protein-tyrosine kinase erbB-2 inhibitor,CHEMBL3647420,CHEMBL1824
+INHIBITOR,2,Receptor protein-tyrosine kinase erbB-2 inhibitor,CHEMBL587723,CHEMBL1824
+INHIBITOR,2,Receptor protein-tyrosine kinase erbB-2 inhibitor,CHEMBL2103842,CHEMBL1824
+INHIBITOR,3,MAP kinase p38 alpha inhibitor,CHEMBL1088750,CHEMBL260
+INHIBITOR,2,Tyrosine-protein kinase ABL inhibitor,CHEMBL495727,CHEMBL1862
+INHIBITOR,2,Receptor protein-tyrosine kinase erbB-2 inhibitor,CHEMBL2408045,CHEMBL1824
+INHIBITOR,2,Tyrosine-protein kinase ABL inhibitor,CHEMBL426161,CHEMBL1862
+INHIBITOR,2,MAP kinase p38 alpha inhibitor,CHEMBL1230065,CHEMBL260
+INHIBITOR,2,Receptor protein-tyrosine kinase erbB-2 inhibitor,CHEMBL3545396,CHEMBL1824
+INHIBITOR,2,MAP kinase p38 alpha inhibitor,CHEMBL2107779,CHEMBL260
+INHIBITOR,2,Casein kinase II alpha inhibitor,CHEMBL1230165,CHEMBL3629
+INHIBITOR,2,Tyrosine-protein kinase ABL inhibitor,CHEMBL1738757,CHEMBL1862
+INHIBITOR,2,MAP kinase p38 alpha inhibitor,CHEMBL3545216,CHEMBL260
+INHIBITOR,2,MAP kinase p38 alpha inhibitor,CHEMBL2103838,CHEMBL260
+INHIBITOR,2,Tyrosine-protein kinase ABL inhibitor,CHEMBL206834,CHEMBL1862
+INHIBITOR,4,Receptor protein-tyrosine kinase erbB-2 inhibitor,CHEMBL313972,CHEMBL1824
+INHIBITOR,2,MAP kinase p38 alpha inhibitor,CHEMBL3402567,CHEMBL260
+INHIBITOR,2,Glycogen synthase kinase-3 beta inhibitor,CHEMBL362558,CHEMBL262
+INHIBITOR,2,MAP kinase p38 alpha inhibitor,CHEMBL2364626,CHEMBL260
+INHIBITOR,2,Glycogen synthase kinase-3 beta inhibitor,CHEMBL3545157,CHEMBL262
+INHIBITOR,2,MAP kinase p38 alpha inhibitor,CHEMBL3545398,CHEMBL260
+INHIBITOR,2,MAP kinase p38 alpha inhibitor,CHEMBL1088751,CHEMBL260
+INHIBITOR,2,MAP kinase p38 alpha inhibitor,CHEMBL1090089,CHEMBL260
+INHIBITOR,2,MAP kinase p38 alpha inhibitor,CHEMBL514201,CHEMBL260
+INHIBITOR,2,MAP kinase p38 alpha inhibitor,CHEMBL363648,CHEMBL260
+INHIBITOR,2,MAP kinase p38 alpha inhibitor,CHEMBL1090090,CHEMBL260
+INHIBITOR,2,MAP kinase p38 alpha inhibitor,CHEMBL119385,CHEMBL260
+INHIBITOR,3,Receptor protein-tyrosine kinase erbB-2 inhibitor,CHEMBL3544983,CHEMBL1824
+INHIBITOR,2,MAP kinase p38 alpha inhibitor,CHEMBL5314397,CHEMBL260
+INHIBITOR,3,Tyrosine-protein kinase ABL inhibitor,CHEMBL217092,CHEMBL1862
+INHIBITOR,3,Receptor protein-tyrosine kinase erbB-2 inhibitor,CHEMBL545315,CHEMBL1824
+INHIBITOR,3,MAP kinase p38 alpha inhibitor,CHEMBL1088752,CHEMBL260
+INHIBITOR,3,MAP kinase p38 beta inhibitor,CHEMBL1088752,CHEMBL3961
+INHIBITOR,3,Tyrosine-protein kinase ABL inhibitor,CHEMBL3545413,CHEMBL1862
+INHIBITOR,4,Receptor protein-tyrosine kinase erbB-2 inhibitor,CHEMBL180022,CHEMBL1824
+INHIBITOR,4,Receptor protein-tyrosine kinase erbB-2 inhibitor,CHEMBL2105719,CHEMBL1824
+INHIBITOR,4,Receptor protein-tyrosine kinase erbB-2 inhibitor,CHEMBL2364649,CHEMBL1824
+INHIBITOR,4,Receptor protein-tyrosine kinase erbB-2 inhibitor,CHEMBL2110732,CHEMBL1824
+INHIBITOR,4,Receptor protein-tyrosine kinase erbB-2 inhibitor,CHEMBL3989921,CHEMBL1824
+INHIBITOR,2,Glycogen synthase kinase-3 beta inhibitor,CHEMBL483465,CHEMBL262
+INHIBITOR,3,Tyrosine-protein kinase ABL inhibitor,CHEMBL3678958,CHEMBL1862
+NEGATIVE ALLOSTERIC MODULATOR,1,Receptor protein-tyrosine kinase erbB-2 negative allosteric modulator,CHEMBL4650279,CHEMBL1824
+INHIBITOR,2,Tyrosine-protein kinase ABL inhibitor,CHEMBL4130229,CHEMBL1862
+INHIBITOR,4,Tyrosine-protein kinase ABL inhibitor,CHEMBL3989869,CHEMBL1862
+INHIBITOR,3,Receptor protein-tyrosine kinase erbB-2 inhibitor,CHEMBL4594568,CHEMBL1824
+INHIBITOR,4,Receptor protein-tyrosine kinase erbB-2 inhibitor,CHEMBL4650256,CHEMBL1824
+INHIBITOR,4,Tyrosine-protein kinase SRC inhibitor,CHEMBL288441,CHEMBL267
+INHIBITOR,4,Tyrosine-protein kinase SRC inhibitor,CHEMBL24828,CHEMBL267
+INHIBITOR,1,3-phosphoinositide dependent protein kinase-1 inhibitor,CHEMBL1650595,CHEMBL2534
+INHIBITOR,1,Tyrosine-protein kinase SRC inhibitor,CHEMBL5314408,CHEMBL267
+INHIBITOR,1,Serine/threonine-protein kinase AKT2 inhibitor,CHEMBL4751394,CHEMBL2431
+INHIBITOR,1,Tyrosine-protein kinase SRC inhibitor,CHEMBL3109738,CHEMBL267
+INHIBITOR,2,Serine/threonine-protein kinase AKT3 inhibitor,CHEMBL4871106,CHEMBL4816
+INHIBITOR,1,Tyrosine-protein kinase SRC inhibitor,CHEMBL3545196,CHEMBL267
+INHIBITOR,1,Serine/threonine-protein kinase Chk2 inhibitor,CHEMBL3544936,CHEMBL2527
+INHIBITOR,4,Cyclin-dependent kinase 6 inhibitor,CHEMBL3894860,CHEMBL2508
+INHIBITOR,2,Tyrosine-protein kinase SRC inhibitor,CHEMBL426161,CHEMBL267
+INHIBITOR,4,Tyrosine-protein kinase SRC inhibitor,CHEMBL571546,CHEMBL267
+INHIBITOR,4,Cyclin-dependent kinase 6 inhibitor,CHEMBL3301610,CHEMBL2508
+INHIBITOR,2,Cyclin-dependent kinase 6 inhibitor,CHEMBL574737,CHEMBL2508
+INHIBITOR,2,3-phosphoinositide dependent protein kinase-1 inhibitor,CHEMBL574737,CHEMBL2534
+INHIBITOR,3,Tyrosine-protein kinase SRC inhibitor,CHEMBL217092,CHEMBL267
+INHIBITOR,3,Cyclin-dependent kinase 6 inhibitor,CHEMBL428690,CHEMBL2508
+INHIBITOR,4,Cyclin-dependent kinase 6 inhibitor,CHEMBL3545110,CHEMBL2508
+INHIBITOR,2,Serine/threonine-protein kinase Chk2 inhibitor,CHEMBL3544911,CHEMBL2527
+INHIBITOR,4,Cyclin-dependent kinase 6 inhibitor,CHEMBL3707266,CHEMBL2508
+INHIBITOR,4,Cyclin-dependent kinase 6 inhibitor,CHEMBL3894860,CHEMBL2508
+INHIBITOR,4,Cyclin-dependent kinase 6 inhibitor,CHEMBL4650272,CHEMBL2508
+INHIBITOR,4,Serine/threonine-protein kinase RAF inhibitor,CHEMBL1946170,CHEMBL1906
+INHIBITOR,4,Serine/threonine-protein kinase RAF inhibitor,CHEMBL1200485,CHEMBL1906
+INHIBITOR,1,Inhibitor of nuclear factor kappa B kinase beta subunit inhibitor,CHEMBL536151,CHEMBL1991
+INHIBITOR,2,Tyrosine-protein kinase JAK3 inhibitor,CHEMBL4116008,CHEMBL2148
+INHIBITOR,1,Serine/threonine-protein kinase RAF inhibitor,CHEMBL5314407,CHEMBL1906
+INHIBITOR,1,Inhibitor of nuclear factor kappa B kinase beta subunit inhibitor,CHEMBL129857,CHEMBL1991
+INHIBITOR,3,Serine/threonine-protein kinase Aurora-B inhibitor,CHEMBL5095033,CHEMBL2185
+INHIBITOR,1,Serine/threonine-protein kinase Aurora-B inhibitor,CHEMBL1090479,CHEMBL2185
+INHIBITOR,1,Serine/threonine-protein kinase Aurora-B inhibitor,CHEMBL1908397,CHEMBL2185
+INHIBITOR,1,Serine/threonine-protein kinase RAF inhibitor,CHEMBL3545263,CHEMBL1906
+INHIBITOR,1,Serine/threonine-protein kinase RAF inhibitor,CHEMBL3577124,CHEMBL1906
+INHIBITOR,1,Inhibitor of nuclear factor kappa B kinase beta subunit inhibitor,CHEMBL5314383,CHEMBL1991
+INHIBITOR,1,Serine/threonine-protein kinase Aurora-B inhibitor,CHEMBL4289017,CHEMBL2185
+INHIBITOR,2,Tyrosine-protein kinase JAK3 inhibitor,CHEMBL5314384,CHEMBL2148
+INHIBITOR,1,Tyrosine-protein kinase JAK3 inhibitor,CHEMBL2106468,CHEMBL2148
+INHIBITOR,1,Serine/threonine-protein kinase RAF inhibitor,CHEMBL3545082,CHEMBL1906
+INHIBITOR,1,Serine/threonine-protein kinase Aurora-B inhibitor,CHEMBL3544932,CHEMBL2185
+INHIBITOR,1,Tyrosine-protein kinase JAK3 inhibitor,CHEMBL405130,CHEMBL2148
+INHIBITOR,1,Inhibitor of nuclear factor kappa B kinase beta subunit inhibitor,CHEMBL3545147,CHEMBL1991
+INHIBITOR,2,Serine/threonine-protein kinase Aurora-B inhibitor,CHEMBL495727,CHEMBL2185
+INHIBITOR,2,Tyrosine-protein kinase JAK3 inhibitor,CHEMBL495727,CHEMBL2148
+INHIBITOR,2,Serine/threonine-protein kinase Aurora-B inhibitor,CHEMBL3545395,CHEMBL2185
+INHIBITOR,2,Serine/threonine-protein kinase Aurora-B inhibitor,CHEMBL482968,CHEMBL2185
+INHIBITOR,2,Tyrosine-protein kinase JAK3 inhibitor,CHEMBL3545159,CHEMBL2148
+INHIBITOR,2,Inhibitor of nuclear factor kappa B kinase beta subunit inhibitor,CHEMBL3544945,CHEMBL1991
+INHIBITOR,2,Tyrosine-protein kinase JAK3 inhibitor,CHEMBL3039513,CHEMBL2148
+INHIBITOR,2,Serine/threonine-protein kinase RAF inhibitor,CHEMBL3545027,CHEMBL1906
+INHIBITOR,2,Inhibitor of nuclear factor kappa B kinase beta subunit inhibitor,CHEMBL3545168,CHEMBL1991
+INHIBITOR,3,Inhibitor of nuclear factor kappa B kinase beta subunit inhibitor,CHEMBL1762621,CHEMBL1991
+INHIBITOR,3,Serine/threonine-protein kinase Aurora-B inhibitor,CHEMBL415049,CHEMBL2185
+INHIBITOR,4,Tyrosine-protein kinase JAK3 inhibitor,CHEMBL4085457,CHEMBL2148
+INHIBITOR,2,Sphingosine kinase 2 inhibitor,CHEMBL2158685,CHEMBL3023
+INHIBITOR,2,Protein kinase C epsilon inhibitor,CHEMBL4297775,CHEMBL3582
+INHIBITOR,4,Tyrosine-protein kinase JAK3 inhibitor,CHEMBL5314649,CHEMBL2148
+INHIBITOR,4,Tyrosine-protein kinase JAK3 inhibitor,CHEMBL3301607,CHEMBL2148
+INHIBITOR,4,Tyrosine-protein kinase JAK3 inhibitor,CHEMBL4298167,CHEMBL2148
+INHIBITOR,4,Tyrosine-protein kinase JAK3 inhibitor,CHEMBL5315119,CHEMBL2148
+INHIBITOR,4,Tyrosine-protein kinase JAK3 inhibitor,CHEMBL4594382,CHEMBL2148
+INHIBITOR,4,Tyrosine-protein kinase JAK1 inhibitor,CHEMBL1795071,CHEMBL2835
+INHIBITOR,4,Dual specificity mitogen-activated protein kinase kinase 2 inhibitor,CHEMBL2105741,CHEMBL2964
+INHIBITOR,4,Tyrosine-protein kinase JAK2 inhibitor,CHEMBL1795071,CHEMBL2971
+INHIBITOR,4,Tyrosine-protein kinase ITK/TSK inhibitor,CHEMBL1201733,CHEMBL2959
+INHIBITOR,4,Dual specificity mitogen-activated protein kinase kinase 2 inhibitor,CHEMBL2364607,CHEMBL2964
+INHIBITOR,2,Tyrosine-protein kinase SYK inhibitor,CHEMBL4116008,CHEMBL2599
+INHIBITOR,2,Tyrosine-protein kinase JAK1 inhibitor,CHEMBL4116008,CHEMBL2835
+INHIBITOR,1,Tyrosine-protein kinase JAK2 inhibitor,CHEMBL3545241,CHEMBL2971
+INHIBITOR,1,Dual specificity mitogen-activated protein kinase kinase 2 inhibitor,CHEMBL3545243,CHEMBL2964
+INHIBITOR,1,Dual specificity mitogen-activated protein kinase kinase 2 inhibitor,CHEMBL3182621,CHEMBL2964
+INHIBITOR,1,Tyrosine-protein kinase JAK2 inhibitor,CHEMBL2035185,CHEMBL2971
+INHIBITOR,1,Tyrosine-protein kinase JAK1 inhibitor,CHEMBL3545249,CHEMBL2835
+INHIBITOR,1,Serine/threonine-protein kinase PLK1 inhibitor,CHEMBL1908394,CHEMBL3024
+INHIBITOR,1,Serine/threonine-protein kinase PLK1 inhibitor,CHEMBL3991927,CHEMBL3024
+INHIBITOR,3,Tyrosine-protein kinase SYK inhibitor,CHEMBL5095034,CHEMBL2599
+INHIBITOR,1,Tyrosine-protein kinase JAK2 inhibitor,CHEMBL5095023,CHEMBL2971
+INHIBITOR,1,Serine/threonine-protein kinase PLK1 inhibitor,CHEMBL5314387,CHEMBL3024
+INHIBITOR,2,Dual specificity mitogen-activated protein kinase kinase 2 inhibitor,CHEMBL2104954,CHEMBL2964
+INHIBITOR,2,Serine/threonine-protein kinase PLK1 inhibitor,CHEMBL1738758,CHEMBL3024
+INHIBITOR,4,Tyrosine-protein kinase JAK1 inhibitor,CHEMBL3655081,CHEMBL2835
+INHIBITOR,1,Tyrosine-protein kinase SYK inhibitor,CHEMBL3545138,CHEMBL2599
+INHIBITOR,2,Tyrosine-protein kinase SYK inhibitor,CHEMBL5314384,CHEMBL2599
+INHIBITOR,1,Tyrosine-protein kinase JAK1 inhibitor,CHEMBL2106468,CHEMBL2835
+INHIBITOR,3,Dual specificity mitogen-activated protein kinase kinase 2 inhibitor,CHEMBL3264002,CHEMBL2964
+INHIBITOR,1,Dual specificity mitogen-activated protein kinase kinase 2 inhibitor,CHEMBL1614766,CHEMBL2964
+INHIBITOR,2,Tyrosine-protein kinase SYK inhibitor,CHEMBL4594253,CHEMBL2599
+INHIBITOR,2,Dual specificity mitogen-activated protein kinase kinase 2 inhibitor,CHEMBL1615025,CHEMBL2964
+INHIBITOR,1,Serine/threonine-protein kinase PLK1 inhibitor,CHEMBL2392545,CHEMBL3024
+INHIBITOR,2,Tyrosine-protein kinase JAK2 inhibitor,CHEMBL1944698,CHEMBL2971
+INHIBITOR,1,Dual specificity mitogen-activated protein kinase kinase 2 inhibitor,CHEMBL3545145,CHEMBL2964
+INHIBITOR,1,Tyrosine-protein kinase JAK2 inhibitor,CHEMBL3545328,CHEMBL2971
+INHIBITOR,1,Serine/threonine-protein kinase PLK1 inhibitor,CHEMBL3545354,CHEMBL3024
+INHIBITOR,2,Dual specificity mitogen-activated protein kinase kinase 2 inhibitor,CHEMBL2107832,CHEMBL2964
+INHIBITOR,2,Tyrosine-protein kinase JAK2 inhibitor,CHEMBL495727,CHEMBL2971
+INHIBITOR,2,Tyrosine-protein kinase JAK2 inhibitor,CHEMBL1231124,CHEMBL2971
+INHIBITOR,4,Dual specificity mitogen-activated protein kinase kinase 2 inhibitor,CHEMBL2105684,CHEMBL2964
+INHIBITOR,2,Dual specificity mitogen-activated protein kinase kinase 2 inhibitor,CHEMBL1236682,CHEMBL2964
+INHIBITOR,2,Serine/threonine-protein kinase PLK1 inhibitor,CHEMBL513909,CHEMBL3024
+INHIBITOR,2,Tyrosine-protein kinase JAK2 inhibitor,CHEMBL3545215,CHEMBL2971
+INHIBITOR,2,Dual specificity mitogen-activated protein kinase kinase 2 inhibitor,CHEMBL105442,CHEMBL2964
+INHIBITOR,4,Tyrosine-protein kinase JAK1 inhibitor,CHEMBL3301607,CHEMBL2835
+INHIBITOR,3,Tyrosine-protein kinase SYK inhibitor,CHEMBL3265032,CHEMBL2599
+INHIBITOR,2,Tyrosine-protein kinase JAK1 inhibitor,CHEMBL3301606,CHEMBL2835
+INHIBITOR,2,Glycogen synthase kinase-3 alpha inhibitor,CHEMBL362558,CHEMBL2850
+INHIBITOR,2,Tyrosine-protein kinase JAK2 inhibitor,CHEMBL2107823,CHEMBL2971
+INHIBITOR,2,Tyrosine-protein kinase JAK2 inhibitor,CHEMBL4303389,CHEMBL2971
+INHIBITOR,2,Dual specificity mitogen-activated protein kinase kinase 2 inhibitor,CHEMBL507361,CHEMBL2964
+INHIBITOR,2,Tyrosine-protein kinase SYK inhibitor,CHEMBL515271,CHEMBL2599
+INHIBITOR,2,Tyrosine-protein kinase SYK inhibitor,CHEMBL3545159,CHEMBL2599
+INHIBITOR,2,Tyrosine-protein kinase SYK inhibitor,CHEMBL2170582,CHEMBL2599
+INHIBITOR,2,Tyrosine-protein kinase SYK inhibitor,CHEMBL475251,CHEMBL2599
+INHIBITOR,3,Tyrosine-protein kinase JAK1 inhibitor,CHEMBL3622820,CHEMBL2835
+INHIBITOR,2,Tyrosine-protein kinase JAK1 inhibitor,CHEMBL3545225,CHEMBL2835
+INHIBITOR,3,Serine/threonine-protein kinase PLK1 inhibitor,CHEMBL1233528,CHEMBL3024
+INHIBITOR,3,Tyrosine-protein kinase JAK2 inhibitor,CHEMBL603469,CHEMBL2971
+INHIBITOR,4,Tyrosine-protein kinase JAK1 inhibitor,CHEMBL1078178,CHEMBL2835
+INHIBITOR,4,Tyrosine-protein kinase JAK2 inhibitor,CHEMBL1078178,CHEMBL2971
+INHIBITOR,4,Tyrosine-protein kinase JAK1 inhibitor,CHEMBL2105759,CHEMBL2835
+INHIBITOR,4,Tyrosine-protein kinase JAK2 inhibitor,CHEMBL2105759,CHEMBL2971
+INHIBITOR,4,Dual specificity mitogen-activated protein kinase kinase 2 inhibitor,CHEMBL3187723,CHEMBL2964
+INHIBITOR,4,Tyrosine-protein kinase SYK inhibitor,CHEMBL2103830,CHEMBL2599
+INHIBITOR,4,Dual specificity mitogen-activated protein kinase kinase 2 inhibitor,CHEMBL2146883,CHEMBL2964
+INHIBITOR,4,Tyrosine-protein kinase JAK2 inhibitor,CHEMBL1287853,CHEMBL2971
+INHIBITOR,4,Tyrosine-protein kinase JAK2 inhibitor,CHEMBL2035187,CHEMBL2971
+INHIBITOR,4,Tyrosine-protein kinase SYK inhibitor,CHEMBL3989516,CHEMBL2599
+INHIBITOR,4,Tyrosine-protein kinase JAK2 inhibitor,CHEMBL4297216,CHEMBL2971
+INHIBITOR,3,Tyrosine-protein kinase JAK1 inhibitor,CHEMBL4297477,CHEMBL2835
+INHIBITOR,2,Tyrosine-protein kinase SYK inhibitor,CHEMBL4594275,CHEMBL2599
+INHIBITOR,2,Tyrosine-protein kinase SYK inhibitor,CHEMBL3986824,CHEMBL2599
+INHIBITOR,2,Tyrosine-protein kinase JAK1 inhibitor,CHEMBL4577523,CHEMBL2835
+INHIBITOR,4,Casein kinase I epsilon inhibitor,CHEMBL3989869,CHEMBL4937
+INHIBITOR,4,Tyrosine-protein kinase JAK2 inhibitor,CHEMBL5095049,CHEMBL2971
+INHIBITOR,4,Tyrosine-protein kinase JAK2 inhibitor,CHEMBL5095049,CHEMBL2971
+INHIBITOR,4,Tyrosine-protein kinase JAK2 inhibitor,CHEMBL3301607,CHEMBL2971
+INHIBITOR,4,Tyrosine-protein kinase JAK1 inhibitor,CHEMBL4298167,CHEMBL2835
+INHIBITOR,4,Tyrosine-protein kinase JAK2 inhibitor,CHEMBL4298167,CHEMBL2971
+INHIBITOR,4,Tyrosine-protein kinase JAK2 inhibitor,CHEMBL5315119,CHEMBL2971
+INHIBITOR,4,Tyrosine-protein kinase JAK1 inhibitor,CHEMBL5315119,CHEMBL2835
+INHIBITOR,4,Tyrosine-protein kinase JAK2 inhibitor,CHEMBL4594382,CHEMBL2971
+INHIBITOR,4,Tyrosine-protein kinase JAK2 inhibitor,CHEMBL6068336,CHEMBL2971
+INHIBITOR,4,Tyrosine-protein kinase JAK1 inhibitor,CHEMBL4594382,CHEMBL2835
+INHIBITOR,4,Tyrosine-protein kinase JAK1 inhibitor,CHEMBL6068336,CHEMBL2835
+INHIBITOR,4,Tyrosine-protein kinase JAK2 inhibitor,CHEMBL6068336,CHEMBL2971
+INHIBITOR,4,Dual specificity mitogen-activated protein kinase kinase 1 inhibitor,CHEMBL2105741,CHEMBL3587
+INHIBITOR,4,PI3-kinase p110-delta subunit inhibitor,CHEMBL2216870,CHEMBL3130
+INHIBITOR,4,Dual specificity mitogen-activated protein kinase kinase 1 inhibitor,CHEMBL2364607,CHEMBL3587
+INHIBITOR,2,Serine/threonine-protein kinase mTOR inhibitor,CHEMBL3545097,CHEMBL2842
+INHIBITOR,2,PI3-kinase p110-delta subunit inhibitor,CHEMBL4303596,CHEMBL3130
+INHIBITOR,1,Dual specificity mitogen-activated protein kinase kinase 1 inhibitor,CHEMBL3545243,CHEMBL3587
+INHIBITOR,1,MAP kinase-activated protein kinase 2 inhibitor,CHEMBL3544960,CHEMBL2208
+INHIBITOR,1,Serine/threonine-protein kinase mTOR inhibitor,CHEMBL1801204,CHEMBL2842
+INHIBITOR,1,PI3-kinase p110-delta subunit inhibitor,CHEMBL3408248,CHEMBL3130
+INHIBITOR,1,Dual specificity mitogen-activated protein kinase kinase 1 inhibitor,CHEMBL3182621,CHEMBL3587
+INHIBITOR,1,PI3-kinase p110-alpha subunit inhibitor,CHEMBL3644672,CHEMBL4005
+INHIBITOR,2,Focal adhesion kinase 1 inhibitor,CHEMBL3657311,CHEMBL2695
+INHIBITOR,1,PI3-kinase p110-delta subunit inhibitor,CHEMBL3545247,CHEMBL3130
+INHIBITOR,2,Serine/threonine-protein kinase mTOR inhibitor,CHEMBL3586573,CHEMBL2842
+INHIBITOR,1,Focal adhesion kinase 1 inhibitor,CHEMBL3951811,CHEMBL2695
+INHIBITOR,2,PI3-kinase p110-delta subunit inhibitor,CHEMBL3622533,CHEMBL3130
+INHIBITOR,2,PI3-kinase p110-alpha subunit inhibitor,CHEMBL3622533,CHEMBL4005
+INHIBITOR,1,Serine/threonine-protein kinase mTOR inhibitor,CHEMBL3544963,CHEMBL2842
+INHIBITOR,1,Serine/threonine-protein kinase mTOR inhibitor,CHEMBL3545248,CHEMBL2842
+INHIBITOR,2,Serine/threonine-protein kinase mTOR inhibitor,CHEMBL1236962,CHEMBL2842
+INHIBITOR,2,Focal adhesion kinase 1 inhibitor,CHEMBL4742157,CHEMBL2695
+INHIBITOR,2,Dual specificity mitogen-activated protein kinase kinase 1 inhibitor,CHEMBL2104954,CHEMBL3587
+INHIBITOR,2,PI3-kinase p110-alpha subunit inhibitor,CHEMBL3935857,CHEMBL4005
+INHIBITOR,2,Serine/threonine-protein kinase mTOR inhibitor,CHEMBL5095025,CHEMBL2842
+INHIBITOR,1,Serine/threonine-protein kinase mTOR inhibitor,CHEMBL2141712,CHEMBL2842
+INHIBITOR,1,Focal adhesion kinase 1 inhibitor,CHEMBL1084546,CHEMBL2695
+INHIBITOR,1,Serine/threonine-protein kinase mTOR inhibitor,CHEMBL1258517,CHEMBL2842
+INHIBITOR,1,PI3-kinase p110-alpha subunit inhibitor,CHEMBL1258517,CHEMBL4005
+INHIBITOR,1,Serine/threonine-protein kinase mTOR inhibitor,CHEMBL3545323,CHEMBL2842
+INHIBITOR,1,PI3-kinase p110-alpha subunit inhibitor,CHEMBL3545323,CHEMBL4005
+INHIBITOR,1,Serine/threonine-protein kinase mTOR inhibitor,CHEMBL3545006,CHEMBL2842
+INHIBITOR,3,Dual specificity mitogen-activated protein kinase kinase 1 inhibitor,CHEMBL3264002,CHEMBL3587
+INHIBITOR,1,Serine/threonine-protein kinase mTOR inhibitor,CHEMBL2331680,CHEMBL2842
+INHIBITOR,1,Dual specificity mitogen-activated protein kinase kinase 1 inhibitor,CHEMBL1614766,CHEMBL3587
+INHIBITOR,2,PI3-kinase p110-delta subunit inhibitor,CHEMBL4297584,CHEMBL3130
+INHIBITOR,2,Serine/threonine-protein kinase mTOR inhibitor,CHEMBL2326966,CHEMBL2842
+INHIBITOR,2,Dual specificity mitogen-activated protein kinase kinase 1 inhibitor,CHEMBL1615025,CHEMBL3587
+INHIBITOR,4,PI3-kinase p110-delta subunit inhibitor,CHEMBL3989869,CHEMBL3130
+INHIBITOR,1,Focal adhesion kinase 1 inhibitor,CHEMBL3040440,CHEMBL2695
+INHIBITOR,1,Serine/threonine-protein kinase mTOR inhibitor,CHEMBL3393066,CHEMBL2842
+INHIBITOR,1,Dual specificity mitogen-activated protein kinase kinase 1 inhibitor,CHEMBL3545145,CHEMBL3587
+INHIBITOR,3,PI3-kinase p110-delta subunit inhibitor,CHEMBL4650214,CHEMBL3130
+INHIBITOR,2,Dual specificity mitogen-activated protein kinase kinase 1 inhibitor,CHEMBL2107832,CHEMBL3587
+INHIBITOR,4,Dual specificity mitogen-activated protein kinase kinase 1 inhibitor,CHEMBL2105684,CHEMBL3587
+INHIBITOR,2,Dual specificity mitogen-activated protein kinase kinase 1 inhibitor,CHEMBL1236682,CHEMBL3587
+INHIBITOR,3,Serine/threonine-protein kinase mTOR inhibitor,CHEMBL1879463,CHEMBL2842
+INHIBITOR,2,Serine/threonine-protein kinase mTOR inhibitor,CHEMBL3545096,CHEMBL2842
+INHIBITOR,4,PI3-kinase p110-alpha subunit inhibitor,CHEMBL2396661,CHEMBL4005
+INHIBITOR,2,Serine/threonine-protein kinase mTOR inhibitor,CHEMBL3586404,CHEMBL2842
+INHIBITOR,2,c-Jun N-terminal kinase 2 inhibitor,CHEMBL1614713,CHEMBL4179
+INHIBITOR,2,c-Jun N-terminal kinase 3 inhibitor,CHEMBL1614713,CHEMBL2637
+INHIBITOR,2,c-Jun N-terminal kinase 2 inhibitor,CHEMBL1950289,CHEMBL4179
+INHIBITOR,2,c-Jun N-terminal kinase 3 inhibitor,CHEMBL1950289,CHEMBL2637
+INHIBITOR,2,Dual specificity mitogen-activated protein kinase kinase 1 inhibitor,CHEMBL105442,CHEMBL3587
+INHIBITOR,2,Dual specificity mitogen-activated protein kinase kinase 1 inhibitor,CHEMBL1097999,CHEMBL3587
+INHIBITOR,2,MAP kinase-activated protein kinase 5 inhibitor,CHEMBL5095028,CHEMBL3094
+INHIBITOR,2,PI3-kinase p110-delta subunit inhibitor,CHEMBL4303323,CHEMBL3130
+INHIBITOR,2,Serine/threonine-protein kinase mTOR inhibitor,CHEMBL3120215,CHEMBL2842
+INHIBITOR,2,Dual specificity mitogen-activated protein kinase kinase 1 inhibitor,CHEMBL507361,CHEMBL3587
+INHIBITOR,2,Serine/threonine-protein kinase mTOR inhibitor,CHEMBL1234354,CHEMBL2842
+INHIBITOR,3,Serine/threonine-protein kinase mTOR inhibitor,CHEMBL592445,CHEMBL2842
+INHIBITOR,2,Serine/threonine-protein kinase mTOR inhibitor,CHEMBL1922094,CHEMBL2842
+INHIBITOR,2,Serine/threonine-protein kinase mTOR inhibitor,CHEMBL3545366,CHEMBL2842
+INHIBITOR,2,PI3-kinase p110-delta subunit inhibitor,CHEMBL230011,CHEMBL3130
+INHIBITOR,3,Focal adhesion kinase 1 inhibitor,CHEMBL3137331,CHEMBL2695
+INHIBITOR,2,PI3-kinase p110-delta subunit inhibitor,CHEMBL5314409,CHEMBL3130
+INHIBITOR,2,PI3-kinase p110-delta subunit inhibitor,CHEMBL3545054,CHEMBL3130
+INHIBITOR,2,Serine/threonine-protein kinase mTOR inhibitor,CHEMBL4297181,CHEMBL2842
+INHIBITOR,4,Dual specificity mitogen-activated protein kinase kinase 1 inhibitor,CHEMBL3187723,CHEMBL3587
+INHIBITOR,4,Dual specificity mitogen-activated protein kinase kinase 1 inhibitor,CHEMBL2146883,CHEMBL3587
+INHIBITOR,3,Serine/threonine-protein kinase mTOR inhibitor,CHEMBL2103839,CHEMBL2842
+INHIBITOR,4,Serine/threonine-protein kinase mTOR inhibitor,CHEMBL1334033,CHEMBL2842
+INHIBITOR,4,PI3-kinase p110-alpha subunit inhibitor,CHEMBL3545068,CHEMBL4005
+INHIBITOR,4,PI3-kinase p110-delta subunit inhibitor,CHEMBL3545068,CHEMBL3130
+INHIBITOR,2,Serine/threonine-protein kinase mTOR inhibitor,CHEMBL2336325,CHEMBL2842
+INHIBITOR,4,PI3-kinase p110-alpha subunit inhibitor,CHEMBL3218576,CHEMBL4005
+INHIBITOR,4,PI3-kinase p110-delta subunit inhibitor,CHEMBL3218576,CHEMBL3130
+INHIBITOR,2,PI3-kinase p110-delta subunit inhibitor,CHEMBL4297584,CHEMBL3130
+INHIBITOR,4,PI3-kinase p110-alpha subunit inhibitor,CHEMBL4650215,CHEMBL4005
+INHIBITOR,4,PI3-kinase p110-delta subunit inhibitor,CHEMBL3643413,CHEMBL3130
+INHIBITOR,3,PI3-kinase p110-delta subunit inhibitor,CHEMBL4297615,CHEMBL3130
+INHIBITOR,2,PI3-kinase p110-delta subunit inhibitor,CHEMBL2216859,CHEMBL3130
+INHIBITOR,1,Focal adhesion kinase 1 inhibitor,CHEMBL3899477,CHEMBL2695
+INHIBITOR,3,c-Jun N-terminal kinase 3 inhibitor,CHEMBL4297650,CHEMBL2637
+INHIBITOR,2,PI3-kinase p110-delta subunit inhibitor,CHEMBL4297648,CHEMBL3130
+INHIBITOR,4,Rho-associated protein kinase 2 inhibitor,CHEMBL2005186,CHEMBL2973
+INHIBITOR,3,c-Jun N-terminal kinase 3 inhibitor,CHEMBL4297348,CHEMBL2637
+INHIBITOR,4,PI3-kinase p110-delta subunit inhibitor,CHEMBL3989909,CHEMBL3130
+INHIBITOR,4,PI3-kinase p110-delta subunit inhibitor,CHEMBL5315125,CHEMBL3130
+INHIBITOR,1,Cyclin-dependent kinase 2 inhibitor,CHEMBL3545420,CHEMBL301
+INHIBITOR,1,Cyclin-dependent kinase 2 inhibitor,CHEMBL296468,CHEMBL301
+INHIBITOR,1,Cyclin-dependent kinase 9 inhibitor,CHEMBL296468,CHEMBL3116
+INHIBITOR,2,MAP kinase ERK1 inhibitor,CHEMBL3544964,CHEMBL3385
+INHIBITOR,2,MAP kinase ERK2 inhibitor,CHEMBL3544964,CHEMBL4040
+INHIBITOR,1,MAP kinase ERK1 inhibitor,CHEMBL4213970,CHEMBL3385
+INHIBITOR,1,MAP kinase ERK2 inhibitor,CHEMBL4213970,CHEMBL4040
+INHIBITOR,2,Cyclin-dependent kinase 2 inhibitor,CHEMBL384304,CHEMBL301
+INHIBITOR,1,Cyclin-dependent kinase 2 inhibitor,CHEMBL3545083,CHEMBL301
+INHIBITOR,1,Cyclin-dependent kinase 9 inhibitor,CHEMBL3545083,CHEMBL3116
+INHIBITOR,1,Cyclin-dependent kinase 2 inhibitor,CHEMBL258805,CHEMBL301
+INHIBITOR,1,Choline kinase alpha inhibitor,CHEMBL192986,CHEMBL3117
+INHIBITOR,2,Cyclin-dependent kinase 2 inhibitor,CHEMBL1944698,CHEMBL301
+INHIBITOR,2,Cyclin-dependent kinase 9 inhibitor,CHEMBL1944698,CHEMBL3116
+INHIBITOR,2,MAP kinase ERK1 inhibitor,CHEMBL3590106,CHEMBL3385
+INHIBITOR,2,MAP kinase ERK2 inhibitor,CHEMBL3590106,CHEMBL4040
+INHIBITOR,2,Cyclin-dependent kinase 2 inhibitor,CHEMBL14762,CHEMBL301
+INHIBITOR,2,Cyclin-dependent kinase 9 inhibitor,CHEMBL14762,CHEMBL3116
+INHIBITOR,2,Cyclin-dependent kinase 9 inhibitor,CHEMBL3545283,CHEMBL3116
+INHIBITOR,2,Cyclin-dependent kinase 2 inhibitor,CHEMBL564829,CHEMBL301
+INHIBITOR,2,Cyclin-dependent kinase 2 inhibitor,CHEMBL574737,CHEMBL301
+INHIBITOR,3,Cyclin-dependent kinase 2 inhibitor,CHEMBL428690,CHEMBL301
+INHIBITOR,3,Cyclin-dependent kinase 9 inhibitor,CHEMBL428690,CHEMBL3116
+INHIBITOR,3,Protein kinase C beta inhibitor,CHEMBL300138,CHEMBL3045
+INHIBITOR,3,Protein kinase C beta inhibitor,CHEMBL91829,CHEMBL3045
+INHIBITOR,3,Cyclin-dependent kinase 2 inhibitor,CHEMBL2103840,CHEMBL301
+INHIBITOR,3,Cyclin-dependent kinase 9 inhibitor,CHEMBL2103840,CHEMBL3116
+INHIBITOR,4,Tyrosine-protein kinase HCK inhibitor,CHEMBL288441,CHEMBL3234
+INHIBITOR,4,Tyrosine-protein kinase Lyn inhibitor,CHEMBL288441,CHEMBL3905
+INHIBITOR,1,PI3-kinase p110-gamma subunit inhibitor,CHEMBL3545247,CHEMBL3267
+INHIBITOR,1,Tyrosine-protein kinase FYN inhibitor,CHEMBL3109738,CHEMBL1841
+INHIBITOR,1,Tyrosine-protein kinase Lyn inhibitor,CHEMBL3109738,CHEMBL3905
+INHIBITOR,2,PI3-kinase p110-gamma subunit inhibitor,CHEMBL4297584,CHEMBL3267
+INHIBITOR,2,Tyrosine-protein kinase Lyn inhibitor,CHEMBL206834,CHEMBL3905
+INHIBITOR,2,PI3-kinase p110-gamma subunit inhibitor,CHEMBL230011,CHEMBL3267
+INHIBITOR,3,Mitogen-activated protein kinase kinase kinase 11 inhibitor,CHEMBL290352,CHEMBL2708
+INHIBITOR,3,Mitogen-activated protein kinase kinase kinase 10 inhibitor,CHEMBL290352,CHEMBL2873
+INHIBITOR,3,Mitogen-activated protein kinase kinase kinase 9 inhibitor,CHEMBL290352,CHEMBL2872
+INHIBITOR,2,PI3-kinase p110-gamma subunit inhibitor,CHEMBL3984425,CHEMBL3267
+INHIBITOR,2,PI3-kinase p110-gamma subunit inhibitor,CHEMBL4297584,CHEMBL3267
+INHIBITOR,4,PI3-kinase p110-gamma subunit inhibitor,CHEMBL5315125,CHEMBL3267
+INHIBITOR,4,Tyrosine-protein kinase receptor FLT3 inhibitor,CHEMBL1200485,CHEMBL1974
+INHIBITOR,4,Tyrosine-protein kinase receptor FLT3 inhibitor,CHEMBL1567,CHEMBL1974
+INHIBITOR,2,Tyrosine-protein kinase receptor FLT3 inhibitor,CHEMBL52885,CHEMBL1974
+INHIBITOR,2,Tyrosine-protein kinase receptor FLT3 inhibitor,CHEMBL1721885,CHEMBL1974
+INHIBITOR,1,Tyrosine-protein kinase receptor FLT3 inhibitor,CHEMBL5314406,CHEMBL1974
+INHIBITOR,1,Cyclin-dependent kinase 1 inhibitor,CHEMBL3545420,CHEMBL308
+INHIBITOR,1,Tyrosine-protein kinase receptor FLT3 inhibitor,CHEMBL129857,CHEMBL1974
+INHIBITOR,1,Tyrosine-protein kinase receptor FLT3 inhibitor,CHEMBL574738,CHEMBL1974
+INHIBITOR,1,PI3-kinase p110-beta subunit inhibitor,CHEMBL3408248,CHEMBL3145
+INHIBITOR,1,PI3-kinase p110-beta subunit inhibitor,CHEMBL3644672,CHEMBL3145
+INHIBITOR,1,Serine/threonine-protein kinase AKT inhibitor,CHEMBL4751394,CHEMBL4282
+INHIBITOR,3,Tyrosine-protein kinase receptor FLT3 inhibitor,CHEMBL3545427,CHEMBL1974
+INHIBITOR,1,Tyrosine-protein kinase receptor FLT3 inhibitor,CHEMBL2035185,CHEMBL1974
+INHIBITOR,2,PI3-kinase p110-beta subunit inhibitor,CHEMBL3622533,CHEMBL3145
+INHIBITOR,2,PI3-kinase p110-beta subunit inhibitor,CHEMBL3188551,CHEMBL3145
+INHIBITOR,1,Tyrosine-protein kinase receptor FLT3 inhibitor,CHEMBL1908397,CHEMBL1974
+INHIBITOR,2,Serine/threonine-protein kinase AKT inhibitor,CHEMBL4871106,CHEMBL4282
+INHIBITOR,2,Cyclin-dependent kinase 1 inhibitor,CHEMBL384304,CHEMBL308
+INHIBITOR,1,Cyclin-dependent kinase 1 inhibitor,CHEMBL3545083,CHEMBL308
+INHIBITOR,1,PI3-kinase p110-beta subunit inhibitor,CHEMBL3112866,CHEMBL3145
+INHIBITOR,1,Serine/threonine-protein kinase AKT inhibitor,CHEMBL245030,CHEMBL4282
+INHIBITOR,2,Cyclin-dependent kinase 1 inhibitor,CHEMBL1944698,CHEMBL308
+INHIBITOR,2,Tyrosine-protein kinase receptor FLT3 inhibitor,CHEMBL1944698,CHEMBL1974
+INHIBITOR,1,Tyrosine-protein kinase receptor FLT3 inhibitor,CHEMBL1980391,CHEMBL1974
+INHIBITOR,1,Tyrosine-protein kinase receptor FLT3 inhibitor,CHEMBL6067987,CHEMBL1974
+INHIBITOR,2,Tyrosine-protein kinase receptor FLT3 inhibitor,CHEMBL4790100,CHEMBL1974
+INHIBITOR,2,Tyrosine-protein kinase receptor FLT3 inhibitor,CHEMBL495727,CHEMBL1974
+INHIBITOR,2,Tyrosine-protein kinase receptor FLT3 inhibitor,CHEMBL338604,CHEMBL1974
+INHIBITOR,2,c-Jun N-terminal kinase 1 inhibitor,CHEMBL1614713,CHEMBL2276
+INHIBITOR,2,c-Jun N-terminal kinase 1 inhibitor,CHEMBL1950289,CHEMBL2276
+INHIBITOR,3,Tyrosine-protein kinase receptor FLT3 inhibitor,CHEMBL2105728,CHEMBL1974
+INHIBITOR,2,Cyclin-dependent kinase 1 inhibitor,CHEMBL14762,CHEMBL308
+INHIBITOR,2,Mitogen-activated protein kinase kinase kinase 1 inhibitor,CHEMBL1097999,CHEMBL3956
+INHIBITOR,2,Tyrosine-protein kinase receptor FLT3 inhibitor,CHEMBL482968,CHEMBL1974
+INHIBITOR,2,Tyrosine-protein kinase receptor FLT3 inhibitor,CHEMBL1230609,CHEMBL1974
+INHIBITOR,2,Protein kinase C delta inhibitor,CHEMBL2107872,CHEMBL2996
+INHIBITOR,2,Tyrosine-protein kinase receptor FLT3 inhibitor,CHEMBL124660,CHEMBL1974
+INHIBITOR,2,Tyrosine-protein kinase receptor FLT3 inhibitor,CHEMBL2103851,CHEMBL1974
+INHIBITOR,2,Cyclin-dependent kinase 1 inhibitor,CHEMBL3545283,CHEMBL308
+INHIBITOR,2,Cyclin-dependent kinase 1 inhibitor,CHEMBL564829,CHEMBL308
+INHIBITOR,4,Tyrosine-protein kinase receptor FLT3 inhibitor,CHEMBL3813873,CHEMBL1974
+INHIBITOR,3,Tyrosine-protein kinase receptor FLT3 inhibitor,CHEMBL1278146,CHEMBL1974
+INHIBITOR,2,Tyrosine-protein kinase receptor FLT3 inhibitor,CHEMBL5314391,CHEMBL1974
+INHIBITOR,4,Tyrosine-protein kinase receptor FLT3 inhibitor,CHEMBL3301622,CHEMBL1974
+INHIBITOR,3,Tyrosine-protein kinase receptor FLT3 inhibitor,CHEMBL223360,CHEMBL1974
+INHIBITOR,4,Tyrosine-protein kinase receptor FLT3 inhibitor,CHEMBL576982,CHEMBL1974
+INHIBITOR,3,Tyrosine-protein kinase receptor FLT3 inhibitor,CHEMBL603469,CHEMBL1974
+INHIBITOR,3,Cyclin-dependent kinase 1 inhibitor,CHEMBL428690,CHEMBL308
+INHIBITOR,3,Cyclin-dependent kinase 1 inhibitor,CHEMBL2103840,CHEMBL308
+INHIBITOR,4,Tyrosine-protein kinase receptor FLT3 inhibitor,CHEMBL608533,CHEMBL1974
+INHIBITOR,4,Tyrosine-protein kinase receptor FLT3 inhibitor,CHEMBL1287853,CHEMBL1974
+INHIBITOR,4,Tyrosine-protein kinase receptor FLT3 inhibitor,CHEMBL2035187,CHEMBL1974
+INHIBITOR,3,Tyrosine-protein kinase receptor FLT3 inhibitor,CHEMBL522892,CHEMBL1974
+INHIBITOR,1,Tyrosine-protein kinase receptor FLT3 inhibitor,CHEMBL2109328,CHEMBL1974
+INHIBITOR,4,Tyrosine-protein kinase receptor FLT3 inhibitor,CHEMBL3301603,CHEMBL1974
+INHIBITOR,4,Tyrosine-protein kinase receptor FLT3 inhibitor,CHEMBL3989973,CHEMBL1974
+INHIBITOR,4,Tyrosine-protein kinase receptor FLT3 inhibitor,CHEMBL4297216,CHEMBL1974
+INHIBITOR,3,Tyrosine-protein kinase receptor FLT3 inhibitor,CHEMBL3678958,CHEMBL1974
+INHIBITOR,2,Tyrosine-protein kinase receptor FLT3 inhibitor,CHEMBL3984441,CHEMBL1974
+INHIBITOR,1,Tyrosine-protein kinase receptor FLT3 inhibitor,CHEMBL4650283,CHEMBL1974
+INHIBITOR,1,Tyrosine-protein kinase receptor FLT3 inhibitor,CHEMBL4650288,CHEMBL1974
+INHIBITOR,4,Tyrosine-protein kinase receptor FLT3 inhibitor,CHEMBL5095049,CHEMBL1974
+INHIBITOR,4,Tyrosine-protein kinase receptor FLT3 inhibitor,CHEMBL535,CHEMBL1974
+INHIBITOR,4,Tyrosine-protein kinase receptor FLT3 inhibitor,CHEMBL2105709,CHEMBL1974
+INHIBITOR,3,Dual specificity tyrosine-phosphorylation-regulated kinase 1A inhibitor,CHEMBL4297639,CHEMBL2292
+INHIBITOR,4,Receptor protein-tyrosine kinase erbB-4 inhibitor,CHEMBL2105712,CHEMBL3009
+INHIBITOR,2,Tyrosine-protein kinase TYK2 inhibitor,CHEMBL4116008,CHEMBL3553
+INHIBITOR,1,Receptor protein-tyrosine kinase erbB-4 inhibitor,CHEMBL1645462,CHEMBL3009
+INHIBITOR,1,Cyclin-dependent kinase 4 inhibitor,CHEMBL3545420,CHEMBL331
+INHIBITOR,1,Serine/threonine-protein kinase Chk1 inhibitor,CHEMBL2041933,CHEMBL4630
+INHIBITOR,1,Cyclin-dependent kinase 7 inhibitor,CHEMBL296468,CHEMBL3055
+INHIBITOR,1,Tyrosine-protein kinase YES inhibitor,CHEMBL3109738,CHEMBL2073
+INHIBITOR,1,Receptor protein-tyrosine kinase erbB-4 inhibitor,CHEMBL3109738,CHEMBL3009
+INHIBITOR,1,Ribosomal protein S6 kinase 1 inhibitor,CHEMBL3545076,CHEMBL4501
+INHIBITOR,1,Serine/threonine-protein kinase Chk1 inhibitor,CHEMBL3545137,CHEMBL4630
+INHIBITOR,2,Cyclin-dependent kinase 4 inhibitor,CHEMBL384304,CHEMBL331
+INHIBITOR,1,Serine/threonine-protein kinase Chk1 inhibitor,CHEMBL5314388,CHEMBL4630
+INHIBITOR,1,Serine/threonine-protein kinase Chk1 inhibitor,CHEMBL3545199,CHEMBL4630
+INHIBITOR,1,Cyclin-dependent kinase 4 inhibitor,CHEMBL3545083,CHEMBL331
+INHIBITOR,1,Cyclin-dependent kinase 5 inhibitor,CHEMBL3545083,CHEMBL4036
+INHIBITOR,1,Cyclin-dependent kinase 7 inhibitor,CHEMBL3545083,CHEMBL3055
+INHIBITOR,2,Serine/threonine-protein kinase Chk1 inhibitor,CHEMBL2386889,CHEMBL4630
+INHIBITOR,2,Cyclin-dependent kinase 7 inhibitor,CHEMBL1944698,CHEMBL3055
+INHIBITOR,1,Serine/threonine-protein kinase Chk1 inhibitor,CHEMBL3544936,CHEMBL4630
+INHIBITOR,4,Cyclin-dependent kinase 4 inhibitor,CHEMBL3894860,CHEMBL331
+INHIBITOR,2,Receptor protein-tyrosine kinase erbB-4 inhibitor,CHEMBL3545396,CHEMBL3009
+INHIBITOR,2,Cyclin-dependent kinase 7 inhibitor,CHEMBL14762,CHEMBL3055
+INHIBITOR,2,Cyclin-dependent kinase 5 inhibitor,CHEMBL14762,CHEMBL4036
+INHIBITOR,2,Serine/threonine-protein kinase Chk1 inhibitor,CHEMBL3039517,CHEMBL4630
+INHIBITOR,4,Cyclin-dependent kinase 4 inhibitor,CHEMBL3301610,CHEMBL331
+INHIBITOR,2,Cyclin-dependent kinase 4 inhibitor,CHEMBL3905910,CHEMBL331
+INHIBITOR,2,Cyclin-dependent kinase 4 inhibitor,CHEMBL3545283,CHEMBL331
+INHIBITOR,2,Cyclin-dependent kinase 4 inhibitor,CHEMBL564829,CHEMBL331
+INHIBITOR,2,Cyclin-dependent kinase 4 inhibitor,CHEMBL574737,CHEMBL331
+INHIBITOR,2,Serine/threonine-protein kinase Chk1 inhibitor,CHEMBL574737,CHEMBL4630
+INHIBITOR,3,Receptor protein-tyrosine kinase erbB-4 inhibitor,CHEMBL545315,CHEMBL3009
+INHIBITOR,3,Cyclin-dependent kinase 4 inhibitor,CHEMBL428690,CHEMBL331
+INHIBITOR,3,Cyclin-dependent kinase 7 inhibitor,CHEMBL428690,CHEMBL3055
+INHIBITOR,4,Cyclin-dependent kinase 4 inhibitor,CHEMBL3545110,CHEMBL331
+INHIBITOR,3,Cyclin-dependent kinase 5 inhibitor,CHEMBL2103840,CHEMBL4036
+INHIBITOR,4,Receptor protein-tyrosine kinase erbB-4 inhibitor,CHEMBL2105719,CHEMBL3009
+INHIBITOR,2,Serine/threonine-protein kinase Chk1 inhibitor,CHEMBL3544911,CHEMBL4630
+INHIBITOR,4,Cyclin-dependent kinase 4 inhibitor,CHEMBL3707266,CHEMBL331
+INHIBITOR,4,Receptor protein-tyrosine kinase erbB-4 inhibitor,CHEMBL2110732,CHEMBL3009
+INHIBITOR,4,Receptor protein-tyrosine kinase erbB-4 inhibitor,CHEMBL180022,CHEMBL3009
+INHIBITOR,4,Receptor protein-tyrosine kinase erbB-4 inhibitor,CHEMBL3989921,CHEMBL3009
+INHIBITOR,3,Tyrosine-protein kinase TYK2 inhibitor,CHEMBL4297477,CHEMBL3553
+INHIBITOR,4,Cyclin-dependent kinase 4 inhibitor,CHEMBL3894860,CHEMBL331
+INHIBITOR,4,Cyclin-dependent kinase 4 inhibitor,CHEMBL4650272,CHEMBL331
+INHIBITOR,2,Tyrosine-protein kinase TYK2 inhibitor,CHEMBL4459585,CHEMBL3553
+NEGATIVE ALLOSTERIC MODULATOR,4,Tyrosine-protein kinase TYK2 negative allosteric modulator,CHEMBL4435170,CHEMBL3553
+INHIBITOR,4,Tyrosine-protein kinase TYK2 inhibitor,CHEMBL3301607,CHEMBL3553
+INHIBITOR,4,Tyrosine-protein kinase TYK2 inhibitor,CHEMBL4298167,CHEMBL3553
+INHIBITOR,4,Tyrosine-protein kinase TYK2 inhibitor,CHEMBL5315119,CHEMBL3553
+INHIBITOR,4,Tyrosine-protein kinase TYK2 inhibitor,CHEMBL4594382,CHEMBL3553
+INHIBITOR,2,Serine/threonine-protein kinase Aurora-A inhibitor,CHEMBL52885,CHEMBL4722
+INHIBITOR,3,Serine-protein kinase ATR inhibitor,CHEMBL4285417,CHEMBL5024
+INHIBITOR,1,Serine/threonine-protein kinase Aurora-C inhibitor,CHEMBL1090479,CHEMBL3935
+INHIBITOR,1,Serine/threonine-protein kinase Aurora-A inhibitor,CHEMBL1908397,CHEMBL4722
+INHIBITOR,1,Serine/threonine-protein kinase Aurora-A inhibitor,CHEMBL3600873,CHEMBL4722
+INHIBITOR,1,Serine/threonine-protein kinase Aurora-A inhibitor,CHEMBL259084,CHEMBL4722
+INHIBITOR,1,Serine/threonine-protein kinase Aurora-A inhibitor,CHEMBL4289017,CHEMBL4722
+INHIBITOR,1,Serine/threonine-protein kinase Aurora-A inhibitor,CHEMBL3692206,CHEMBL4722
+INHIBITOR,2,Serine-protein kinase ATR inhibitor,CHEMBL3989870,CHEMBL5024
+INHIBITOR,1,Serine/threonine-protein kinase Aurora-A inhibitor,CHEMBL1980391,CHEMBL4722
+INHIBITOR,1,Serine/threonine-protein kinase PLK4 inhibitor,CHEMBL1980391,CHEMBL3788
+INHIBITOR,2,Serine/threonine-protein kinase Aurora-A inhibitor,CHEMBL495727,CHEMBL4722
+INHIBITOR,2,Serine/threonine-protein kinase Aurora-A inhibitor,CHEMBL482968,CHEMBL4722
+INHIBITOR,3,Serine/threonine-protein kinase Aurora-A inhibitor,CHEMBL483158,CHEMBL4722
+INHIBITOR,2,Interleukin-1 receptor-associated kinase 4 inhibitor,CHEMBL4081711,CHEMBL3778
+INHIBITOR,2,Serine/threonine-protein kinase PLK4 inhibitor,CHEMBL3408947,CHEMBL3788
+INHIBITOR,1,Serine-protein kinase ATR inhibitor,CHEMBL4650286,CHEMBL5024
+INHIBITOR,1,Serine-protein kinase ATR inhibitor,CHEMBL4647810,CHEMBL5024
+INHIBITOR,2,Serine/threonine-protein kinase PLK4 inhibitor,CHEMBL4297462,CHEMBL3788
+INHIBITOR,4,Interleukin-1 receptor-associated kinase 1 inhibitor,CHEMBL5095049,CHEMBL3357
+INHIBITOR,4,Tyrosine-protein kinase FRK inhibitor,CHEMBL1946170,CHEMBL4223
+INHIBITOR,4,Tyrosine-protein kinase BRK inhibitor,CHEMBL24828,CHEMBL4601
+INHIBITOR,2,Dual specificity protein kinase TTK inhibitor,CHEMBL4303241,CHEMBL3983
+INHIBITOR,3,Mitogen-activated protein kinase kinase kinase 5 inhibitor,CHEMBL3916717,CHEMBL5285
+INHIBITOR,1,Dual specificity protein kinase TTK inhibitor,CHEMBL4456085,CHEMBL3983
+INHIBITOR,3,Dual specificity protein kinase CLK2 inhibitor,CHEMBL4297639,CHEMBL4225
+INHIBITOR,4,Tyrosine-protein kinase receptor RET inhibitor,CHEMBL1946170,CHEMBL2041
+INHIBITOR,4,Tyrosine-protein kinase receptor RET inhibitor,CHEMBL1200485,CHEMBL2041
+INHIBITOR,4,Tyrosine-protein kinase receptor RET inhibitor,CHEMBL1567,CHEMBL2041
+INHIBITOR,4,Tyrosine-protein kinase receptor RET inhibitor,CHEMBL24828,CHEMBL2041
+INHIBITOR,4,Tyrosine-protein kinase BTK inhibitor,CHEMBL1873475,CHEMBL5251
+INHIBITOR,4,Tyrosine-protein kinase receptor RET inhibitor,CHEMBL3707320,CHEMBL2041
+INHIBITOR,1,Tyrosine-protein kinase receptor RET inhibitor,CHEMBL574738,CHEMBL2041
+INHIBITOR,2,Tyrosine-protein kinase BTK inhibitor,CHEMBL3301600,CHEMBL5251
+INHIBITOR,2,Tyrosine-protein kinase receptor RET inhibitor,CHEMBL2029988,CHEMBL2041
+INHIBITOR,2,Tyrosine-protein kinase BTK inhibitor,CHEMBL4163691,CHEMBL5251
+INHIBITOR,1,Cell division cycle 7-related protein kinase inhibitor,CHEMBL3545321,CHEMBL5443
+INHIBITOR,4,Tyrosine-protein kinase BTK inhibitor,CHEMBL4071161,CHEMBL5251
+INHIBITOR,1,Serine/threonine-protein kinase PAK 4 inhibitor,CHEMBL3128043,CHEMBL4482
+INHIBITOR,1,Tyrosine-protein kinase receptor RET inhibitor,CHEMBL6067987,CHEMBL2041
+INHIBITOR,1,Cell division cycle 7-related protein kinase inhibitor,CHEMBL3545090,CHEMBL5443
+INHIBITOR,1,Tyrosine-protein kinase BTK inhibitor,CHEMBL3545193,CHEMBL5251
+INHIBITOR,2,Cell division cycle 7-related protein kinase inhibitor,CHEMBL3544944,CHEMBL5443
+INHIBITOR,4,Tyrosine-protein kinase receptor RET inhibitor,CHEMBL576982,CHEMBL2041
+INHIBITOR,3,Tyrosine-protein kinase receptor RET inhibitor,CHEMBL603469,CHEMBL2041
+INHIBITOR,3,Tyrosine-protein kinase receptor RET inhibitor,CHEMBL572881,CHEMBL2041
+INHIBITOR,4,Tyrosine-protein kinase BTK inhibitor,CHEMBL3707348,CHEMBL5251
+INHIBITOR,4,Tyrosine-protein kinase BTK inhibitor,CHEMBL3936761,CHEMBL5251
+INHIBITOR,4,Tyrosine-protein kinase receptor RET inhibitor,CHEMBL4559134,CHEMBL2041
+INHIBITOR,4,Tyrosine-protein kinase receptor RET inhibitor,CHEMBL4582651,CHEMBL2041
+INHIBITOR,2,Tyrosine-protein kinase BTK inhibitor,CHEMBL4297674,CHEMBL5251
+INHIBITOR,2,Tyrosine-protein kinase BTK inhibitor,CHEMBL3900554,CHEMBL5251
+INHIBITOR,3,Tyrosine-protein kinase BTK inhibitor,CHEMBL4072833,CHEMBL5251
+INHIBITOR,2,Tyrosine-protein kinase BTK inhibitor,CHEMBL4594348,CHEMBL5251
+INHIBITOR,3,Tyrosine-protein kinase BTK inhibitor,CHEMBL4065122,CHEMBL5251
+INHIBITOR,2,Tyrosine-protein kinase BTK inhibitor,CHEMBL4163691,CHEMBL5251
+INHIBITOR,3,Tyrosine-protein kinase BTK inhibitor,CHEMBL3702854,CHEMBL5251
+INHIBITOR,3,Tyrosine-protein kinase BTK inhibitor,CHEMBL4297866,CHEMBL5251
+INHIBITOR,3,Tyrosine-protein kinase BTK inhibitor,CHEMBL4297865,CHEMBL5251
+INHIBITOR,2,Tyrosine-protein kinase BTK inhibitor,CHEMBL4297640,CHEMBL5251
+INHIBITOR,2,Tyrosine-protein kinase receptor RET inhibitor,CHEMBL4650296,CHEMBL2041
+INHIBITOR,3,Tyrosine-protein kinase BTK inhibitor,CHEMBL4650321,CHEMBL5251
+INHIBITOR,4,Tyrosine-protein kinase BTK inhibitor,CHEMBL4650485,CHEMBL5251
+INHIBITOR,2,Cell division cycle 7-related protein kinase inhibitor,CHEMBL4297644,CHEMBL5443
+INHIBITOR,2,Tyrosine-protein kinase BTK inhibitor,CHEMBL4650338,CHEMBL5251
+INHIBITOR,3,Tyrosine-protein kinase BTK inhibitor,CHEMBL4650323,CHEMBL5251
+INHIBITOR,4,Tyrosine-protein kinase BTK inhibitor,CHEMBL4594293,CHEMBL5251
+INHIBITOR,4,Tyrosine-protein kinase receptor RET inhibitor,CHEMBL535,CHEMBL2041
+INHIBITOR,4,ALK tyrosine kinase receptor inhibitor,CHEMBL601719,CHEMBL4247
+INHIBITOR,4,Serine/threonine-protein kinase B-raf inhibitor,CHEMBL2105729,CHEMBL5145
+INHIBITOR,4,Serine/threonine-protein kinase B-raf inhibitor,CHEMBL1946170,CHEMBL5145
+INHIBITOR,4,Serine/threonine-protein kinase B-raf inhibitor,CHEMBL1200485,CHEMBL5145
+INHIBITOR,4,Serine/threonine-protein kinase B-raf inhibitor,CHEMBL1229517,CHEMBL5145
+INHIBITOR,4,ALK tyrosine kinase receptor inhibitor,CHEMBL2403108,CHEMBL4247
+INHIBITOR,4,ALK tyrosine kinase receptor inhibitor,CHEMBL3707320,CHEMBL4247
+INHIBITOR,1,Serine/threonine-protein kinase B-raf inhibitor,CHEMBL5314407,CHEMBL5145
+INHIBITOR,1,ALK tyrosine kinase receptor inhibitor,CHEMBL3545360,CHEMBL4247
+INHIBITOR,2,Serine/threonine-protein kinase B-raf inhibitor,CHEMBL4209157,CHEMBL5145
+INHIBITOR,2,Serine/threonine-protein kinase B-raf inhibitor,CHEMBL2029988,CHEMBL5145
+INHIBITOR,1,ALK tyrosine kinase receptor inhibitor,CHEMBL3951811,CHEMBL4247
+INHIBITOR,1,Serine/threonine-protein kinase B-raf inhibitor,CHEMBL3545263,CHEMBL5145
+INHIBITOR,1,Serine/threonine-protein kinase B-raf inhibitor,CHEMBL3577124,CHEMBL5145
+INHIBITOR,2,Serine/threonine-protein kinase B-raf inhibitor,CHEMBL4303729,CHEMBL5145
+INHIBITOR,1,Serine/threonine-protein kinase B-raf inhibitor,CHEMBL3545080,CHEMBL5145
+INHIBITOR,4,ALK tyrosine kinase receptor inhibitor,CHEMBL4113131,CHEMBL4247
+INHIBITOR,1,Tyrosine-protein kinase receptor UFO inhibitor,CHEMBL3545236,CHEMBL4895
+INHIBITOR,4,ALK tyrosine kinase receptor inhibitor,CHEMBL3545311,CHEMBL4247
+INHIBITOR,2,Serine/threonine-protein kinase WEE1 inhibitor,CHEMBL1976040,CHEMBL5491
+INHIBITOR,2,Serine/threonine-protein kinase B-raf inhibitor,CHEMBL558752,CHEMBL5145
+INHIBITOR,2,Serine/threonine-protein kinase B-raf inhibitor,CHEMBL3545027,CHEMBL5145
+INHIBITOR,4,Tyrosine-protein kinase receptor UFO inhibitor,CHEMBL3301622,CHEMBL4895
+INHIBITOR,2,Tyrosine-protein kinase receptor UFO inhibitor,CHEMBL3809489,CHEMBL4895
+INHIBITOR,4,Serine/threonine-protein kinase B-raf inhibitor,CHEMBL3301612,CHEMBL5145
+INHIBITOR,4,ALK tyrosine kinase receptor inhibitor,CHEMBL3286830,CHEMBL4247
+INHIBITOR,4,Tyrosine-protein kinase receptor UFO inhibitor,CHEMBL3301603,CHEMBL4895
+INHIBITOR,4,ALK tyrosine kinase receptor inhibitor,CHEMBL1983268,CHEMBL4247
+INHIBITOR,1,ALK tyrosine kinase receptor inhibitor,CHEMBL4650298,CHEMBL4247
+INHIBITOR,1,ALK tyrosine kinase receptor inhibitor,CHEMBL3899477,CHEMBL4247
+INHIBITOR,2,Tyrosine-protein kinase receptor UFO inhibitor,CHEMBL3984441,CHEMBL4895
+INHIBITOR,2,Mitogen-activated protein kinase kinase kinase 8 inhibitor,CHEMBL4802154,CHEMBL4899
+INHIBITOR,2,Serine/threonine-protein kinase WEE1 inhibitor,CHEMBL5095036,CHEMBL5491
+INHIBITOR,1,Tyrosine-protein kinase receptor Tie-1 inhibitor,CHEMBL3545300,CHEMBL5274
+INHIBITOR,2,Proto-oncogene tyrosine-protein kinase MER inhibitor,CHEMBL3984441,CHEMBL5331
+INHIBITOR,3,Protein tyrosine kinase 2 beta inhibitor,CHEMBL3137331,CHEMBL5469
+INHIBITOR,4,Proto-oncogene tyrosine-protein kinase ROS inhibitor,CHEMBL1983268,CHEMBL5568
+INHIBITOR,1,Protein tyrosine kinase 2 beta inhibitor,CHEMBL3899477,CHEMBL5469
+INHIBITOR,2,Proto-oncogene tyrosine-protein kinase ROS inhibitor,CHEMBL4650989,CHEMBL5568
+INHIBITOR,2,Receptor-interacting serine/threonine-protein kinase 1 inhibitor,CHEMBL4071864,CHEMBL5464
+INHIBITOR,4,Proto-oncogene tyrosine-protein kinase ROS inhibitor,CHEMBL4298138,CHEMBL5568
+INHIBITOR,4,Proto-oncogene tyrosine-protein kinase ROS inhibitor,CHEMBL601719,CHEMBL5568
+INHIBITOR,2,Receptor tyrosine-protein kinase erbB-3 inhibitor,CHEMBL2408045,CHEMBL5838
+INHIBITOR,3,Receptor tyrosine-protein kinase erbB-3 inhibitor,CHEMBL2109406,CHEMBL5838
+ANTAGONIST,2,Receptor tyrosine-protein kinase erbB-3 antagonist,CHEMBL3545071,CHEMBL5838
+INHIBITOR,2,Receptor tyrosine-protein kinase erbB-3 inhibitor,CHEMBL2109396,CHEMBL5838
+INHIBITOR,2,Receptor tyrosine-protein kinase erbB-3 inhibitor,CHEMBL3137345,CHEMBL5838
+INHIBITOR,2,Receptor tyrosine-protein kinase erbB-3 inhibitor,CHEMBL3545071,CHEMBL5838
+INHIBITOR,2,Receptor tyrosine-protein kinase erbB-3 inhibitor,CHEMBL3707404,CHEMBL5838
+INHIBITOR,1,Receptor tyrosine-protein kinase erbB-3 inhibitor,CHEMBL2109401,CHEMBL5838
+INHIBITOR,2,Receptor tyrosine-protein kinase erbB-3 inhibitor,CHEMBL4298013,CHEMBL5838
+INHIBITOR,2,Receptor tyrosine-protein kinase erbB-3 inhibitor,CHEMBL3989990,CHEMBL5838
+INHIBITOR,2,Receptor tyrosine-protein kinase erbB-3 inhibitor,CHEMBL4650292,CHEMBL5838
+INHIBITOR,1,Serine/threonine-protein kinase A-Raf inhibitor,CHEMBL3577124,CHEMBL1169596
+INHIBITOR,3,Mitogen-activated protein kinase kinase kinase 13 inhibitor,CHEMBL290352,CHEMBL1163124
+INHIBITOR,3,Mitogen-activated protein kinase kinase kinase 12 inhibitor,CHEMBL290352,CHEMBL1908389
+INHIBITOR,2,1-phosphatidylinositol 3-phosphate 5-kinase inhibitor,CHEMBL4297643,CHEMBL1938222
+INHIBITOR,2,1-phosphatidylinositol 3-phosphate 5-kinase inhibitor,CHEMBL6067997,CHEMBL1938222
+INHIBITOR,3,Inactive tyrosine-protein kinase transmembrane receptor ROR1 inhibitor,CHEMBL4297728,CHEMBL4665585
+INHIBITOR,2,Myristoylated alanine-rich C-kinase substrate inhibitor,CHEMBL4297701,CHEMBL4804244
